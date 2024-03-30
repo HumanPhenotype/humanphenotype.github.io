@@ -328,3 +328,9 @@ Lastly when the target is still not down and out, the physical attacks are rampe
 
 ## - <a href="https://opentextnn.ru/old/man/index.html@id=4019"> Беттельгейм Бруно. Просвещенное сердце (Ссылка) </a>
 <a href="https://opentextnn.ru/old/man/index.html@id=4019"> <img src="44.jpg">  </a>
+
+Управление перспективных исследовательских проектов Министерства обороны США (Defense Advanced Research Projects Agency, DARPA) разместило заявку на технологии защиты военных от когнитивных атак, проводимых через очки смешанной реальности. Согласно запросу ведомства, пользователи очков, способных визуализировать контекстуальную информацию, уязвимы для тактических информационных угроз, таких как подмена данных, ложные сигналы тревоги, ухудшение физического состояния через увеличение задержек между движением и реакцией оборудования, кража данных о бойцах с датчиков устройств и ложные объекты в поле зрения.
+
+## - <a href="https://www.darpa.mil/program/intrinsic-cognitive-security"> Программа Внутренней когнитивной безопасности (Intrinsic Cognitive Security, ICS) </a>
+
+<a href="https://opentextnn.ru/old/man/index.html@id=4019"> <img src="44.jpg">  </a>
