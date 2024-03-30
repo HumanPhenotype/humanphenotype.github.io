@@ -59,7 +59,7 @@ Lastly when the target is still not down and out, the physical attacks are rampe
     <img alt="targeting" width="100%" src="2.jpg">
 </div>
 
-## - <span style="color:green;"> ГОСТ Р 43.0.3-2009 </span>
+##<span style="color:green;"> - ГОСТ Р 43.0.3-2009 </span>
 Группа П85
 НАЦИОНАЛЬНЫЙ СТАНДАРТ РОССИЙСКОЙ ФЕДЕРАЦИИ
 Информационное обеспечение техники и операторской деятельности
