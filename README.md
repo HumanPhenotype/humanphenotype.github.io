@@ -22,6 +22,10 @@ The psychological trauma is caused by the extreme interrogation and propaganda t
 
 The cognitive damage is apparent in many cases, as targeted individuals report having the feeling that part of their brain has been turned off - not being able to concentrate, read, write, work or even communicate. Or they report feeling extremely lethargic for no reason. It could be that they report their breathing is artificially impeded causing lightheadedness and a host of other side-effects. Some report bouts of racing heart or the opposite: the sensation of near stopping of the pulse.  None of this is a recipe for good cognitive health - nor physical well-being. 
 
+<div style="border-style: solid; border-width: thin; border-color: lightgrey;" align="center" width="100%"> 
+    <img alt="targeting" width="100%" src="2.jpg">
+</div>
+
 ### Knock-Out
 
 In some cases the weapons are apparently set to a "stun" mode - there are many reports of people being knocked out for a period of time, experiencing something akin to an electric shock. Other times different signals or modulations are used and people report becoming extremely agitated and anxious - or extremely paranoid, so much so that fleeing one's house seems like a good option.
