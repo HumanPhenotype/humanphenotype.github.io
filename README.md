@@ -3,7 +3,7 @@
     ::-webkit-scrollbar{width:0px;}
 </style>
 
-## - Синтетическая телепатия это Радио-Мозг-Компьютер-Интерфейс-Распознавание-Намерения-Кость-Проводимость (РМКИ-РНКП)
+## <span style="color:violet;"> - Синтетическая телепатия это Радио-Мозг-Компьютер-Интерфейс-Распознавание-Намерения-Кость-Проводимость (РМКИ-РНКП) </span>
 <iframe style="width:100%;height:35vh;border:0;" src="https://www.youtube.com/embed/RRbppibf_XE?si=RSWlBuFbG7afH0UD"></iframe>
 
 ## <span style="color:green;">- Syntetic Teleparty this is Radio-Brain-Computer-Interface-Recognition-Intents-Bone-Conduction (RBCI-RIBC)</span>
