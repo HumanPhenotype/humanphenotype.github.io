@@ -3,9 +3,9 @@
     ::-webkit-scrollbar{width:0px;}
 </style>
 
-## - Syntetic Teleparty this is Radio-Brain-Computer-Interface-Recognition-Intents-Bone-Conduction (RBCI-RIBC)
-
 ## - Синтетическая телепатия это Радио-Мозг-Компьютер-Интерфейс-Распознавание-Намерения-Кость-Проводимость (РМКИ-РНКП)
+
+## - Syntetic Teleparty this is Radio-Brain-Computer-Interface-Recognition-Intents-Bone-Conduction (RBCI-RIBC)
 
 ## - Directed Energy Weapons Used On Citizens
 
