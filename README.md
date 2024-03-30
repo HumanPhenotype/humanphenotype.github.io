@@ -330,3 +330,4 @@ Lastly when the target is still not down and out, the physical attacks are rampe
 - Слом последних морально-нравственных принципов, так называемой последней черты.
 
 ## - <a href="https://opentextnn.ru/old/man/index.html@id=4019"> Беттельгейм Бруно. Просвещенное сердце </a>
+<img src="https://cepbep.github.io/DNA/img/44.jpg" style="background-color:black;">
