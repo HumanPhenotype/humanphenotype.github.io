@@ -251,3 +251,8 @@ Lastly when the target is still not down and out, the physical attacks are rampe
 СЧИМ - система "человек - информация - машина";
 
 ЯзОД - язык операторской деятельности.
+
+
+<a target="blank" href="https://www.youtube.com/watch?v=BXNvKTtx1o4">
+<img src="0.jpg"/>
+ </a> 
