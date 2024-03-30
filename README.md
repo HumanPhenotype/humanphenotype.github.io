@@ -2,7 +2,6 @@
     body{background-color: black;color: white;}
     ::-webkit-scrollbar{width:0px;}
 </style>
-
 ## - Directed Energy Weapons Used On Citizens
 
 **In the past three decades, directed energy weapons have made their way from their military industrial origins into the global telecommunication systems (LTE/5G-NR), integrated into beamforming- and steering phased array radar and MIMO transmitters.**
