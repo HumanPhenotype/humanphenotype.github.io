@@ -123,6 +123,10 @@ Lastly when the target is still not down and out, the physical attacks are rampe
 
 ## - ГОСТ Р 43.0.2-2006, статья А.2 (приложение А)
 
+<div style="border-style: solid; border-width: thin; border-color: lightgrey;" align="center" width="100%"> 
+    <img alt="targeting" width="100%" src="E.jpg">
+</div>
+
 - 3.29 пикториально-аудиальное представление технических сведений: Представление сведений в картинном и речезвуковом виде.
 
 - 3.30 полисемантические знаки: Эталонные знаки, по исполнению представленные в виде обособленных контекстно объединенных семантических фрагментов сведений.
@@ -161,10 +165,6 @@ Lastly when the target is still not down and out, the physical attacks are rampe
 
 ## - ГОСТ Р 43.0.2-2006, статья А.11 (приложение А)
 
-<div style="border-style: solid; border-width: thin; border-color: lightgrey;" align="center" width="100%"> 
-    <img alt="targeting" width="100%" src="E.jpg">
-</div>
-
 - 3.47 синестезия: (В психике личности.) Психоинформационное ассоциативное взаимодействие, устанавливающее в мышлении субъекта (оператора) межчувственные связи.
 
 - 3.48 социум-значимые знания: Знания, относящиеся к приобретенным социумом.
@@ -198,6 +198,10 @@ Lastly when the target is still not down and out, the physical attacks are rampe
 - 3.60 экстериориз: Мыслительная деятельность оператора, направленная на обеспечение перехода информационного состояния его мышления во внешние практические действия.
 
 - 3.61 эргатическая информационная деятельность: Информационная деятельность, обеспечивающая практическое взаимодействие оператора с окружающей средой.
+
+<div style="border-style: solid; border-width: thin; border-color: lightgrey;" align="center" width="100%"> 
+    <img alt="targeting" width="100%" src="EE.jpg">
+</div>
 
 4 Сокращения
 
@@ -256,9 +260,7 @@ Lastly when the target is still not down and out, the physical attacks are rampe
 - СЧИМ - система "человек - информация - машина";
 
 - ЯзОД - язык операторской деятельности.
-<div style="border-style: solid; border-width: thin; border-color: lightgrey;" align="center" width="100%"> 
-    <img alt="targeting" width="100%" src="EE.jpg">
-</div>
+
 
 <a target="blank" href="https://www.youtube.com/watch?v=BXNvKTtx1o4">
 <img src="1.jpg"/>
