@@ -1,5 +1,5 @@
 <style>
-    body {background-color: black;color: white;}
+    body{background-color: black;color: white;}
     ::-webkit-scrollbar{width:0px;}
 </style>
 
