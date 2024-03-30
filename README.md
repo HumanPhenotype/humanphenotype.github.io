@@ -316,4 +316,4 @@ Lastly when the target is still not down and out, the physical attacks are rampe
 
 Формирование управляемой толпы посредством серии манипуляций становится ключевым инструментом процесса легитимизации и делегитимизации властных институтов в современном мире.
 
-<img src="https://cepbep.github.io/DNA/img/3.png"/>
+<img src="https://cepbep.github.io/DNA/img/3.png" style="background-color:black;">
