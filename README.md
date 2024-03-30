@@ -3,10 +3,11 @@
     ::-webkit-scrollbar{width:0px;}
 </style>
 
- ## - Syntetic Teleparty this is Radio-Brain-Computer-Interface-Recognition-Intents-Bone-Conduction (RBCI-RIBC)
- ## - Синтетическая телепатия это Радио-Мозг-Компьютер-Интерфейс-Распознавание-Намерения-Кость-Проводимость (РМКИ-РНКП)
+## - Syntetic Teleparty this is Radio-Brain-Computer-Interface-Recognition-Intents-Bone-Conduction (RBCI-RIBC)
 
- ## - Directed Energy Weapons Used On Citizens
+## - Синтетическая телепатия это Радио-Мозг-Компьютер-Интерфейс-Распознавание-Намерения-Кость-Проводимость (РМКИ-РНКП)
+
+## - Directed Energy Weapons Used On Citizens
 
 **In the past three decades, directed energy weapons have made their way from their military industrial origins into the global telecommunication systems (LTE/5G-NR), integrated into beamforming- and steering phased array radar and MIMO transmitters.**
 
