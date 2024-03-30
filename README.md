@@ -316,7 +316,7 @@ Lastly when the target is still not down and out, the physical attacks are rampe
 <img src="4.jpg"/>
  </a>
 
-Манипулятор для управления толпой использует её 
+Манипулятор для управления толпой использует
 - социальные, 
 - религиозные, 
 - культурные, 
