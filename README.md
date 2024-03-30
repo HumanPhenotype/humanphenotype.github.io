@@ -42,9 +42,6 @@ When that first phase fails, the program switches to pulling targeted individual
 
 Lastly when the target is still not down and out, the physical attacks are ramped up and the psychological attacks become more opportunistic - waiting for a moment when the target is open to suggestion, fatigued, had too much to drink or other compromising states. And then it lashes out - hard. It becomes a war of attrition that the target usually loses.
 
-## Our Mission
-
-**It is our mission to conclusively prove the use of these weapons on civilians, to do that well enough to have the results accepted with scientific rigor, and to finally hold those behind the attacks accountable for their heinous crimes against humanity.**
 
 <div style="border-style: solid; border-width: thin; border-color: lightgrey;" align="center" width="100%"> 
     <img alt="targeting" width="100%" src="https://raw.githubusercontent.com/subliminalindustries/.github/main/profile/assets/mission.png">
