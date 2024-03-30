@@ -333,4 +333,4 @@ Lastly when the target is still not down and out, the physical attacks are rampe
 
 ## - <a href="https://www.darpa.mil/program/intrinsic-cognitive-security"> Программа Внутренней когнитивной безопасности (Intrinsic Cognitive Security, ICS) </a>
 
-<a href="https://opentextnn.ru/old/man/index.html@id=4019"> <img src="44.jpg">  </a>
+<a href="https://www.youtube.com/watch?v=aCkMzorxHdk"> <img src="o.jpg">  </a>
