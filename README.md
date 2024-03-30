@@ -8,7 +8,7 @@
 
 ## <span style="color:green;">- Syntetic Teleparty this is Radio-Brain-Computer-Interface-Recognition-Intents-Bone-Conduction (RBCI-RIBC)</span>
 
-## - Directed Energy Weapons Used On Citizens
+## <span style="color:orange;">- Directed Energy Weapons Used On Citizens</span>
 
 **In the past three decades, directed energy weapons have made their way from their military industrial origins into the global telecommunication systems (LTE/5G-NR), integrated into beamforming- and steering phased array radar and MIMO transmitters.**
 
