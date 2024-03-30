@@ -203,8 +203,6 @@ Lastly when the target is still not down and out, the physical attacks are rampe
     <img alt="targeting" width="100%" src="EE.jpg">
 </div>
 
-4 Сокращения
-
 ## - В настоящем стандарте применены следующие сокращения:
 
 - ГИ - гибридный интеллект;
