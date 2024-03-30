@@ -161,6 +161,10 @@ Lastly when the target is still not down and out, the physical attacks are rampe
 
 ## - ГОСТ Р 43.0.2-2006, статья А.11 (приложение А)
 
+<div style="border-style: solid; border-width: thin; border-color: lightgrey;" align="center" width="100%"> 
+    <img alt="targeting" width="100%" src="E.jpg">
+</div>
+
 - 3.47 синестезия: (В психике личности.) Психоинформационное ассоциативное взаимодействие, устанавливающее в мышлении субъекта (оператора) межчувственные связи.
 
 - 3.48 социум-значимые знания: Знания, относящиеся к приобретенным социумом.
