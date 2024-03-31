@@ -2,7 +2,7 @@
     body{background-color: black;color: white;}
     ::-webkit-scrollbar{width:0px;}
 </style>
-# - Культурный Код
+# >_ Культурный Код _
 <iframe style="width:100%;height:35vh;border:0;" src="https://www.youtube.com/embed/zDu9-qhbejA?si=unTse13q0kMFiTqo"></iframe>
 ## Прививание желаемых характеристик другим людям может быть сложным и длительным процессом, который требует терпения, понимания и умения взаимодействовать с индивидуальностями.
 ## Социальное Фенотипирование Окружающей Средой, Религиозное, Культурное.
