@@ -60,7 +60,7 @@ When that first phase fails, the program switches to pulling targeted individual
 
 Lastly when the target is still not down and out, the physical attacks are ramped up and the psychological attacks become more opportunistic - waiting for a moment when the target is open to suggestion, fatigued, had too much to drink or other compromising states. And then it lashes out - hard. It becomes a war of attrition that the target usually loses.
 
-# Depending on the operator's experience, people may not notice him at all all their lives
+# Depending on the level of competence of the operator, people may not notice him at all all their lives
 
 <div style="border-style: solid; border-width: thin; border-color: lightgrey;" align="center" width="100%"> 
     <img alt="targeting" width="100%" src="2.jpg">
@@ -68,7 +68,7 @@ Lastly when the target is still not down and out, the physical attacks are rampe
 
 ## <span style="color:green;"> - ГОСТ Р 43.0.3-2009 </span>
 
-# В зависимости от опыта оператора люди всю жизнь могут вообще его не замечать
+# В зависимости от уровня компетентности оператора люди всю жизнь могут вообще его не замечать
 
 Термины и определения
 
