@@ -2,7 +2,7 @@
     body{background-color: black;color: white;}
     ::-webkit-scrollbar{width:0px;}
 </style>
-
+<iframe style="width:100%;height:35vh;border:0;" src="https://www.youtube.com/embed/HZFNAuSyU6o?si=qlnA3T1_-nqXl2cG"></iframe>
 ## <span style="color:violet;"> - Синтетическая телепатия это Радио-Мозг-Компьютер-Интерфейс-Распознавание-Намерения-Кость-Проводимость (РМКИ-РНКП) </span>
 <iframe style="width:100%;height:35vh;border:0;" src="https://www.youtube.com/embed/RRbppibf_XE?si=RSWlBuFbG7afH0UD"></iframe>
 
