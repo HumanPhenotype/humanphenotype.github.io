@@ -386,4 +386,4 @@ Lastly when the target is still not down and out, the physical attacks are rampe
 
 - Боевой и невербальный гипноз. Искусство коммуникации высокого уровня.
 
-<img src="o.jpg">
+<img src="R.jpg">
