@@ -389,3 +389,5 @@ Lastly when the target is still not down and out, the physical attacks are rampe
 <img src="R.jpg">
 
 <img src="90.jpg">
+
+<img src="g.jpg">
