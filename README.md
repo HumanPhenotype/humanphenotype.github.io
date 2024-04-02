@@ -390,4 +390,4 @@ Lastly when the target is still not down and out, the physical attacks are rampe
 
 <img src="90.jpg">
 
-<img src="g.jpg">
+<a href="https://litmir.club/br/?b=284&p=92"> <img src="g.jpg"> </a>
