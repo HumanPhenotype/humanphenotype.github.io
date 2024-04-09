@@ -19,7 +19,7 @@
 **In the past three decades, directed energy weapons have made their way from their military industrial origins into the global telecommunication systems (LTE/5G-NR), integrated into beamforming- and steering phased array radar and MIMO transmitters.**
 
 <div style="border-style: solid; border-width: thin; border-color: lightgrey;" align="center" width="100%"> 
-    <img alt="targeting" width="100%" src="https://raw.githubusercontent.com/subliminalindustries/.github/main/profile/assets/celltowers.png">
+    <img alt="targeting" width="100%" src="0.jpeg">
 </div>
 
 The use of these and previous/battlefield versions of these weapons on civilians has been reported in many NATO states ("Voice2Skull", "LRAD", "Medusa"), the Russian Federation ("Weapons based on new physical principles"), China ("Neurostrike"), Iraq ("Medusa" & unknown high power DEWs) and a large number of other countries. The number of people reporting severe symptoms mimicking those found in Havana Syndrome accompanied by synthetic schizophrenia and synthetic telepathy (the use of the microwave auditory effect and remote neural monitoring simultaneously) is increasing dramatically on a global scale.
