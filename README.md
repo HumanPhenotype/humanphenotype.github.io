@@ -324,9 +324,9 @@ Lastly when the target is still not down and out, the physical attacks are rampe
  </a>
 
 ## <span style="color:green;">Манипулятор для управления толпой использует</span>
-<span style="color:orange;font-weight: 600;">- Социальные, </span>
-<span style="color:orange;font-weight: 600;">- Религиозные, </span>
-<span style="color:orange;font-weight: 600;">- Культурные, </span>
+<span style="color:orange;font-weight: 600;">- Социальные, </span> <br>
+<span style="color:orange;font-weight: 600;">- Религиозные, </span> <br>
+<span style="color:orange;font-weight: 600;">- Культурные, </span> <br>
 <span style="color:orange;font-weight: 600;">- Этнические и гендерные предпочтения и убеждения, служащие основой общей самоидентификации группы. </span>
  
 Необходимым условием манипуляции служит присутствие образа врага, организующего толпу как целое.
