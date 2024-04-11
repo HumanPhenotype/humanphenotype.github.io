@@ -7,6 +7,7 @@
 <iframe style="width:100%;height:35vh;border:0;" src="https://www.youtube.com/embed/zDu9-qhbejA?si=unTse13q0kMFiTqo"></iframe>
 ## Прививание желаемых характеристик другим людям может быть сложным и длительным процессом, который требует терпения, понимания и умения взаимодействовать с индивидуальностями.
 ## Социальное Фенотипирование Окружающей Средой, Религиозное, Культурное.
+<iframe style="width:100%;height:35vh;border:0;" src="https://www.youtube.com/embed/Eu9XyigzVzo?si=4UXVLUsSwWelobcl"></iframe>
 Этнические, гендерные предпочтения и убеждения, служащие основой общей самоидентификации группы.
 <img src="https://cepbep.github.io/DNA/img/3.png" style="background-color:black;">
 <iframe style="width:100%;height:35vh;border:0;" src="https://www.youtube.com/embed/HZFNAuSyU6o?si=qlnA3T1_-nqXl2cG"></iframe>
