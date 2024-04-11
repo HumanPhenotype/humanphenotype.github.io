@@ -73,7 +73,7 @@ Lastly when the target is still not down and out, the physical attacks are rampe
 
 ## <span style="color:green;"> - ГОСТ Р 43.0.3-2009 </span>
 
-# В зависимости от уровня компетентности оператора люди всю жизнь могут вообще его не замечать
+# <span style="color:orange;">В зависимости от уровня компетентности оператора люди всю жизнь могут вообще его не замечать</span>
 
 Термины и определения
 
