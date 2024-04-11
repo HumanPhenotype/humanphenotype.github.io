@@ -355,13 +355,13 @@ Lastly when the target is still not down and out, the physical attacks are rampe
 
 ## <span style="color:green;">- Патенты США на технологии бесшумной связи включают:</span>
 
-<span style="color:orange;font-weight: 600;">- Патент США </span> <span style="color:orange;font-weight: 600;">6587729 </span>
+<span style="color:orange;font-weight: 600;">- Патент США </span> <span style="color:violet;font-weight: 600;">6587729 </span>
  <span style="color: #4CAF50;font-weight: 600;">«Устройство для звуковой передачи речи с использованием радиочастотного слухового эффекта»,</span> <br>
-<span style="color:orange;font-weight: 600;">- Патент США </span> <span style="color:orange;font-weight: 600;">5159703 </span> 
+<span style="color:orange;font-weight: 600;">- Патент США </span> <span style="color:violet;font-weight: 600;">5159703 </span> 
 <span style="color: #4CAF50;font-weight: 600;">«Система бесшумной подсознательной презентации»,</span> <br>
-<span style="color:orange;font-weight: 600;">- Патент США </span> <span style="color:orange;font-weight: 600;">6011991 </span> 
+<span style="color:orange;font-weight: 600;">- Патент США </span> <span style="color:violet;font-weight: 600;">6011991 </span> 
 <span style="color: #4CAF50;font-weight: 600;">«Коммуникационная система и способ, включающий анализ мозговых волн и/или использование мозговой активности»,</span> <br>
-<span style="color:orange;font-weight: 600;">- Патент США </span> <span style="color:orange;font-weight: 600;">3951134 </span> 
+<span style="color:orange;font-weight: 600;">- Патент США </span> <span style="color:violet;font-weight: 600;">3951134 </span> 
 <span style="color: #4CAF50;font-weight: 600;">«Устройство и способ дистанционного мониторинга и изменения мозговых волн».</span> <br>
 
 <span style="color:green;">Бесшумный речевой интерфейс</span> — это устройство, которое позволяет осуществлять речевое общение без использования звука, издаваемого людьми при озвучивании звуков своей речи. Таким образом, это своего рода электронное чтение по губам . Он работает за счет того, что компьютер идентифицирует фонемы , которые человек произносит, из неслуховых источников информации об их речевых движениях. Затем они используются для воссоздания речи с помощью синтеза речи.
