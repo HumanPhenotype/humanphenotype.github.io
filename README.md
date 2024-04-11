@@ -396,7 +396,7 @@ Lastly when the target is still not down and out, the physical attacks are rampe
 
 <a href="https://litmir.club/br/?b=284&p=92"> <img src="g.jpg"><img src="Y.jpg"><img src="ps.jpg"> </a>
 
-<a href="https://news.rambler.ru/world/48356383-za-chto-madlen-olbrayt-nenavidela-rossiyu/"> <img src="ol1.png"><img src="ol2.png"> </a>
+<a href="https://news.rambler.ru/world/48356383-za-chto-madlen-olbrayt-nenavidela-rossiyu/"> <img src="ol11.png"><img src="ol2.png"> </a>
 
 ### - В начале девяностых годов у меня состоялась встреча с одним довольно специфическим работником ЦРУ. Мы его хорошо приняли, в итоге американец заявил, что для США нет тайны наших атомных подводных ракетоносцев. Будто бы их <span style="color:orange;font-weight: 600;">специально подготовленные экстрасенсы ведут каждую нашу ядерную субмарину, "наблюдая" за действиями экипажа и состоянием стратегического оружия</span>. При этом он предъявил нам доказательства, которые, как это ни парадоксально, действительно подтверждали правоту его слов.
 
