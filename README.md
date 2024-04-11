@@ -330,8 +330,8 @@ Lastly when the target is still not down and out, the physical attacks are rampe
 <span style="color:orange;font-weight: 600;">- Этнические и гендерные предпочтения и убеждения, служащие основой общей самоидентификации группы. </span>
  
 Необходимым условием манипуляции служит <span style="color:violet;font-weight:600;">присутствие образа врага, организующего толпу как целое</span>.
-Легендарный крик толпы: <span style="color:violet;font-weight:600;">«Распни Его!»</span> — служит древнейшим свидетельством формирования управляемой толпы на основе религиозных установок и яркого образа врага.
-Формирование управляемой толпы посредством серии манипуляций становится ключевым инструментом процесса легитимизации и делегитимизации властных институтов в современном мире.
+Легендарный крик толпы: <span style="color:violet;font-weight:600;">«Распни Его!»</span> — служит древнейшим свидетельством формирования <span style="color:violet;font-weight:600;">управляемой толпы</span> на основе религиозных установок и яркого <span style="color:violet;font-weight:600;">образа врага</span>.
+Формирование <span style="color:violet;font-weight:600;">управляемой толпы</span> посредством серии <span style="color:violet;font-weight:600;">манипуляций</span> становится <span style="color:violet;font-weight:600;">ключевым инструментом процесса</span> легитимизации и делегитимизации <span style="color:violet;font-weight:600;">властных институтов</span> в современном мире.
 
 <img src="https://cepbep.github.io/DNA/img/3.png" style="background-color:black;">
 
