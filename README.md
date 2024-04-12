@@ -16,7 +16,7 @@
 <iframe style="width:100%;height:35vh;border:0;" src="https://www.youtube.com/embed/HZFNAuSyU6o?si=qlnA3T1_-nqXl2cG"></iframe>
 ### - <span style="color:orange;font-weight: 600;">Примативность это степень реактивности ответа на внешнюю среду</span>. Чем быстрее ты отвечаешь на воздействие, исходящее из внешней среды, тем выше твоя примативность, <span style="color:orange;font-weight: 600;">тем ближе ты к животному</span>. И чем больше отклик между раздражителем из внешнего мира и твоей ответной реакцией, тем ниже твоя примативность.
 ### - По факту этим миром управляют и имеют на него воздействие только низкопримативные люди. По тому что <span style="color:orange;font-weight: 600;">разум и эмоции контрарны, противоположны. Когда включается одно-исчезает другое</span>.
-<img src="p.jpg">
+<img src="pp.jpg">
 ## <span style="color:violet;"> - Синтетическая телепатия это Радио-Мозг-Компьютер-Интерфейс-Распознавание-Намерения-Кость-Проводимость (РМКИ-РНКП) </span>
 <iframe style="width:100%;height:35vh;border:0;" src="https://www.youtube.com/embed/RRbppibf_XE?si=RSWlBuFbG7afH0UD"></iframe>
 
