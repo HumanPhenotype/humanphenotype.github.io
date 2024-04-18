@@ -421,7 +421,7 @@ Lastly when the target is still not down and out, the physical attacks are rampe
 
 <img src="90.jpg">
 
-<a href="https://litmir.club/br/?b=284&p=92"> <img src="g.jpg"><img src="Y.jpg"><img src="ps.jpg"> </a>
+<a href="https://litmir.club/br/?b=284&p=92"> <img src="g.jpg"><img src="Y.jpg"><img src="ps.jpg"><img src="psi1.jpg"> </a>
 
 ### - За пару недель до начала бомбардировок Югославии авиацией США мы провели сеанс подключения к подсознанию госсекретаря Олбрайт. Подробно пересказывать ее мысли не стану. Отмечу лишь наиболее характерные моменты, подтвердившиеся уже после начала агрессии НАТО в Сербии.
 
