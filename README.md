@@ -275,7 +275,7 @@ Lastly when the target is still not down and out, the physical attacks are rampe
 - <span style="color:orange;">ЯзОД</span> - язык операторской деятельности.
 
 
-<a target="blank" href="https://www.youtube.com/watch?v=BXNvKTtx1o4">
+<a target="blank" href="https://habr.com/ru/companies/otus/articles/793130/">
 <img src="1.jpg"/>
  </a>
 
