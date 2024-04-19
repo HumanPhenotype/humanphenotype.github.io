@@ -24,7 +24,7 @@
 
 ## <span style="color:orange;">- Directed Energy Weapons Used On Citizens</span>
 
-**In the past three decades, directed energy weapons have made their way from their military industrial origins into the global telecommunication systems (LTE/5G-NR), integrated into beamforming- and steering phased array radar and MIMO transmitters.**
+**In the past three decades, directed energy weapons have made their way from their military industrial origins into the <span style="color:green;font-weight: 600;">global telecommunication systems (LTE/5G-NR), integrated into beamforming- and steering phased array radar and MIMO transmitters</span>.**
 
 <div style="border-style: solid; border-width: thin; border-color: lightgrey;" align="center" width="100%"> 
     <img alt="targeting" width="100%" src="0.jpeg">
