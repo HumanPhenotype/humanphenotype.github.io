@@ -31,7 +31,7 @@
     <img alt="targeting" width="100%" src="0.jpeg">
 </div>
 
-The use of these and previous/battlefield versions of these weapons on civilians has been reported in many <span style="color:orange;font-weight: 600;">NATO states ("Voice2Skull", "LRAD", "Medusa"), the Russian Federation ("Weapons based on new physical principles"), China ("Neurostrike"), Iraq ("Medusa" & unknown high power DEWs)</span> and a large number of other countries. The number of people reporting severe symptoms mimicking those found in <span style="color:orange;font-weight: 600;">Havana Syndrome</span> accompanied by synthetic schizophrenia and synthetic telepathy (<span style="color:orange;font-weight: 600;">the use of the microwave auditory effect and remote neural monitoring simultaneously</span>) is increasing dramatically on a global scale.
+The use of these and previous/battlefield versions of these weapons on civilians has been reported in many <span style="color:orange;font-weight: 600;"><a href="https://genasys.com/">NATO states ("Voice2Skull", "LRAD", "Medusa")</a>, the Russian Federation ("Weapons based on new physical principles"), China ("Neurostrike"), Iraq ("Medusa" & unknown high power DEWs)</span> and a large number of other countries. The number of people reporting severe symptoms mimicking those found in <span style="color:orange;font-weight: 600;">Havana Syndrome</span> accompanied by synthetic schizophrenia and synthetic telepathy (<span style="color:orange;font-weight: 600;">the use of the microwave auditory effect and remote neural monitoring simultaneously</span>) is increasing dramatically on a global scale.
 
 ### <span style="color:orange;">- Invisible Concentration-Camps </span>
 
