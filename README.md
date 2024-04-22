@@ -75,6 +75,7 @@ Lastly when the target is still not down and out, the physical attacks are rampe
 
 <div style="border-style: solid; border-width: thin; border-color: lightgrey;" align="center" width="100%"> 
     <img alt="targeting" width="100%" src="2.jpg">
+<img src="https://humanphenotype.github.io/ins.png" style="background-color:black;">
 </div>
 
 ## <span style="color:green;"> - ГОСТ Р 43.0.3-2009 </span>
