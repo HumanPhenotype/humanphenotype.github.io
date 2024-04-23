@@ -1,7 +1,7 @@
 <style>
     body{background-color: black;color: white;}
     ::-webkit-scrollbar{width:0px;}
-   .markdown-body h2 {border-bottom: 1px solid transparent;}
+   .markdown-body h2 h1 {border-bottom: 1px solid transparent;}
 </style>
 # <center style="border: 2px solid green;padding: 15px;border-radius: 5px;"> >_ <span style="color:green;font-weight: 600;"> Культурный Код </span> и <span style="color:green;font-weight: 600;"> Фенотипирование Человека </span> </center>
 <img src="https://humanphenotype.github.io/kc.png" style="background-color:black;">
