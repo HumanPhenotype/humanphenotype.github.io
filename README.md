@@ -87,7 +87,7 @@ Lastly when the target is still not down and out, the physical attacks are rampe
 
 # <center style="border: 2px solid orange;padding: 15px;border-radius: 5px;"><span style="color:orange;">В зависимости от уровня компетентности оператора люди всю жизнь могут вообще его не замечать</span></center>
 
-Термины и определения
+<center>Термины и определения</center>
 
 - <span style="color:orange;">3.1</span> абдукативные решения: Решения, принимаемые оператором по предварительно оцененной (с фиксацией следствий ) информации на основе приобретенных ранее знаний.
 
