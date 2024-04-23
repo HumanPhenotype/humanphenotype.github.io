@@ -39,7 +39,7 @@ The use of these and previous/battlefield versions of these weapons on civilians
 
 <iframe style="width:100%;height:35vh;border:0;" src="https://www.youtube.com/embed/k6c2S-BCm8c?si=FlVQony78hD487EQ"></iframe>
 
-<div style="border:3px solid orange;">
+
 
 ### <center><span style="color:orange;">- Invisible Concentration-Camps </span></center>
 
@@ -79,7 +79,7 @@ Lastly when the target is still not down and out, the physical attacks are rampe
 
 # <center style="border: 2px solid orange;padding: 15px;border-radius: 5px;"><span style="color:orange;">Depending on the level of competence of the operator, people may not notice him at all all their lives</span></center>
 
-</div>
+
 
 <div> 
     <img alt="targeting" width="100%" src="2.jpg">
