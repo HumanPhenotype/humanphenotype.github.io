@@ -38,7 +38,9 @@
 The use of these and previous/battlefield versions of these weapons on civilians has been reported in many <span style="color:orange;font-weight: 600;"><a href="https://genasys.com/">NATO states ("Voice2Skull", "LRAD", "Medusa")</a>, the Russian Federation ("Weapons based on new physical principles"), China ("Neurostrike"), Iraq ("Medusa" & unknown high power DEWs)</span> and a large number of other countries. The number of people reporting severe symptoms mimicking those found in <span style="color:orange;font-weight: 600;"><a href="https://www.forbes.ru/society/447285-wp-cru-prigrozilo-rossii-posledstviami-za-gavanskij-sindrom-u-diplomatov-ssa">Havana Syndrome</a></span> accompanied by synthetic schizophrenia and synthetic telepathy (<span style="color:orange;font-weight: 600;">the use of the microwave auditory effect and remote neural monitoring simultaneously</span>) is increasing dramatically on a global scale.
 
 <iframe style="width:100%;height:35vh;border:0;" src="https://www.youtube.com/embed/k6c2S-BCm8c?si=FlVQony78hD487EQ"></iframe>
+
 <div style="border:3px solid orange;">
+
 ### <center> <span style="color:orange;">- Invisible Concentration-Camps </span> </center>
 
 We are in the first quarter of the 21st century and already there exist invisible concentration camps where many suffer in silence - unable to even form basic concepts of the weaponry being used against them, if they are even aware that they are targeted with high tech weaponry. These weapons are highly advanced, their development highly covert and they are very easy to conceal. It is therefor extremely hard to gather enough data, testimonies and proofs to show they not only exists but that they are used on civilians. These modern microwave-based weapon systems are used every day. By global elites, militaries and intelligence agencies - on foreign and domestic populations for the purpose of what appears to be a secret and highly sadistic depopulation scheme so covertly executed that the victims often have nobody to turn to who will believe their story.
@@ -76,7 +78,9 @@ When that first phase fails, the program switches to pulling targeted individual
 Lastly when the target is still not down and out, the physical attacks are ramped up and the psychological attacks become more opportunistic - waiting for a moment when the target is open to suggestion, fatigued, had too much to drink or other compromising states. And then it lashes out - hard. It becomes a war of attrition that the target usually loses.
 
 # <center style="border: 2px solid orange;padding: 15px;border-radius: 5px;"><span style="color:orange;">Depending on the level of competence of the operator, people may not notice him at all all their lives</span></center>
+
 </div>
+
 <div> 
     <img alt="targeting" width="100%" src="2.jpg">
     <a href="https://www.youtube.com/watch?v=COWTBEl1rRc">
