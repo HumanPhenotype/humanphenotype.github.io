@@ -4,6 +4,7 @@
    .markdown-body h2, h1 {border-bottom: 0px solid transparent;}.markdown-body h1 {border-bottom: 0px solid transparent;}
 </style>
 # <center style="border: 3.5px solid green;padding: 15px;border-radius: 7px;"> >_ <span style="color:green;font-weight: 600;"> Культурный Код </span> и <span style="color:green;font-weight: 600;"> Фенотипирование Человека </span> </center>
+<img src="https://cepbep.github.io/DNA/img/3.png" style="background-color:black;">
 <img src="https://humanphenotype.github.io/kc.png">
 <a href="https://youtu.be/LGBhAXNG_ig"><img src="https://humanphenotype.github.io/sem.jpg"></a>
 ## <center style="border: 3px solid violet;padding: 15px;border-radius: 7px;"> - <span style="color:green;font-weight: 600;">Cистема предрасположенностей</span>, которая сначала формируется у <span style="color:violet;font-weight: 600;">индивида</span> под влияем социальной <span style="color:green;font-weight: 600;">среды, в которой он живет</span>, а затем регулирует поведение индивида <span style="color:green;font-weight: 600;">без его сознательного участия</span>. </center>
@@ -16,7 +17,7 @@
 <iframe style="width:100%;height:35vh;border:0;" src="https://www.youtube.com/embed/DBWSRTcTC5w?si=4UXVLUsSwWelobcl"></iframe>
 
 
-<img src="https://cepbep.github.io/DNA/img/3.png" style="background-color:black;">
+
 ## <span style="color:orange;font-weight: 600;">- Этология человека изучает поведение человека как результат взаимодействия биологических и социокультурных факторов</span> на основе представлений и методов общей этологии, изучающей поведение животных. Поведение человека и животных имеет немало общего, но этология человека не переносит на человеческое поведение особенности животных, а рассматривает его как уникальное существо. Этология человека – состоявшаяся научная дисциплина, которая исследует в своем ключе все поведение человека: <span style="color:orange;font-weight: 600;">поведение детей и родителей, агрессивное поведение и дружественное, этологию города и этологию искусства, общение без слов и со словами </span> и многое другое.
 <iframe style="width:100%;height:35vh;border:0;" src="https://www.youtube.com/embed/HZFNAuSyU6o?si=qlnA3T1_-nqXl2cG"></iframe>
 ### - <span style="color:orange;font-weight: 600;">Примативность это степень реактивности ответа на внешнюю среду</span>. Чем быстрее ты отвечаешь на воздействие, исходящее из внешней среды, тем выше твоя примативность, <span style="color:orange;font-weight: 600;">тем ближе ты к животному</span>. И чем больше отклик между раздражителем из внешнего мира и твоей ответной реакцией, тем ниже твоя примативность.
