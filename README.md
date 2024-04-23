@@ -3,8 +3,8 @@
     ::-webkit-scrollbar{width:0px;}
    .markdown-body h2, h1 {border-bottom: 0px solid transparent;}.markdown-body h1 {border-bottom: 0px solid transparent;}
 </style>
-# <center style="border: 3.5px solid green;padding: 15px;border-radius: 7px;"> >_ <span style="color:green;font-weight: 600;"> Культурный Код </span> и <span style="color:green;font-weight: 600;"> Фенотипирование Человека </span> </center>
 <img src="https://cepbep.github.io/DNA/img/3.png" style="background-color:black;">
+# <center style="border: 3.5px solid green;padding: 15px;border-radius: 7px;"> >_ <span style="color:green;font-weight: 600;"> Культурный Код </span> и <span style="color:green;font-weight: 600;"> Фенотипирование Человека </span> </center>
 <img src="https://humanphenotype.github.io/kc.png">
 <a href="https://youtu.be/LGBhAXNG_ig"><img src="https://humanphenotype.github.io/sem.jpg"></a>
 ## <center style="border: 3px solid violet;padding: 15px;border-radius: 7px;"> - <span style="color:green;font-weight: 600;">Cистема предрасположенностей</span>, которая сначала формируется у <span style="color:violet;font-weight: 600;">индивида</span> под влияем социальной <span style="color:green;font-weight: 600;">среды, в которой он живет</span>, а затем регулирует поведение индивида <span style="color:green;font-weight: 600;">без его сознательного участия</span>. </center>
