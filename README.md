@@ -3,7 +3,7 @@
     ::-webkit-scrollbar{width:0px;}
 </style>
 # >_ <span style="color:green;font-weight: 600;"> Культурный Код </span> и <span style="color:green;font-weight: 600;"> Фенотипирование Человека </span>
-<img src="https://humanphenotype.github.io/kc.jpg" style="background-color:black;">
+<img src="https://humanphenotype.github.io/kc.png" style="background-color:black;">
 ## - <span style="color:green;font-weight: 600;">система предрасположенностей</span>, которая сначала формируется у индивида под влияем социальной <span style="color:green;font-weight: 600;">среды, в которой он живет</span>, а затем регулирует поведение индивида <span style="color:green;font-weight: 600;">без его сознательного участия</span>.
 <img src="https://humanphenotype.github.io/ga1.png" style="background-color:black;">  
 ## <span style="color:orange;font-weight: 600;"><a href="https://www.youtube.com/@teloschannel">СОЦИОЛОГИЯ</a> и ЭТОЛОГИЯ Человека</span> изучает поведение человека как результат взаимодействия биологических и социокультурных факторов. Она базируется на теоретических представлениях и методах, разработанных в этологии животных, и одновременно находится в тесной связи с гуманитарными дисциплинами.
