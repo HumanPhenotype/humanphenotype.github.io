@@ -29,7 +29,7 @@
 
 **In the past three decades, directed energy weapons have made their way from their military industrial origins into the <span style="color:orange;font-weight: 600;"><a href="https://www.youtube.com/watch?v=8P9Q3Ow4qjY">global telecommunication systems (LTE/5G-NR), integrated into beamforming- and steering phased array radar and MIMO transmitters</a></span>.**
 
-<div style="border-style: solid; border-width: thin; border-color: lightgrey;" align="center" width="100%"> 
+<div> 
     <img alt="targeting" width="100%" src="0.jpeg">
 </div>
 
