@@ -293,6 +293,7 @@ Lastly when the target is still not down and out, the physical attacks are rampe
 <img src="1.jpg"/>
  </a>
 
+<img src="https://humanphenotype.github.io/cell.png">
 
 ## <span style="color:green;">- Контроль над сознанием человека: механизмы, методы и этические дилеммы </span>
 
