@@ -155,7 +155,7 @@ Lastly when the target is still not down and out, the physical attacks are rampe
 
 ## <center> <span style="color:green;"> - ГОСТ Р 43.0.2-2006</span>, <span style="color:violet;">статья А.2</span> (приложение А) </center>
 
-<div style="border-style: solid; border-width: thin; border-color: lightgrey;" align="center" width="100%"> 
+<div> 
     <img alt="targeting" width="100%" src="E.jpg">
 </div>
 
@@ -231,7 +231,7 @@ Lastly when the target is still not down and out, the physical attacks are rampe
 
 - <span style="color:orange;">3.61</span> эргатическая информационная деятельность: Информационная деятельность, обеспечивающая практическое взаимодействие оператора с окружающей средой.
 
-<div style="border-style: solid; border-width: thin; border-color: lightgrey;" align="center" width="100%"> 
+<div> 
     <img alt="targeting" width="100%" src="EE.jpg">
 </div>
 
