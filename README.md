@@ -4,7 +4,7 @@
    .markdown-body h2, h1 {border-bottom: 0px solid transparent;}.markdown-body h1 {border-bottom: 0px solid transparent;}
 </style>
 <!--<img src="https://cepbep.github.io/DNA/img/3.png" style="background-color:black;">-->
-# <center style="border: 3.5px solid #0264d6;padding: 15px;border-radius: 7px;"> >_ <a href="dark.html"><span style="font-weight: 600;"> Синтетическая Телепатия </span> и <span style="color:green;font-weight: 600;"> Чёрная Психология </span> </a> </center>
+# <center style="border: 3.5px solid #0264d6;padding: 15px;border-radius: 7px;"> >_ <span style="font-weight: 600;"><a href="dark.html"> Синтетическая Телепатия </a></span> и <span style="color:green;font-weight: 600;"><a href="dark.html"> Чёрная Психология </a></span> </center>
 # <center style="border: 3.5px solid green;padding: 15px;border-radius: 7px;"> >_ <span style="color:green;font-weight: 600;"> Культурный Код </span> и <span style="color:green;font-weight: 600;"> Фенотипирование Человека </span> </center>
 <img src="https://humanphenotype.github.io/kc.png">
 <a href="https://youtu.be/LGBhAXNG_ig"><img src="https://humanphenotype.github.io/sem.jpg"></a>
