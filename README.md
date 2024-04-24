@@ -5,7 +5,7 @@
 </style>
 <!--<img src="https://cepbep.github.io/DNA/img/3.png" style="background-color:black;">-->
 # <center style="border: 0px solid #0264d6;padding: 15px;border-radius: 7px;background: white;color: black;"> >_ <span style="font-weight: 600;color:black;"><a style="color:black;" href="dark.html"> Синтетическая Телепатия </a></span> и <span style="color:green;font-weight: 600;color:black;"><a style="color:black;" href="dark.html"> Чёрная Психология </a></span> </center>
-<img src="https://humanphenotype.github.io/tp.jpg"/>
+<div><img src="https://humanphenotype.github.io/tp.jpg"/></div>
 # <center style="border: 3.5px solid green;padding: 15px;border-radius: 7px;"> >_ <span style="color:green;font-weight: 600;"> Культурный Код </span> и <span style="color:green;font-weight: 600;"> Фенотипирование Человека </span> </center>
 <img src="https://humanphenotype.github.io/kc.png">
 <a href="https://youtu.be/LGBhAXNG_ig"><img src="https://humanphenotype.github.io/sem.jpg"></a>
