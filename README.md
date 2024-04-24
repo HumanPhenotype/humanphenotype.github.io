@@ -82,12 +82,12 @@ Lastly when the target is still not down and out, the physical attacks are rampe
 
 
 
-
+<div>
     <img alt="targeting" width="100%" src="2.jpg">
 # <center style="border: 2px solid orange;padding: 15px;border-radius: 5px;"><span style="color:orange;">В зависимости от уровня компетентности оператора люди всю жизнь могут вообще его не замечать</span></center>
     <a href="https://www.youtube.com/watch?v=COWTBEl1rRc">
     <img src="https://humanphenotype.github.io/ins.png"></a>
-
+</div>
 
 ## <center style="border: 2px solid green;padding: 15px;border-radius: 5px;"><span style="color:green;"> - ГОСТ Р 43.0.3-2009 </span></center>
 
