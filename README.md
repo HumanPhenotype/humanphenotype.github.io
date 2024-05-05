@@ -7,8 +7,7 @@
 <img style="border-radius:10px;" src="https://humanphenotype.github.io/br.jpg">
 <!--<img src="https://cepbep.github.io/DNA/img/3.png" style="background-color:black;">-->
 <iframe style="width:100%;height:35vh;border:0;border-radius: 10px;" src="https://www.youtube.com/embed/lPUGB69cu6Q?si=X59IIsy68TQmz76F"></iframe>
-# <center style="border: 0px solid #0264d6;padding: 15px;border-radius: 7px;background: white;color: black;"> >_ <span style="font-weight: 600;color:black;"><a style="color:black;" href="dark.html"> Синтетическая Телепатия </a></span> и <span style="color:green;font-weight: 600;color:black;"><a style="color:black;" href="dark.html"> Чёрная Психология </a></span> </center>
-<div><a style="color:black;" href="dark.html"><img src="https://humanphenotype.github.io/tp.jpg"/></a></div>
+
 # <center style="border:3.5px solid #068ef4;padding: 15px;border-radius: 7px;background:#068ef4;"> >_ <span style="color:white;font-weight: 600;"> Культурный Код </span> и <span style="color:white;font-weight: 600;"> Фенотипирование Человека </span></center>
 <iframe style="width:100%;height:35vh;border:0;border-radius: 10px;" src="https://www.youtube.com/embed/NaAQzaV3VtQ?si=EqPxBmNsTgdERN_T"></iframe>
 <img src="https://humanphenotype.github.io/kc.png">
@@ -25,6 +24,9 @@
 <span style="color:orange;font-weight: 600;"><span style="color:green;font-weight: 600;">- Этология человека</span> изучает поведение человека как <span style="color:violet;font-weight: 600;">результат взаимодействия</span> <span style="color:green;font-weight: 600;">биологических и социокультурных</span> факторов</span> на основе представлений и методов общей этологии, <span style="color:green;font-weight: 600;">изучающей поведение животных. Поведение человека и животных имеет немало общего</span>, но этология человека не переносит на человеческое поведение особенности животных, а рассматривает его как уникальное существо. Этология человека – состоявшаяся научная дисциплина, которая исследует в своем ключе все поведение человека: <span style="color:orange;font-weight: 600;">поведение детей и родителей, агрессивное поведение и дружественное, этологию города и этологию искусства, общение без слов и со словами </span> и многое другое. </div>
 <iframe style="width:100%;height:35vh;border:0;border-radius: 10px;" src="https://www.youtube.com/embed/HZFNAuSyU6o?si=qlnA3T1_-nqXl2cG"></iframe>
 
+# <center style="border: 0px solid #0264d6;padding: 15px;border-radius: 7px;background: white;color: black;"> >_ <span style="font-weight: 600;color:black;"><a style="color:black;" href="dark.html"> Синтетическая Телепатия </a></span> и <span style="color:green;font-weight: 600;color:black;"><a style="color:black;" href="dark.html"> Чёрная Психология </a></span> </center>
+
+<div><a style="color:black;" href="dark.html"><img src="https://humanphenotype.github.io/tp.jpg"/></a></div>
 <img src="pp1.png" alt="Примативность это степень реактивности ответа на внешнюю среду. Чем быстрее ты отвечаешь на воздействие, исходящее из внешней среды, тем выше твоя примативность, тем ближе ты к животному. И чем больше отклик между раздражителем из внешнего мира и твоей ответной реакцией, тем ниже твоя примативность. По факту этим миром управляют и имеют на него воздействие только низкопримативные люди. По тому что разум и эмоции контрарны, противоположны. Когда включается одно-исчезает другое"/>
 ## <a target="blank" href="https://www.youtube.com/watch?v=BXNvKTtx1o4"> <center style="border: 2px solid rgb(3, 102, 214);padding: 15px;border-radius: 5px;"> <span> Современные методы слежки и контроля населения </span> </center> </a>
 ## <span style="color:violet;"> - Синтетическая телепатия это Радио-Мозг-Компьютер-Интерфейс-Распознавание-Намерения-Кость-Проводимость (РМКИ-РНКП) </span>
