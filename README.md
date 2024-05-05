@@ -74,15 +74,15 @@ The use of these and previous/battlefield versions of these weapons on civilians
  <center> <h3 style="background: orange;color: black;font-weight: 900;"> <span> Synthetic Schizophrenia </span> </h3> </center>
 
 &nbsp;&nbsp;&nbsp;And then there's the synthetic schizophrenia. It is undoubtedly the most vile form of targeting. It presents when advanced evolutions of microwave auditory effect technologies are paired with advanced generative artificial intelligence and high-fidelity digital signal processing to cause people to hear ultra-realistic voices in their head, strange noises around them and even the experience of having conversations heard around them altered on-the-fly.
-
+<br>
 &nbsp;&nbsp;&nbsp;It's hard to put into words how those who have designed and developed these systems can face themselves in a mirror. Synthetic schizophrenia is the weapon wielders' of the best line of defense. Because unfortunately, with the low societal awareness and the outwardly appearing overlap of symptoms of targeting with schizophrenia, targeted individuals have virtually no chance of being taken seriously. The targeted individual's plight nor the technologies used to target them live in the minds of the current psychiatric establishments or justice systems. Most of society is unaware and unprepared for the paradigm shift that targeted individuals were already forced to make - to their grave detriment. 
-
+<br>
 &nbsp;&nbsp;&nbsp;All this perceived-audio-tweaking is done in a highly sadistic and evil manner, often containing heavy propaganda designed to remove persons from reality. It is used to undermine the target's psychology by turning any and all insecurities they have about themselves, those around them or their situations against them.  A prime goal of this system is to grab and hold a person's attention and to cause dissociation and de-realization, and physical and mental disability. But the only "help" offered from society may easily escalate into a one-way trip to the psychiatry ward.
 
  <center> <h3 style="background: orange;color: black;font-weight: 900;"> <span> Targeting Phases </span> </h3> </center>
 
 &nbsp;&nbsp;&nbsp;Usually targeting starts with trying to convince the target that their neighbors, colleagues or landlords are out to get them, in the hope that the targeted individual will lash out and go to prison, the psych ward and lose their job and house. It is not hard to drive a person over the edge in that way, as witnessed by the many shootings where something about mind-control, electromagnetic weapons or hearing voices was connected to the shooter's psychology.
-
+<br>
 &nbsp;&nbsp;&nbsp;When that first phase fails, the program switches to pulling targeted individuals into fantastical fringe conspiracy theories, concerning often used tropes from Hollywood and the mainstream media (UFOs, demons, time travel, being "chosen ones", etc). The synthetic telepathy often mimics the "psychic driving" technique known from the surviving <span style="color:violet;font-weight: 600;">MKULTRA documents</span>. 
  <br>
 &nbsp;&nbsp;&nbsp;Lastly when the target is still not down and out, the physical attacks are ramped up and the psychological attacks become more opportunistic - waiting for a moment when the target is open to suggestion, fatigued, had too much to drink or other compromising states. And then it lashes out - hard. It becomes a war of attrition that the target usually loses.
