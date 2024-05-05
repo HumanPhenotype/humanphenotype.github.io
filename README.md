@@ -82,7 +82,7 @@ Lastly when the target is still not down and out, the physical attacks are rampe
 
 # <center style="border: 2px solid orange;padding: 15px;border-radius: 5px;"><span style="color:orange;">Depending on the level of competence of the operator, people may not notice him at all all their lives</span></center>
 
-<div>
+<div style="border: 3px solid violet;padding: 15px;border-radius: 7px;">
 • разрушение доверительных отношений с родственниками <br>
 • расстройство памяти <br>
 • внедрение ложных воспоминаний <br>
