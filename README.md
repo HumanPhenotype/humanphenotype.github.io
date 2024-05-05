@@ -53,7 +53,7 @@ The use of these and previous/battlefield versions of these weapons on civilians
 <iframe style="width:100%;height:35vh;border:0;border-radius: 10px;" src="https://www.youtube.com/embed/k6c2S-BCm8c?si=FlVQony78hD487EQ"></iframe>
 
 <div style="border: 3px solid orange;padding: 15px;border-radius: 7px;">
-<center><span style="color:orange;">- Invisible Concentration-Camps </span></center>
+<center> <h3> <span style="color:orange;">- Invisible Concentration-Camps </span> </h3> </center>
 
 We are in the first quarter of the 21st century and already there exist invisible concentration camps where many suffer in silence - unable to even form basic concepts of the weaponry being used against them, if they are even aware that they are targeted with high tech weaponry. These weapons are highly advanced, their development highly covert and they are very easy to conceal. It is therefor extremely hard to gather enough data, testimonies and proofs to show they not only exists but that they are used on civilians. These modern microwave-based weapon systems are used every day. By global elites, militaries and intelligence agencies - on foreign and domestic populations for the purpose of what appears to be a secret and highly sadistic depopulation scheme so covertly executed that the victims often have nobody to turn to who will believe their story.
 
