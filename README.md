@@ -249,7 +249,7 @@ Lastly when the target is still not down and out, the physical attacks are rampe
     <img alt="targeting" width="100%" src="EE.jpg">
 </div>
 
-## <center> <span style="color:white;">- В настоящем стандарте применены следующие сокращения:</span> </center>
+## <center> <span style="color:white;"> В настоящем стандарте применены следующие сокращения:</span> </center>
 
 - <span style="color:orange;">ГИ</span> - гибридный интеллект;
 
@@ -312,7 +312,7 @@ Lastly when the target is still not down and out, the physical attacks are rampe
 
 <img src="https://humanphenotype.github.io/cell.png">
 
-## <span style="color:green;">- Контроль над сознанием человека: механизмы, методы и этические дилеммы </span>
+## <center style="border: 2px solid green;padding: 15px;border-radius: 5px;"> <span style="color:green;"> Контроль над сознанием человека: механизмы, методы и этические дилеммы </span> </center>
 
 ### <span style="color:orange;font-weight: 600;">Сознание человека – это высшая форма психической деятельности, которая включает в себя самосознание, мышление, восприятие, чувства и волю.</span> Вопросы контроля над сознанием человека вызывают неоднозначную реакцию, так как затрагивают темы свободы воли, личной автономии и морально-этических границ. В этой статье мы рассмотрим механизмы и методы, которые применяются для воздействия на сознание человека, а также обсудим этические аспекты такого воздействия.
 
