@@ -37,13 +37,15 @@
 
 ## <a target="blank" href="https://youtu.be/COWTBEl1rRc"><center style="border: 2px solid orange;padding: 15px;border-radius: 5px;"> <span style="color:orange;">Directed Energy Weapons Used On Citizens</span></center></a>
 
-**In the past three decades, directed energy weapons have made their way from their military industrial origins into the <span style="color:orange;font-weight: 600;"><a href="https://www.youtube.com/watch?v=8P9Q3Ow4qjY">global telecommunication systems (LTE/5G-NR), integrated into beamforming- and steering phased array radar and MIMO transmitters</a></span>.**
+<center>In the past three decades, directed energy weapons have made their way from their military industrial origins into the <span style="color:orange;font-weight: 600;"><a href="https://www.youtube.com/watch?v=8P9Q3Ow4qjY">global telecommunication systems (LTE/5G-NR), integrated into beamforming- and steering phased array radar and MIMO transmitters</a></span>.</center>
 
 <div> 
     <img alt="targeting" width="100%" src="0.jpeg">
 </div>
 
+<center>
 The use of these and previous/battlefield versions of these weapons on civilians has been reported in many <span style="color:orange;font-weight: 600;"><a href="https://genasys.com/">NATO states ("Voice2Skull", "LRAD", "Medusa")</a>, the Russian Federation ("Weapons based on new physical principles"), China ("Neurostrike"), Iraq ("Medusa" & unknown high power DEWs)</span> and a large number of other countries. The number of people reporting severe symptoms mimicking those found in <span style="color:orange;font-weight: 600;"><a href="https://www.forbes.ru/society/447285-wp-cru-prigrozilo-rossii-posledstviami-za-gavanskij-sindrom-u-diplomatov-ssa">Havana Syndrome</a></span> accompanied by synthetic schizophrenia and synthetic telepathy (<span style="color:orange;font-weight: 600;">the use of the microwave auditory effect and remote neural monitoring simultaneously</span>) is increasing dramatically on a global scale.
+</center>
 
 <iframe style="width:100%;height:35vh;border:0;border-radius: 10px;" src="https://www.youtube.com/embed/k6c2S-BCm8c?si=FlVQony78hD487EQ"></iframe>
 
