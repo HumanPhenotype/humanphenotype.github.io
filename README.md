@@ -17,7 +17,7 @@
 
 <iframe style="width:100%;height:35vh;border:0;" src="https://www.youtube.com/embed/DBWSRTcTC5w?si=4UXVLUsSwWelobcl"></iframe>
 
-<div style="border: 2px solid rgb(3, 102, 214);padding: 15px;border-radius: 5px;">
+<div style="border: 2px solid violet;padding: 15px;border-radius: 5px;">
 <span style="color:orange;font-weight: 600;"><span style="color:green;font-weight: 600;">- Этология человека</span> изучает поведение человека как <span style="color:violet;font-weight: 600;">результат взаимодействия</span> <span style="color:green;font-weight: 600;">биологических и социокультурных</span> факторов</span> на основе представлений и методов общей этологии, <span style="color:green;font-weight: 600;">изучающей поведение животных. Поведение человека и животных имеет немало общего</span>, но этология человека не переносит на человеческое поведение особенности животных, а рассматривает его как уникальное существо. Этология человека – состоявшаяся научная дисциплина, которая исследует в своем ключе все поведение человека: <span style="color:orange;font-weight: 600;">поведение детей и родителей, агрессивное поведение и дружественное, этологию города и этологию искусства, общение без слов и со словами </span> и многое другое. </div>
 <iframe style="width:100%;height:35vh;border:0;" src="https://www.youtube.com/embed/HZFNAuSyU6o?si=qlnA3T1_-nqXl2cG"></iframe>
 
