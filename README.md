@@ -386,7 +386,7 @@ Lastly when the target is still not down and out, the physical attacks are rampe
 
 <a href="https://www.youtube.com/watch?v=aCkMzorxHdk"> <img src="o.jpg">  </a>
 
-## <span style="color:green;">- Патенты США на технологии бесшумной связи включают:</span>
+## <center style="border: 2px solid green;padding: 15px;border-radius: 5px;"> <span style="color:green;"> Патенты США на технологии бесшумной связи включают:</span> </center>
 
 <span style="color:orange;font-weight: 600;">- Патент США </span> <span style="color:violet;font-weight: 600;">6587729 </span>
  <span style="color: #4CAF50;font-weight: 600;">«Устройство для звуковой передачи речи с использованием радиочастотного слухового эффекта»,</span> <br>
