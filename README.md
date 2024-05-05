@@ -40,7 +40,7 @@
 
 ## <a target="blank" href="https://youtu.be/COWTBEl1rRc"><center style="border: 2px solid orange;padding: 15px;border-radius: 5px;"> <span style="color:orange;">Directed Energy Weapons Used On Citizens</span></center></a>
 
-<center style="border: 3px solid orange;padding: 10px;border-radius: 7px;">In the past three decades, directed energy weapons have made their way from their military industrial origins into the <span style="color:orange;font-weight: 600;"><a href="https://www.youtube.com/watch?v=8P9Q3Ow4qjY">global telecommunication systems (LTE/5G-NR), integrated into beamforming- and steering phased array radar and MIMO transmitters</a></span>.</center>
+<center style="border: 3px solid orange;padding:10px;border-radius:7px;position:relative;top:-20px;">In the past three decades, directed energy weapons have made their way from their military industrial origins into the <span style="color:orange;font-weight: 600;"><a href="https://www.youtube.com/watch?v=8P9Q3Ow4qjY">global telecommunication systems (LTE/5G-NR), integrated into beamforming- and steering phased array radar and MIMO transmitters</a></span>.</center>
 
 <div> 
     <img alt="targeting" width="100%" src="0.jpeg">
