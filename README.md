@@ -410,7 +410,7 @@ Lastly when the target is still not down and out, the physical attacks are rampe
 
 ## <center style="border: 2px solid green;padding: 15px;border-radius: 5px;"> <span style="color: #4CAF50;font-weight: 600;"> Методы педагогического исследования </span> </center>
 – это способы изучения опыта педагогической деятельности, а также педагогических фактов и явлений, установления между ними закономерных связей и отношений с целью дальнейшей научной разработки теории воспитания и совершенствования его практики.
-# <center style="border: 2px solid violet;padding: 15px;border-radius: 5px;"><span style="color:violet;font-weight: 600;"> - Эти методы можно объединить в следующие группы: </span> </center>
+# <center style="border: 2px solid violet;padding: 15px;border-radius: 5px;"><span style="color:violet;font-weight: 600;"> Эти методы можно объединить в следующие группы: </span> </center>
 
 ## <span style="color: #4CAF50;font-weight: 600;"> - Эмпирические методы </span>
 – беседа, наблюдение, изучение документации и результатов деятельности, педагогический эксперимент (констатирующий, формирующий, контрольный), естественный эксперимент, социологические методы (социометрия, анкетирование и т.д.);
