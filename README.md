@@ -86,18 +86,21 @@ Lastly when the target is still not down and out, the physical attacks are rampe
     <img alt="targeting" width="100%" src="2.jpg">
 </div>
 
-<div style="border: 3px solid violet;padding: 15px;border-radius: 7px;">
-• разрушение доверительных отношений с родственниками <br>
-• расстройство памяти <br>
-• внедрение ложных воспоминаний <br>
-• дискредитация человека его поведением <br>
-• изменение сексуальных привычек <br>
-• методы выпытывания информации <br>
-• внушаемость <br>
-• создание у человека чувства зависимости
-</div>
+
 
 # <center style="border: 2px solid orange;padding: 15px;border-radius: 5px;"><span style="color:orange;">В зависимости от уровня компетентности оператора люди всю жизнь могут вообще его не замечать</span></center>
+
+<div style="border: 3px solid violet;padding: 15px;border-radius: 7px;">
+<span style="color:orange;">•</span> разрушение доверительных отношений с родственниками <br>
+<span style="color:orange;">•</span> расстройство памяти <br>
+<span style="color:orange;">•</span> внедрение ложных воспоминаний <br>
+<span style="color:orange;">•</span> дискредитация человека его поведением <br>
+<span style="color:orange;">•</span> изменение сексуальных привычек <br>
+<span style="color:orange;">•</span> методы выпытывания информации <br>
+<span style="color:orange;">•</span> внушаемость <br>
+<span style="color:orange;">•</span> создание у человека чувства зависимости
+</div>
+
 <div>
     <a href="https://www.youtube.com/watch?v=COWTBEl1rRc">
     <img src="https://humanphenotype.github.io/ins.png"></a>
