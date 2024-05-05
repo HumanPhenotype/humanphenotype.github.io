@@ -430,9 +430,9 @@ The use of these and previous/battlefield versions of these weapons on civilians
 ## <span style="color: #4CAF50;font-weight: 600;"> - Методы воспитания: </span>
  &nbsp;&nbsp;&nbsp; методы формирования сознания личности – <span style="color:violet;font-weight: 600;">«убеждение»</span> : <span style="color:orange;font-weight: 600;"> &nbsp;&nbsp;&nbsp; рассказ, объяснение, разъяснение, лекция, этическая беседа, увещевание, внушение, инструктаж, диспут, доклад, пример</span>; <br>
 
-&nbsp;&nbsp;&nbsp; методы организации деятельности и формирования опыта поведения – <span style="color:violet;font-weight: 600;">«упражнение»</span> : <span style="color:orange;font-weight: 600;">упражнение, приучение, педагогическое требование, общественное мнение, поручение, воспитывающие ситуации</span>; <br>
+ &nbsp;&nbsp;&nbsp; методы организации деятельности и формирования опыта поведения – <span style="color:violet;font-weight: 600;">«упражнение»</span> : <span style="color:orange;font-weight: 600;">упражнение, приучение, педагогическое требование, общественное мнение, поручение, воспитывающие ситуации</span>; <br>
 
-методы стимулирования поведения и деятельности – <span style="color:violet;font-weight: 600;">«мотивация»</span> : <span style="color:orange;font-weight: 600;">соревнование, поощрение, наказание</span>.
+ &nbsp;&nbsp;&nbsp; методы стимулирования поведения и деятельности – <span style="color:violet;font-weight: 600;">«мотивация»</span> : <span style="color:orange;font-weight: 600;">соревнование, поощрение, наказание</span>.
 ## <span style="color: #4CAF50;font-weight: 600;"> - Методы обучения: </span>
 ### - по доминирующим средствам: <br> <span style="color:orange;font-weight: 600;"> словесные, наглядные, практические; </span>
 ### - по дидактическим задачам: <br> <span style="color:orange;font-weight: 600;"> методы приобретения новых знаний, методы формирования умений и навыков, методы проверки и оценки знаний, умений и навыков; </span>
