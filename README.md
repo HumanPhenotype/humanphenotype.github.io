@@ -84,7 +84,7 @@ All this perceived-audio-tweaking is done in a highly sadistic and evil manner, 
 Usually targeting starts with trying to convince the target that their neighbors, colleagues or landlords are out to get them, in the hope that the targeted individual will lash out and go to prison, the psych ward and lose their job and house. It is not hard to drive a person over the edge in that way, as witnessed by the many shootings where something about mind-control, electromagnetic weapons or hearing voices was connected to the shooter's psychology.
 
 When that first phase fails, the program switches to pulling targeted individuals into fantastical fringe conspiracy theories, concerning often used tropes from Hollywood and the mainstream media (UFOs, demons, time travel, being "chosen ones", etc). The synthetic telepathy often mimics the "psychic driving" technique known from the surviving <span style="color:violet;font-weight: 600;">MKULTRA documents</span>. 
-
+ <br>
 Lastly when the target is still not down and out, the physical attacks are ramped up and the psychological attacks become more opportunistic - waiting for a moment when the target is open to suggestion, fatigued, had too much to drink or other compromising states. And then it lashes out - hard. It becomes a war of attrition that the target usually loses.
 
 </diV>
