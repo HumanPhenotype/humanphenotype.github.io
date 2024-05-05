@@ -82,11 +82,21 @@ Lastly when the target is still not down and out, the physical attacks are rampe
 
 # <center style="border: 2px solid orange;padding: 15px;border-radius: 5px;"><span style="color:orange;">Depending on the level of competence of the operator, people may not notice him at all all their lives</span></center>
 
-
+<div>
+• разрушение доверительных отношений с родственниками <br>
+• расстройство памяти <br>
+• внедрение ложных воспоминаний <br>
+• дискредитация человека его поведением <br>
+• изменение сексуальных привычек <br>
+• методы выпытывания информации <br>
+• внушаемость <br>
+• создание у человека чувства зависимости
+</div>
 
 <div>
     <img alt="targeting" width="100%" src="2.jpg">
 </div>
+
 # <center style="border: 2px solid orange;padding: 15px;border-radius: 5px;"><span style="color:orange;">В зависимости от уровня компетентности оператора люди всю жизнь могут вообще его не замечать</span></center>
 <div>
     <a href="https://www.youtube.com/watch?v=COWTBEl1rRc">
