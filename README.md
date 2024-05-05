@@ -3,13 +3,16 @@
     ::-webkit-scrollbar{width:0px;}
    .markdown-body h2, h1 {border-bottom: 0px solid transparent;}.markdown-body h1 {border-bottom: 0px solid transparent;}
 </style>
-<iframe style="width:100%;height:35vh;border:0;border-radius: 10px;" src="https://www.youtube.com/embed/NaAQzaV3VtQ?si=EqPxBmNsTgdERN_T"></iframe>
+
 <img style="border-radius:10px;" src="https://humanphenotype.github.io/br.jpg">
 <!--<img src="https://cepbep.github.io/DNA/img/3.png" style="background-color:black;">-->
 <iframe style="width:100%;height:35vh;border:0;border-radius: 10px;" src="https://www.youtube.com/embed/lPUGB69cu6Q?si=X59IIsy68TQmz76F"></iframe>
 # <center style="border: 0px solid #0264d6;padding: 15px;border-radius: 7px;background: white;color: black;"> >_ <span style="font-weight: 600;color:black;"><a style="color:black;" href="dark.html"> Синтетическая Телепатия </a></span> и <span style="color:green;font-weight: 600;color:black;"><a style="color:black;" href="dark.html"> Чёрная Психология </a></span> </center>
 <div><a style="color:black;" href="dark.html"><img src="https://humanphenotype.github.io/tp.jpg"/></a></div>
-# <center style="border: 3.5px solid green;padding: 15px;border-radius: 7px;"> >_ <span style="color:#4CAF50;font-weight: 600;"> Культурный Код </span> и <span style="color:#4CAF50;font-weight: 600;"> Фенотипирование Человека </span> </center>
+# <center style="border: 3.5px solid green;padding: 15px;border-radius: 7px;"> >_ 
+<span style="color:#4CAF50;font-weight: 600;"> Культурный Код </span> и <span style="color:#4CAF50;font-weight: 600;"> Фенотипирование Человека </span>
+  </center>
+<iframe style="width:100%;height:35vh;border:0;border-radius: 10px;" src="https://www.youtube.com/embed/NaAQzaV3VtQ?si=EqPxBmNsTgdERN_T"></iframe>
 <img src="https://humanphenotype.github.io/kc.png">
 <a href="https://youtu.be/LGBhAXNG_ig"><img src="https://humanphenotype.github.io/sem.jpg"></a>
 ## <center style="border: 3px solid violet;padding: 15px;border-radius: 7px;"> - <span style="color:green;font-weight: 600;">Cистема предрасположенностей</span>, которая сначала формируется у <span style="color:violet;font-weight: 600;">индивида</span> под влияем социальной <span style="color:green;font-weight: 600;">среды, в которой он живет</span>, а затем регулирует поведение индивида <span style="color:green;font-weight: 600;">без его сознательного участия</span>. </center>
