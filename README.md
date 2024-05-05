@@ -115,7 +115,7 @@ The use of these and previous/battlefield versions of these weapons on civilians
     <img src="https://humanphenotype.github.io/ins.png"></a>
 </div>
 
-## <center style="border: 2px solid green;padding: 15px;border-radius: 5px;"><span style="color:green;"> - ГОСТ Р 43.0.3-2009 </span></center>
+## <center style="border: 2px solid green;padding: 15px;border-radius: 5px;"><span style="color:green;"> ГОСТ Р 43.0.3-2009 </span></center>
 
 ## <center>Термины и определения</center>
 
