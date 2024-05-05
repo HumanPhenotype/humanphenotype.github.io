@@ -28,8 +28,11 @@
 # <center style="border: 0px solid #0264d6;padding: 15px;border-radius: 7px;background: white;color: black;"> >_ <span style="font-weight: 600;color:black;"><a style="color:black;" href="dark.html"> Синтетическая Телепатия </a></span> и <span style="color:green;font-weight: 600;color:black;"><a style="color:black;" href="dark.html"> { Чёрная Психология }</a></span> </center>
 
 <div><a style="color:black;" href="dark.html"><img src="https://humanphenotype.github.io/tp.jpg"/></a></div>
+
 <img src="pp1.png" alt="Примативность это степень реактивности ответа на внешнюю среду. Чем быстрее ты отвечаешь на воздействие, исходящее из внешней среды, тем выше твоя примативность, тем ближе ты к животному. И чем больше отклик между раздражителем из внешнего мира и твоей ответной реакцией, тем ниже твоя примативность. По факту этим миром управляют и имеют на него воздействие только низкопримативные люди. По тому что разум и эмоции контрарны, противоположны. Когда включается одно-исчезает другое"/>
+
 ## <a target="blank" href="https://www.youtube.com/watch?v=BXNvKTtx1o4"> <center style="border: 2px solid rgb(3, 102, 214);padding: 15px;border-radius: 5px;"> <span> Современные методы слежки и контроля населения </span> </center> </a>
+
 ## <span style="color:violet;"> - Синтетическая телепатия это Радио-Мозг-Компьютер-Интерфейс-Распознавание-Намерения-Кость-Проводимость (РМКИ-РНКП) </span>
 <iframe style="width:100%;height:35vh;border:0;border-radius: 10px;" src="https://www.youtube.com/embed/RRbppibf_XE?si=RSWlBuFbG7afH0UD"></iframe>
 
@@ -49,8 +52,7 @@ The use of these and previous/battlefield versions of these weapons on civilians
 
 <iframe style="width:100%;height:35vh;border:0;border-radius: 10px;" src="https://www.youtube.com/embed/k6c2S-BCm8c?si=FlVQony78hD487EQ"></iframe>
 
-
-
+<div style="border: 3px solid violet;padding: 15px;border-radius: 7px;">
 ### <center><span style="color:orange;">- Invisible Concentration-Camps </span></center>
 
 We are in the first quarter of the 21st century and already there exist invisible concentration camps where many suffer in silence - unable to even form basic concepts of the weaponry being used against them, if they are even aware that they are targeted with high tech weaponry. These weapons are highly advanced, their development highly covert and they are very easy to conceal. It is therefor extremely hard to gather enough data, testimonies and proofs to show they not only exists but that they are used on civilians. These modern microwave-based weapon systems are used every day. By global elites, militaries and intelligence agencies - on foreign and domestic populations for the purpose of what appears to be a secret and highly sadistic depopulation scheme so covertly executed that the victims often have nobody to turn to who will believe their story.
@@ -64,7 +66,6 @@ The psychological trauma is caused by the extreme interrogation and propaganda t
 ### <center> <span style="color:orange;">- Cognitive Damage </span> </center>
 
 The cognitive damage is apparent in many cases, as targeted individuals report having the feeling that part of their brain has been turned off - not being able to concentrate, read, write, work or even communicate. Or they report feeling extremely lethargic for no reason. It could be that they report their breathing is artificially impeded causing lightheadedness and a host of other side-effects. Some report bouts of racing heart or the opposite: the sensation of near stopping of the pulse.  None of this is a recipe for good cognitive health - nor physical well-being. 
-
 
 
 ### <center> <span style="color:orange;">- Knock-Out </span> </center>
@@ -86,6 +87,8 @@ Usually targeting starts with trying to convince the target that their neighbors
 When that first phase fails, the program switches to pulling targeted individuals into fantastical fringe conspiracy theories, concerning often used tropes from Hollywood and the mainstream media (UFOs, demons, time travel, being "chosen ones", etc). The synthetic telepathy often mimics the "psychic driving" technique known from the surviving <span style="color:violet;font-weight: 600;">MKULTRA documents</span>. 
 
 Lastly when the target is still not down and out, the physical attacks are ramped up and the psychological attacks become more opportunistic - waiting for a moment when the target is open to suggestion, fatigued, had too much to drink or other compromising states. And then it lashes out - hard. It becomes a war of attrition that the target usually loses.
+
+</diV>
 
 # <center style="border: 2px solid orange;padding: 15px;border-radius: 5px;"><span style="color:orange;">Depending on the level of competence of the operator, people may not notice him at all all their lives</span></center>
 
