@@ -175,7 +175,7 @@ The use of these and previous/battlefield versions of these weapons on civilians
 
 - <span style="color:orange;">3.28</span> ноон-технология: Технология создания информации в виде, соответствующем психофизиологии человека (с использованием результатов исследований, полученных в ноонике), для реализации оптимизированных информационно-обменных процессов в СЧИ при создании, хранении, передаче, применении сообщений.
 
-## <center> <span style="color:green;"> - ГОСТ Р 43.0.2-2006</span>, <span style="color:violet;">статья А.2</span> (приложение А) </center>
+## <center> <span style="color:green;"> ГОСТ Р 43.0.2-2006</span>, <span style="color:violet;">статья А.2</span> (приложение А) </center>
 
 <div> 
     <img alt="targeting" width="100%" src="E.jpg">
@@ -217,7 +217,7 @@ The use of these and previous/battlefield versions of these weapons on civilians
 
 - <span style="color:orange;">3.46</span> симулятор: Техническое устройство, работа которого основана на управлении информацией с целью передачи оператору, пользующемуся этим устройством, знаний, а также выработки у него интеллектуальных, моторных, интеллектуально-моторных навыков и умений.
 
-## <center> <span style="color:green;"> - ГОСТ Р 43.0.2-2006</span>, <span style="color:violet;">статья А.11</span> (приложение А) </center>
+## <center> <span style="color:green;"> ГОСТ Р 43.0.2-2006</span>, <span style="color:violet;">статья А.11</span> (приложение А) </center>
 
 - <span style="color:orange;">3.47</span> синестезия: (В психике личности.) Психоинформационное ассоциативное взаимодействие, устанавливающее в мышлении субъекта (оператора) межчувственные связи.
 
@@ -231,7 +231,7 @@ The use of these and previous/battlefield versions of these weapons on civilians
 
 - <span style="color:orange;">3.52</span> техника: Совокупность технических устройств, предназначенных для использования в деятельности человека, общества.
 
-## <center> <span style="color:green;"> - ГОСТ Р 43.0.2-2006</span>, <span style="color:violet;">статья А.4</span> (приложение А) </center>
+## <center> <span style="color:green;"> ГОСТ Р 43.0.2-2006</span>, <span style="color:violet;">статья А.4</span> (приложение А) </center>
 
 - <span style="color:orange;">3.53</span> техносфера: Область распространения техники, определяемая потребностями социума.
 
@@ -245,7 +245,7 @@ The use of these and previous/battlefield versions of these weapons on civilians
 
 - <span style="color:orange;">3.58</span> человек-оператор СЧМ; оператор СЧМ: Человек, осуществляющий трудовую деятельность, основу которой составляет взаимодействие с объектом воздействия, машиной и средой на рабочем месте при использовании информационной модели и органов управления.
 
-## <center> <span style="color:green;"> - ГОСТ 26387-84</span>, <span style="color:violet;">статья 3</span> </center>
+## <center> <span style="color:green;"> ГОСТ 26387-84</span>, <span style="color:violet;">статья 3</span> </center>
 
 - <span style="color:orange;">3.59</span> эвристическая информационная деятельность: Информационная деятельность, обеспечивающая творческое мышление оператора, его творческое взаимодействие с окружающей средой.
 
