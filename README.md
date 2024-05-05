@@ -368,7 +368,7 @@ Lastly when the target is still not down and out, the physical attacks are rampe
 
 <img src="https://cepbep.github.io/DNA/img/3.png" style="background-color:black;">
 
-## <center> <span style="color:green;"> Основные факторы подавления личности:</span> </center>
+## <center style="border: 2px solid green;padding: 15px;border-radius: 5px;"> <span style="color:green;"> Основные факторы подавления личности:</span> </center>
 
 - <span style="color:orange;font-weight: 600;">Занятия бессмысленной работой</span>, причем заключенные должны понимать, что их действия лишены всякого смысла. Например, перенести камень с одного места на другое. Или делать всю работу руками, когда рядом лежит необходимый инструмент;<br>
 - <span style="color:orange;font-weight: 600;">Противоречия в системе правил</span>, когда выполняя одно, обязательно нарушаешь другое. Например, бегать запрещено, но если ты не успеваешь дойти пешком, тебя ждет наказание. Надзиратели часто закрывали глаза на такие нарушения, но создавалась атмосфера постоянного страха;<br>
@@ -377,7 +377,7 @@ Lastly when the target is still not down and out, the physical attacks are rampe
 - <span style="color:orange;font-weight: 600;">Поощрение безразличия</span>, когда хвалят за то, что человек отворачивается или молча проходит мимо несправедливости, делая вид, что ничего не видит и не слышит;<br>
 - <span style="color:orange;font-weight: 600;">Слом последних морально-нравственных принципов</span>, так называемой последней черты.
      <center><img src="с.jpg" style="background-color:black;"></center>
-## - <a href="https://opentextnn.ru/old/man/index.html@id=4019"> Беттельгейм Бруно. Просвещенное сердце (Ссылка) </a>
+## - <a href="https://opentextnn.ru/old/man/index.html@id=4019"> <center style="border: 2px solid rgb(3, 102, 214);padding: 15px;border-radius: 5px;"> Беттельгейм Бруно. Просвещенное сердце (Ссылка) </center> </a>
 <a href="https://opentextnn.ru/old/man/index.html@id=4019"> <img src="44.jpg">  </a>
 
 <span style="color:orange;font-weight: 600;">Управление перспективных исследовательских проектов Министерства обороны США (Defense Advanced Research Projects Agency, DARPA)</span> разместило заявку на технологии защиты военных от когнитивных атак, проводимых через очки смешанной реальности. Согласно запросу ведомства, пользователи очков, способных визуализировать контекстуальную информацию, уязвимы для тактических информационных угроз, таких как подмена данных, ложные сигналы тревоги, ухудшение физического состояния через увеличение задержек между движением и реакцией оборудования, кража данных о бойцах с датчиков устройств и ложные объекты в поле зрения.
