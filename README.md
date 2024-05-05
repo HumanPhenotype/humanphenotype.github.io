@@ -108,9 +108,7 @@ Lastly when the target is still not down and out, the physical attacks are rampe
 
 ## <center style="border: 2px solid green;padding: 15px;border-radius: 5px;"><span style="color:green;"> - ГОСТ Р 43.0.3-2009 </span></center>
 
-
-
-<center>Термины и определения</center>
+## <center>Термины и определения</center>
 
 - <span style="color:orange;">3.1</span> абдукативные решения: Решения, принимаемые оператором по предварительно оцененной (с фиксацией следствий ) информации на основе приобретенных ранее знаний.
 
