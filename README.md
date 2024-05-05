@@ -1,4 +1,4 @@
-ф<style>
+<style>
     body{background-color: black;color: white;}
     ::-webkit-scrollbar{width:0px;}
    .markdown-body h2, h1 {border-bottom: 0px solid transparent;}.markdown-body h1 {border-bottom: 0px solid transparent;}
