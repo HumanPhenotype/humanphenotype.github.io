@@ -356,7 +356,7 @@ Lastly when the target is still not down and out, the physical attacks are rampe
 
 
 
-## <span style="color:green;">Манипулятор для управления толпой использует</span>
+## <center> <span style="color:green;">Манипулятор для управления толпой использует</span> </center>
 <span style="color:orange;font-weight: 600;">- Социальные, </span> <br>
 <span style="color:orange;font-weight: 600;">- Религиозные, </span> <br>
 <span style="color:orange;font-weight: 600;">- Культурные, </span> <br>
