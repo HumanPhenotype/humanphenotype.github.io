@@ -8,7 +8,7 @@
 <!--<img src="https://cepbep.github.io/DNA/img/3.png" style="background-color:black;">-->
 <iframe style="width:100%;height:35vh;border:0;border-radius: 10px;" src="https://www.youtube.com/embed/lPUGB69cu6Q?si=X59IIsy68TQmz76F"></iframe>
 
-# <center style="border:3.5px solid #068ef4;padding: 15px;border-radius: 7px;background:#068ef4;"> >_ <span style="color:white;font-weight: 600;"> Культурный Код </span> и <span style="color:white;font-weight: 600;"> Фенотипирование Человека </span></center>
+# <center style="border:3.5px solid #068ef4;padding: 15px;border-radius: 7px;background:#068ef4;"> >_ <span style="color:white;font-weight: 600;"> Культурный Код </span> и <span style="color:white;font-weight: 600;"> { Фенотипирование Человека } </span></center>
 <iframe style="width:100%;height:35vh;border:0;border-radius: 10px;" src="https://www.youtube.com/embed/NaAQzaV3VtQ?si=EqPxBmNsTgdERN_T"></iframe>
 <img src="https://humanphenotype.github.io/kc.png">
 <a href="https://youtu.be/LGBhAXNG_ig"><img src="https://humanphenotype.github.io/sem.jpg"></a>
