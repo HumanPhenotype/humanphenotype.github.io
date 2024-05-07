@@ -4,8 +4,11 @@
    .markdown-body h2, h1 {border-bottom: 0px solid transparent;}.markdown-body h1 {border-bottom: 0px solid transparent;}
 </style>
 <iframe style="width:100%;height:35vh;border:0;border-radius: 10px;" src="https://www.youtube.com/embed/zDu9-qhbejA"></iframe>
+
 <img style="border-radius:10px;background:unset;" src="https://humanphenotype.github.io/br000.png">
+
 <!--<img src="https://cepbep.github.io/DNA/img/3.png" style="background-color:black;">-->
+
 <iframe style="width:100%;height:35vh;border:0;border-radius: 10px;" src="https://www.youtube.com/embed/lPUGB69cu6Q?si=X59IIsy68TQmz76F"></iframe>
 
 # <center style="border:3.5px solid #068ef4;padding: 15px;border-radius: 7px;background:#068ef4;"> >_ <span style="color:white;font-weight: 900;"> Культурный Код </span> и <span style="color:white;font-weight: 900;"> { Фенотипирование Человека } </span></center>
