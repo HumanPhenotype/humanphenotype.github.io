@@ -3,7 +3,7 @@
     ::-webkit-scrollbar{width:0px;}
    .markdown-body h2, h1 {border-bottom: 0px solid transparent;}.markdown-body h1 {border-bottom: 0px solid transparent;}
 </style>
-
+<iframe style="width:100%;height:35vh;border:0;border-radius: 10px;" src="https://www.youtube.com/embed/zDu9-qhbejA"></iframe>
 <img style="border-radius:10px;background:unset;" src="https://humanphenotype.github.io/br000.png">
 <!--<img src="https://cepbep.github.io/DNA/img/3.png" style="background-color:black;">-->
 <iframe style="width:100%;height:35vh;border:0;border-radius: 10px;" src="https://www.youtube.com/embed/lPUGB69cu6Q?si=X59IIsy68TQmz76F"></iframe>
@@ -17,7 +17,7 @@
 ## <span style="color:orange;font-weight: 600;"><a href="https://www.youtube.com/@teloschannel">СОЦИОЛОГИЯ</a> и ЭТОЛОГИЯ Человека</span> изучает поведение человека как результат взаимодействия биологических и социокультурных факторов. Она базируется на теоретических представлениях и методах, разработанных в этологии животных, и одновременно находится в тесной связи с гуманитарными дисциплинами.
 ## <span style="color:orange;font-weight: 600;">СОЦИОБИОЛО́ГИЯ</span> (<span style="color:green;font-weight: 600;">от лат. societas – об­ще­ст­во, био... и ...ло­гия</span>), на­прав­ле­ние в био­ло­гии, свя­зан­ное с изу­че­ни­ем всех форм со­ци­аль­но­го по­ве­де­ния жи­вых су­ществ, вклю­чая че­ло­ве­ка. С. опи­ра­ет­ся на дан­ные по­пу­ля­ци­он­ной ге­не­ти­ки, это­ло­гии, эко­ло­гии и эво­люц. тео­рии. С. че­ло­ве­ка ис­поль­зу­ет так­же дан­ные со­цио­ло­гии, со­ци­аль­ной пси­хо­ло­гии, ан­тро­по­ло­гии и эт­но­гра­фии. Цен­траль­ным для С. яв­ля­ет­ся по­ло­же­ние о ге­не­тич. де­тер­ми­ни­ро­ван­но­сти разл. ас­пек­тов по­ве­де­ния жи­вот­ных, вклю­чая фе­но­ме­ны со­ци­аль­но­го по­ве­де­ния.
 
-<iframe style="width:100%;height:35vh;border:0;border-radius: 10px;" src="https://www.youtube.com/embed/zDu9-qhbejA?si=unTse13q0kMFiTqo"></iframe>
+
 
 <iframe style="width:100%;height:35vh;border:0;border-radius: 10px;" src="https://www.youtube.com/embed/DBWSRTcTC5w?si=4UXVLUsSwWelobcl"></iframe>
 
