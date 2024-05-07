@@ -316,7 +316,7 @@ The use of these and previous/battlefield versions of these weapons on civilians
 
 - <span style="color:orange;">ЯзОД</span> - язык операторской деятельности.
 
-# <center style="border: 2px solid green;padding: 15px;border-radius: 5px;"> <span style="color:green;">- Способность осознавать подверженность когнитивным искажениям может быть полезным «мягким» навыком.</span></center>
+# <center style="border: 2px solid orange;padding: 15px;border-radius: 5px;"> <span style="color:orange;">Способность осознавать подверженность когнитивным искажениям может быть полезным «мягким» навыком.</span></center>
 <a target="blank" href="https://habr.com/ru/companies/otus/articles/793130/">
 <img src="1.jpg"/>
  </a>
