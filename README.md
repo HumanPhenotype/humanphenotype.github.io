@@ -318,7 +318,7 @@ The use of these and previous/battlefield versions of these weapons on civilians
 
 # <center style="border: 2px solid orange;padding: 15px;border-radius: 5px;"> <span style="color:orange;">Способность осознавать подверженность когнитивным искажениям может быть полезным «мягким» навыком.</span></center>
 <a target="blank" href="https://habr.com/ru/companies/otus/articles/793130/">
-<img  style="border-radius:5px;" src="1.jpg"/>
+<img  style="border-radius:7.5px;" src="1.jpg"/>
  </a>
 
 <img src="https://humanphenotype.github.io/cell.png">
