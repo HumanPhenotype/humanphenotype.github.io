@@ -3,20 +3,23 @@
     ::-webkit-scrollbar{width:0px;}
    .markdown-body h2, h1 {border-bottom: 0px solid transparent;}.markdown-body h1 {border-bottom: 0px solid transparent;}
 </style>
-<iframe style="width:100%;height:35vh;border:0;border-radius: 10px;" src="https://www.youtube.com/embed/zDu9-qhbejA"></iframe>
+
+<iframe style="width:100%;height:35vh;border:0;border-radius:10px;" src="https://www.youtube.com/embed/zDu9-qhbejA"></iframe>
+
+<iframe style="width:100%;height:35vh;border:0;border-radius:10px;" src="https://www.youtube.com/embed/UsfG2LqKods"></iframe>
 
 <img style="border-radius:10px;background:unset;" src="https://humanphenotype.github.io/br000.png">
 
 <!--<img src="https://cepbep.github.io/DNA/img/3.png" style="background-color:black;">-->
 
-<iframe style="width:100%;height:35vh;border:0;border-radius: 10px;" src="https://www.youtube.com/embed/lPUGB69cu6Q?si=X59IIsy68TQmz76F"></iframe>
+<iframe style="width:100%;height:35vh;border:0;border-radius: 10px;" src="https://www.youtube.com/embed/lPUGB69cu6Q"></iframe>
 
 # <center style="border:3.5px solid #068ef4;padding: 15px;border-radius: 7px;background:#068ef4;"> >_ <span style="color:white;font-weight: 900;"> Культурный Код </span> и <span style="color:white;font-weight: 900;"> { Фенотипирование Человека } </span></center>
-<iframe style="width:100%;height:35vh;border:0;border-radius: 10px;" src="https://www.youtube.com/embed/NaAQzaV3VtQ?si=EqPxBmNsTgdERN_T"></iframe>
+<iframe style="width:100%;height:35vh;border:0;border-radius: 10px;" src="https://www.youtube.com/embed/NaAQzaV3VtQ"></iframe>
 <img src="https://humanphenotype.github.io/kc.png">
 <a href="https://youtu.be/LGBhAXNG_ig"><img src="https://humanphenotype.github.io/sem.jpg"></a>
 ## <center style="border: 3px solid violet;padding: 15px;border-radius: 7px;">&nbsp;&nbsp;&nbsp;- <span style="color:green;font-weight: 600;">Cистема предрасположенностей</span>, которая сначала формируется у <span style="color:violet;font-weight: 600;">индивида</span> под влияем социальной <span style="color:green;font-weight: 600;">среды, в которой он живет</span>, а затем регулирует поведение индивида <span style="color:green;font-weight: 600;">без его сознательного участия</span>. </center>
-<img src="https://humanphenotype.github.io/ga1.png" style="background-color:black;">  
+<img  style="border-radius:10px;background:unset;" src="https://humanphenotype.github.io/ga1.png" style="background-color:black;">  
 ## <span style="color:orange;font-weight: 600;"><a href="https://www.youtube.com/@teloschannel">СОЦИОЛОГИЯ</a> и ЭТОЛОГИЯ Человека</span> изучает поведение человека как результат взаимодействия биологических и социокультурных факторов. Она базируется на теоретических представлениях и методах, разработанных в этологии животных, и одновременно находится в тесной связи с гуманитарными дисциплинами.
 ## <span style="color:orange;font-weight: 600;">СОЦИОБИОЛО́ГИЯ</span> (<span style="color:green;font-weight: 600;">от лат. societas – об­ще­ст­во, био... и ...ло­гия</span>), на­прав­ле­ние в био­ло­гии, свя­зан­ное с изу­че­ни­ем всех форм со­ци­аль­но­го по­ве­де­ния жи­вых су­ществ, вклю­чая че­ло­ве­ка. С. опи­ра­ет­ся на дан­ные по­пу­ля­ци­он­ной ге­не­ти­ки, это­ло­гии, эко­ло­гии и эво­люц. тео­рии. С. че­ло­ве­ка ис­поль­зу­ет так­же дан­ные со­цио­ло­гии, со­ци­аль­ной пси­хо­ло­гии, ан­тро­по­ло­гии и эт­но­гра­фии. Цен­траль­ным для С. яв­ля­ет­ся по­ло­же­ние о ге­не­тич. де­тер­ми­ни­ро­ван­но­сти разл. ас­пек­тов по­ве­де­ния жи­вот­ных, вклю­чая фе­но­ме­ны со­ци­аль­но­го по­ве­де­ния.
 
@@ -46,7 +49,7 @@
 <center style="border: 3px solid orange;padding:10px;border-radius:7px;position:relative;top:-20px;">In the past three decades, directed energy weapons have made their way from their military industrial origins into the <span style="color:orange;font-weight: 600;"><a href="https://www.youtube.com/watch?v=8P9Q3Ow4qjY">global telecommunication systems (LTE/5G-NR), integrated into beamforming- and steering phased array radar and MIMO transmitters</a></span>.</center>
 
 <div> 
-    <img alt="targeting" width="100%" src="0.jpeg">
+    <img style="border-radius:10px;background:unset;" alt="targeting" width="100%" src="0.jpeg">
 </div>
 
 <center style="border: 3px solid orange;padding: 10px;border-radius: 7px;">
@@ -181,7 +184,7 @@ The use of these and previous/battlefield versions of these weapons on civilians
 ## <center> <span style="color:green;"> ГОСТ Р 43.0.2-2006</span>, <span style="color:violet;">статья А.2</span> (приложение А) </center>
 
 <div> 
-    <img alt="targeting" width="100%" src="E.jpg">
+    <img style="border-radius:10px;background:unset;"  alt="targeting" width="100%" src="E.jpg">
 </div>
 
 - <span style="color:orange;">3.29</span> пикториально-аудиальное представление технических сведений: Представление сведений в картинном и речезвуковом виде.
@@ -257,7 +260,7 @@ The use of these and previous/battlefield versions of these weapons on civilians
 - <span style="color:orange;">3.61</span> эргатическая информационная деятельность: Информационная деятельность, обеспечивающая практическое взаимодействие оператора с окружающей средой.
 
 <div> 
-    <img alt="targeting" width="100%" src="EE.jpg">
+    <img style="border-radius:10px;background:unset;" alt="targeting" width="100%" src="EE.jpg">
 </div>
 
 ## <center> <span style="color:white;"> В настоящем стандарте применены следующие сокращения:</span> </center>
@@ -318,7 +321,7 @@ The use of these and previous/battlefield versions of these weapons on civilians
 
 # <center style="border: 2px solid orange;padding: 15px;border-radius: 5px;"> <span style="color:orange;">Способность осознавать подверженность когнитивным искажениям может быть полезным «мягким» навыком.</span></center>
 <a target="blank" href="https://habr.com/ru/companies/otus/articles/793130/">
-<img  style="border-radius:7.5px;" src="1.jpg"/>
+<img style="border-radius:7.5px;" src="1.jpg"/>
  </a>
 
 <img src="https://humanphenotype.github.io/cell.png">
