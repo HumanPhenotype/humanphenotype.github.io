@@ -17,7 +17,8 @@
 # <center style="border:3.5px solid #068ef4;padding: 15px;border-radius: 7px;background:#068ef4;"> >_ <span style="color:white;font-weight: 900;"> Культурный Код </span> и <span style="color:white;font-weight: 900;"> { Фенотипирование Человека } </span></center>
 <iframe style="width:100%;height:35vh;border:0;border-radius: 10px;" src="https://www.youtube.com/embed/NaAQzaV3VtQ"></iframe>
 
-<a href="https://www.youtube.com/@b_chp/videos">
+<!--<a href="https://www.youtube.com/@b_chp/videos">-->
+<a href="http://velikayakultura.ru/teoriya-kultury/kulturnyiy-kod-ponyatie-printsipyi-istoriya">
  <img src="https://humanphenotype.github.io/kc.png">
 </a>
 
