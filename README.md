@@ -6,8 +6,8 @@
 
 <iframe style="width:100%;height:35vh;border:0;border-radius:10px;" src="https://www.youtube.com/embed/zDu9-qhbejA"></iframe>
 
-<a href="https://youtu.be/LGBhAXNG_ig"><img src="https://www.youtube.com/@OlgaDemchuk/videos">
- <img style="border-radius:10px;background:unset;" src="https://humanphenotype.github.io/br000.png">
+<a href="https://www.youtube.com/@OlgaDemchuk/videos">
+ <img style="border-radius:10px;background:unset;" src="https://humanphenotype.github.io/br000.png"/>
 </a>
 
 <!--<img src="https://cepbep.github.io/DNA/img/3.png" style="background-color:black;">-->
