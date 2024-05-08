@@ -380,7 +380,7 @@ The use of these and previous/battlefield versions of these weapons on civilians
 Легендарный крик толпы: <span style="color:violet;font-weight:600;">«Распни Его!»</span> — служит древнейшим свидетельством формирования <span style="color:violet;font-weight:600;">управляемой толпы</span> на основе религиозных установок и яркого <span style="color:violet;font-weight:600;">образа врага</span>.
 Формирование <span style="color:violet;font-weight:600;">управляемой толпы</span> посредством серии <span style="color:violet;font-weight:600;">манипуляций</span> становится <span style="color:violet;font-weight:600;">ключевым инструментом процесса</span> легитимизации и делегитимизации <span style="color:violet;font-weight:600;">властных институтов</span> в современном мире.
 
-<img src="https://cepbep.github.io/DNA/img/3.png" style="background-color:black;">
+<img src="https://cepbep.github.io/DNA/img/3.png" style="border-radius:10px;background:unset;">
 
 ## <center style="border: 2px solid green;padding: 15px;border-radius: 5px;"> <span style="color:green;"> Основные факторы подавления личности:</span> </center>
 
