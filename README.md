@@ -4,7 +4,7 @@
    .markdown-body h2, h1 {border-bottom: 0px solid transparent;}.markdown-body h1 {border-bottom: 0px solid transparent;}
 </style>
 
-<img style="border-radius:10px;background:unset;" src="https://humanphenotype.github.io/limb1.jpg"/>
+<img style="border-radius:10px;background:unset;" src="https://humanphenotype.github.io/limb1.png"/>
 
 <iframe style="width:100%;height:35vh;border:0;border-radius:10px;" src="https://www.youtube.com/embed/zDu9-qhbejA"></iframe>
 
