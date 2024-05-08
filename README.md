@@ -398,13 +398,13 @@ The use of these and previous/battlefield versions of these weapons on civilians
 - <span style="color:orange;font-weight: 600;">Слом последних морально-нравственных принципов</span>, так называемой последней черты.
      <center><img src="с.jpg" style="background-color:black;"></center>
 ## <a href="https://opentextnn.ru/old/man/index.html@id=4019"> <center style="border: 2px solid rgb(3, 102, 214);padding: 15px;border-radius: 5px;"> Беттельгейм Бруно. Просвещенное сердце (Ссылка) </center> </a>
-<a href="https://www.youtube.com/watch?v=NH6bII-NQWI"> <img style="border-radius:10px;background:unset;" src="44.jpg">  </a>
+<a href="https://www.youtube.com/watch?v=NH6bII-NQWI"> <img style="border-radius:10px;background:unset;" src="44.jpg"/>  </a>
 
 <span style="color:orange;font-weight: 600;"> &nbsp;&nbsp;&nbsp; Управление перспективных исследовательских проектов Министерства обороны США (Defense Advanced Research Projects Agency, DARPA)</span> разместило заявку на технологии защиты военных от когнитивных атак, проводимых через очки смешанной реальности. Согласно запросу ведомства, пользователи очков, способных визуализировать контекстуальную информацию, уязвимы для тактических информационных угроз, таких как подмена данных, ложные сигналы тревоги, ухудшение физического состояния через увеличение задержек между движением и реакцией оборудования, кража данных о бойцах с датчиков устройств и ложные объекты в поле зрения.
 
 ## <a href="https://www.darpa.mil/program/intrinsic-cognitive-security"> <center style="border: 2px solid rgb(3, 102, 214);padding: 15px;border-radius: 5px;"> Программа Внутренней когнитивной безопасности DARPA <br> (Intrinsic Cognitive Security, ICS) </center> </a>
 
-<a href="https://www.youtube.com/watch?v=aCkMzorxHdk"> <img style="border-radius:10px;background:unset;" src="o.jpg">  </a>
+<a href="https://www.youtube.com/watch?v=aCkMzorxHdk"> <img style="border-radius:10px;background:unset;" src="o.jpg"/>  </a>
 
 ## <center style="border: 2px solid green;padding: 15px;border-radius: 5px;"> <span style="color:green;"> Патенты США на технологии бесшумной связи включают:</span> </center>
 
