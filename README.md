@@ -4,7 +4,7 @@
    .markdown-body h2, h1 {border-bottom: 0px solid transparent;}.markdown-body h1 {border-bottom: 0px solid transparent;}
 </style>
 
-## <a href="https://www.youtube.com/watch?v=cwH81E5_Rtg&list=PLEDX369m70iiVYjVtszu_0hRkZhkMX9GO"> <center style="border:3.5px solid #068ef4;padding: 15px;border-radius: 7px;background:#068ef4;"> <span style="color:white;font-weight: 900;"> >_ КАРТЫ СМЫСЛА </span></center> </a>
+## <a href="https://www.youtube.com/watch?v=cwH81E5_Rtg&list=PLEDX369m70iiVYjVtszu_0hRkZhkMX9GO"> <center style="border: 3.5px solid #012b44;padding: 15px;border-radius: 7px;background: #012b44;"> <span style="color:white;font-weight: 900;"> >_ КАРТЫ СМЫСЛА </span></center> </a>
 
 <iframe style="width:100%;height:35vh;border:0;border-radius:10px;" src="https://www.youtube.com/embed/zDu9-qhbejA"></iframe>
 
