@@ -9,7 +9,7 @@
 <iframe style="width:100%;height:35vh;border:0;border-radius:10px;" src="https://www.youtube.com/embed/zDu9-qhbejA"></iframe>
 
 <center><img style="border-radius:10px;background:unset;" src="https://koronaebola.github.io/mir.jpg"/></center>
-<center style="border: 3px solid orange;border-radius: 10px;position: relative;top: -28px;">
+<center style="border: 3px solid orange;border-radius: 10px;position: relative;top: -29px;">
   <img style="border-radius:10px;background:unset;" src="https://koronaebola.github.io/brainTempl.png"/>
     <a href="https://www.youtube.com/@OlgaDemchuk/videos">
       <img style="border-radius:10px;background:unset;" src="https://humanphenotype.github.io/br000.png"/>
