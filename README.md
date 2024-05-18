@@ -199,7 +199,7 @@ The use of these and previous/battlefield versions of these weapons on civilians
 ## <center> <span style="color:green;"> ГОСТ Р 43.0.2-2006</span>, <span style="color:violet;">статья А.2</span> (приложение А) </center>
 
 <div> 
-    <img style="border-radius:10px;background:unset;"  alt="targeting" width="100%" src="https://koronaebola.github.io/E_negate.jpg"/>
+    <img  style="border-radius:10px;background:unset;border: 3px solid orange;" alt="targeting" width="100%" src="https://koronaebola.github.io/E_negate.jpg"/>
 </div>
 
 - <span style="color:orange;">3.29</span> пикториально-аудиальное представление технических сведений: Представление сведений в картинном и речезвуковом виде.
@@ -275,7 +275,7 @@ The use of these and previous/battlefield versions of these weapons on civilians
 - <span style="color:orange;">3.61</span> эргатическая информационная деятельность: Информационная деятельность, обеспечивающая практическое взаимодействие оператора с окружающей средой.
 
 <div> 
-    <img style="border-radius:10px;background:unset;" alt="targeting" width="100%" src="https://koronaebola.github.io/EE_negate.jpg"/>
+    <img style="border-radius:10px;background:unset;border: 3px solid orange;" alt="targeting" width="100%" src="https://koronaebola.github.io/EE_negate.jpg"/>
 </div>
 
 ## <center> <span style="color:white;"> В настоящем стандарте применены следующие сокращения:</span> </center>
