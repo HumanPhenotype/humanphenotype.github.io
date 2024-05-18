@@ -7,7 +7,7 @@
 ## <a href="https://www.youtube.com/watch?v=cwH81E5_Rtg&list=PLEDX369m70iiVYjVtszu_0hRkZhkMX9GO"> <center style="border: 3.5px solid #012b44;padding: 15px;border-radius: 7px;background: #012b44;"> <span style="color:white;font-weight: 900;"> >_ КАРТЫ СМЫСЛА </span></center> </a>
 <!-- ## <a href="https://drive.google.com/drive/folders/19jMAi35cRh827reofNy4cn32yjklQl90"> <center style="border: 3.5px solid #012b44;padding: 15px;border-radius: 7px;background: #012b44;"> <span style="color:white;font-weight: 900;"> >_ как привести себя в ресурсное состояние </span></center> </a> -->
 <iframe style="width:100%;height:35vh;border:0;border-radius:10px;" src="https://www.youtube.com/embed/zDu9-qhbejA"></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Fl2FqTsQYe8?si=p1W05EQqQNdfQXkV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <center><img style="border-radius:10px;background:unset;" src="https://koronaebola.github.io/mir.jpg"/></center>
 <img style="border-radius:10px;background:unset;" src="https://koronaebola.github.io/brainTempl.png"/>
 <a href="https://www.youtube.com/@OlgaDemchuk/videos">
@@ -104,6 +104,10 @@ The use of these and previous/battlefield versions of these weapons on civilians
 &nbsp;&nbsp;&nbsp;Lastly when the target is still not down and out, the physical attacks are ramped up and the psychological attacks become more opportunistic - waiting for a moment when the target is open to suggestion, fatigued, had too much to drink or other compromising states. And then it lashes out - hard. It becomes a war of attrition that the target usually loses.
 
 </diV>
+
+<div>
+    <img style="border-radius:8px;" alt="targeting" width="100%" src="https://koronaebola.github.io/neurofeedback.png">
+</div>
 
 # <center style="border: 2px solid orange;padding: 15px;border-radius: 5px;"><span style="color:orange;">Depending on the level of competence of the operator, people may not notice him at all all their lives</span></center>
 
