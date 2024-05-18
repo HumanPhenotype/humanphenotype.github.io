@@ -8,11 +8,12 @@
 <!-- ## <a href="https://drive.google.com/drive/folders/19jMAi35cRh827reofNy4cn32yjklQl90"> <center style="border: 3.5px solid #012b44;padding: 15px;border-radius: 7px;background: #012b44;"> <span style="color:white;font-weight: 900;"> >_ как привести себя в ресурсное состояние </span></center> </a> -->
 <iframe style="width:100%;height:35vh;border:0;border-radius:10px;" src="https://www.youtube.com/embed/zDu9-qhbejA"></iframe>
 
-<center style="border: 2px solid orange;"><img style="border-radius:10px;background:unset;" src="https://koronaebola.github.io/mir.jpg"/>
-  <img style="border-radius:10px;background:unset;" src="https://koronaebola.github.io/brainTempl.png"/></center>
+<center><img style="border-radius:10px;background:unset;" src="https://koronaebola.github.io/mir.jpg"/></center>
+<center style="border: 2px solid orange;">
+  <img style="border-radius:10px;background:unset;" src="https://koronaebola.github.io/brainTempl.png"/>
     <a href="https://www.youtube.com/@OlgaDemchuk/videos">
       <img style="border-radius:10px;background:unset;" src="https://humanphenotype.github.io/br000.png"/>
-</a>
+</a></center>
 
 <!--<img src="https://cepbep.github.io/DNA/img/3.png" style="background-color:black;">-->
 
