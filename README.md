@@ -112,7 +112,7 @@ The use of these and previous/battlefield versions of these weapons on civilians
 # <center style="border: 2px solid orange;padding: 15px;border-radius: 5px;"><span style="color:orange;">Depending on the level of competence of the operator, people may not notice him at all all their lives</span></center>
 
 <div>
-    <img style="border-radius:8px;" alt="targeting" width="100%" src="2.jpg">
+    <img style="border-radius:8px;" alt="targeting" width="100%" src="https://koronaebola.github.io/2_negate.jpg">
 </div>
 
 
