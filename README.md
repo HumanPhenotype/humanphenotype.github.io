@@ -45,6 +45,7 @@
 
 # <center style="border: 0px solid #0264d6;padding: 15px;border-radius: 7px;background: white;color: black;"> >_ <span style="font-weight:900;color:black;"><a style="color:black;" href="dark.html"> Синтетическая Телепатия </a></span> и <span style="color:green;font-weight:900;color:black;"><a style="color:black;" href="dark.html"> { Чёрная Психология }</a></span> </center>
 
+<div><a style="color:black;" href="dark.html"><img src="https://koronaebola.github.io/triada.jpg"/></a></div>
 <div><a style="color:black;" href="dark.html"><img src="https://humanphenotype.github.io/tp.jpg"/></a></div>
 
 <a href="https://www.youtube.com/watch?v=UsfG2LqKods">
