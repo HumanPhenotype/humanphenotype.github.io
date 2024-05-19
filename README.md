@@ -513,6 +513,12 @@ The use of these and previous/battlefield versions of these weapons on civilians
 
 ### - Потом стало известно также, что авиация США использовала и снаряды с обедненным ураном. Кроме того, в боеголовках "Томагавков" применялся радиоактивный йод, полностью распадавшийся в течение месяца, но наносивший за это время серьезный урон здоровью людей и окружающей природе.  
 
+<img style="border-radius:10px;background:unset;border: 3px solid orange;" alt="targeting" width="100%" src="https://koronaebola.github.io/g1.jpg"/>
+<img style="border-radius:10px;background:unset;border: 3px solid orange;" alt="targeting" width="100%" src="https://koronaebola.github.io/g2.jpg"/>
+<img style="border-radius:10px;background:unset;border: 3px solid orange;" alt="targeting" width="100%" src="https://koronaebola.github.io/g3.jpg"/>
+<img style="border-radius:10px;background:unset;border: 3px solid orange;" alt="targeting" width="100%" src="https://koronaebola.github.io/g4.jpg"/>
+<img style="border-radius:10px;background:unset;border: 3px solid orange;" alt="targeting" width="100%" src="https://koronaebola.github.io/g5.jpg"/>
+
 <iframe style="width:100%;height:35vh;border:0;border-radius: 10px;" src="https://www.youtube.com/embed/Ag5CUsRNY9Q"></iframe>
 <iframe style="width:100%;height:35vh;border:0;border-radius: 10px;" src="https://www.youtube.com/embed/Bg-3wWTWdGs"></iframe>
 <iframe style="width:100%;height:35vh;border:0;border-radius: 10px;" src="https://www.youtube.com/embed/cIFPLRqvaQA"></iframe>
