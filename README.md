@@ -11,7 +11,7 @@
 <center><img style="border-radius:10px;background:unset;" src="https://koronaebola.github.io/aw1.png"/></center>
 
 <center><img style="border-radius:10px;background:unset;" src="https://koronaebola.github.io/mir.jpg"/></center>
-<center style="border-radius: 10px;position: relative;top: -29px;">
+<center style="border-radius: 10px;position: relative;top: -30px;">
   <img style="border-radius:10px;background:unset;" src="https://koronaebola.github.io/brainTempl.png"/>
     <a href="https://www.youtube.com/@OlgaDemchuk/videos">
       <img style="border-radius:10px;background:unset;" src="https://humanphenotype.github.io/br000.png"/>
