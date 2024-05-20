@@ -227,7 +227,7 @@ The use of these and previous/battlefield versions of these weapons on civilians
 
 - <span style="color:orange;">3.38</span> <span style="color:violet;font-weight: 600;">рефлектизированная информация:</span> Информация, представленная с повышенным уровнем отражательных характеристик.
 
-- <span style="color:orange;">3.39</span> <span style="color:violet;font-weight: 600;">семантизированные информационно-психические явления:</span> (<span style="color:green;font-weight: 600;">В деятельности оператора.</span>) Информационно-психические явления (<span style="color:green;font-weight: 600;">базовые, периферийные</span>), возникающие в мышлении оператора под воздействием семантических информационно-обменных процессов, образующихся при восприятии им внешней информационно-предметной среды.
+- <span style="color:orange;">3.39</span> <span style="color:violet;font-weight: 600;">семантизированные информационно-психические явления:</span> (<span style="color:green;font-weight: 600;">В деятельности оператора</span>). Информационно-психические явления (<span style="color:green;font-weight: 600;">базовые, периферийные</span>), возникающие в мышлении оператора под воздействием семантических информационно-обменных процессов, образующихся при восприятии им внешней информационно-предметной среды.
 
 - <span style="color:orange;">3.40</span> <span style="color:violet;font-weight: 600;">семантика мышления:</span> Сформированные в мышлении оператора константные (<span style="color:green;font-weight: 600;">постоянные</span>) семантические информационные образования.
 
@@ -237,9 +237,9 @@ The use of these and previous/battlefield versions of these weapons on civilians
 
 - <span style="color:orange;">3.43</span> <span style="color:violet;font-weight: 600;">симбиозитивное управление информацией [<span style="color:green;font-weight: 600;">базами знаний</span>]:</span> Управление (<span style="color:green;font-weight: 600;">на биоуровне строения человека</span>) информацией [<span style="color:green;font-weight: 600;">базами знаний</span>] с применением направленно-изменяемого симбиозитированного человекоинформационного активно-интерактивного взаимодействия.
 
-- <span style="color:orange;">3.44</span> <span style="color:violet;font-weight: 600;">синергетика:</span> (<span style="color:green;font-weight: 600;">В психике личности.</span>) Психоинформационное самоорганизующееся изменение отражения действительности в мышлении оператора, возникающее под воздействием органов чувств, процессов мышления.
+- <span style="color:orange;">3.44</span> <span style="color:violet;font-weight: 600;">синергетика:</span> (<span style="color:green;font-weight: 600;">В психике личности</span>). Психоинформационное самоорганизующееся изменение отражения действительности в мышлении оператора, возникающее под воздействием органов чувств, процессов мышления.
 
-- <span style="color:orange;">3.45</span> <span style="color:violet;font-weight: 600;">синергия:</span> (<span style="color:green;font-weight: 600;">В психике личности.</span>) Психоинформационное взаимодействие (<span style="color:green;font-weight: 600;">совместное координированное действие</span>) органов чувств, процессов мышления, обеспечивающее в мышлении оператора разностороннее отражение действительности.
+- <span style="color:orange;">3.45</span> <span style="color:violet;font-weight: 600;">синергия:</span> (<span style="color:green;font-weight: 600;">В психике личности</span>). Психоинформационное взаимодействие (<span style="color:green;font-weight: 600;">совместное координированное действие</span>) органов чувств, процессов мышления, обеспечивающее в мышлении оператора разностороннее отражение действительности.
 
 - <span style="color:orange;">3.46</span> <span style="color:violet;font-weight: 600;">симулятор:</span> Техническое устройство, работа которого основана на управлении информацией с целью передачи оператору, пользующемуся этим устройством, знаний, а также выработки у него интеллектуальных, моторных, интеллектуально-моторных навыков и умений.
 
