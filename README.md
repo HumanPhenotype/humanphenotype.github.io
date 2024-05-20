@@ -51,12 +51,12 @@
 <a href="https://www.youtube.com/watch?v=UsfG2LqKods">
 <img src="pp1.png" alt="Примативность это степень реактивности ответа на внешнюю среду. Чем быстрее ты отвечаешь на воздействие, исходящее из внешней среды, тем выше твоя примативность, тем ближе ты к животному. И чем больше отклик между раздражителем из внешнего мира и твоей ответной реакцией, тем ниже твоя примативность. По факту этим миром управляют и имеют на него воздействие только низкопримативные люди. По тому что разум и эмоции контрарны, противоположны. Когда включается одно-исчезает другое"/>
 </a>
-## <a target="blank" href="https://www.youtube.com/watch?v=BXNvKTtx1o4"> <center style="border: 2px solid rgb(3, 102, 214);padding: 15px;border-radius: 5px;"> <span> Современные методы слежки и контроля населения </span> </center> </a>
+## <a target="blank" href="https://www.youtube.com/watch?v=BXNvKTtx1o4"> <center style="border: 2px solid rgb(3, 102, 214);padding: 15px;border-radius: 5px;font-weight: 900;"> <span> Современные методы слежки и контроля населения </span> </center> </a>
 
-## <span style="color:violet;"> - Синтетическая телепатия это Радио-Мозг-Компьютер-Интерфейс-Распознавание-Намерения-Кость-Проводимость (РМКИ-РНКП) </span>
+## <span style="color:violet;font-weight: 900;"> - Синтетическая телепатия это Радио-Мозг-Компьютер-Интерфейс-Распознавание-Намерения-Кость-Проводимость (РМКИ-РНКП) </span>
 <iframe style="width:100%;height:35vh;border:0;border-radius: 10px;" src="https://www.youtube.com/embed/RRbppibf_XE?si=RSWlBuFbG7afH0UD"></iframe>
 
-## <span style="color:orange;">- Synthetic Telepathy this is Radio-Brain-Computer-Interface-Recognition-Intents-Bone-Conduction (RBCI-RIBC)</span>
+## <span style="color:orange;font-weight: 900;">- Synthetic Telepathy this is Radio-Brain-Computer-Interface-Recognition-Intents-Bone-Conduction (RBCI-RIBC)</span>
 
 ## <a target="blank" href="https://youtu.be/COWTBEl1rRc"><center style="border: 2px solid orange;padding: 15px;border-radius: 5px;"> <span style="color:orange;">Directed Energy Weapons Used On Citizens</span></center></a>
 
