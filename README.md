@@ -273,11 +273,11 @@ The use of these and previous/battlefield versions of these weapons on civilians
 
 ## <center> <span style="color:green;"> ГОСТ 26387-84</span>, <span style="color:violet;">статья 3</span> </center>
 
-- <span style="color:orange;">3.59</span> эвристическая информационная деятельность: Информационная деятельность, обеспечивающая творческое мышление оператора, его творческое взаимодействие с окружающей средой.
+- <span style="color:orange;">3.59</span> <span style="color:violet;font-weight: 600;">эвристическая информационная деятельность:</span> Информационная деятельность, обеспечивающая творческое мышление оператора, его творческое взаимодействие с окружающей средой.
 
-- <span style="color:orange;">3.60</span> экстериориз: Мыслительная деятельность оператора, направленная на обеспечение перехода информационного состояния его мышления во внешние практические действия.
+- <span style="color:orange;">3.60</span> <span style="color:violet;font-weight: 600;">экстериориз:</span> Мыслительная деятельность оператора, направленная на обеспечение перехода информационного состояния его мышления во внешние практические действия.
 
-- <span style="color:orange;">3.61</span> эргатическая информационная деятельность: Информационная деятельность, обеспечивающая практическое взаимодействие оператора с окружающей средой.
+- <span style="color:orange;">3.61</span> <span style="color:violet;font-weight: 600;">эргатическая информационная деятельность:</span> Информационная деятельность, обеспечивающая практическое взаимодействие оператора с окружающей средой.
 
 <div> 
     <img style="border-radius:10px;background:unset;border: 3px solid orange;" alt="targeting" width="100%" src="https://koronaebola.github.io/EE_negate.jpg"/>
