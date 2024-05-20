@@ -53,10 +53,10 @@
 </a>
 ## <a target="blank" href="https://www.youtube.com/watch?v=BXNvKTtx1o4"> <center style="border: 2px solid rgb(3, 102, 214);padding: 15px;border-radius: 5px;font-weight: 900;"> <span> Современные методы слежки и контроля населения </span> </center> </a>
 
-## <span style="color:violet;font-weight: 900;"> - Синтетическая телепатия это Радио-Мозг-Компьютер-Интерфейс-Распознавание-Намерения-Кость-Проводимость (РМКИ-РНКП) </span>
+## <center><span style="color:violet;font-weight: 900;"> - Синтетическая телепатия это Радио-Мозг-Компьютер-Интерфейс-Распознавание-Намерения-Кость-Проводимость (РМКИ-РНКП) </span></center>
 <iframe style="width:100%;height:35vh;border:0;border-radius: 10px;" src="https://www.youtube.com/embed/RRbppibf_XE?si=RSWlBuFbG7afH0UD"></iframe>
 
-## <span style="color:orange;font-weight: 900;">- Synthetic Telepathy this is Radio-Brain-Computer-Interface-Recognition-Intents-Bone-Conduction (RBCI-RIBC)</span>
+## <center><span style="color:orange;font-weight: 900;"> - Synthetic Telepathy this is Radio-Brain-Computer-Interface-Recognition-Intents-Bone-Conduction (RBCI-RIBC) </span></center>
 
 ## <a target="blank" href="https://youtu.be/COWTBEl1rRc"><center style="border: 2px solid orange;padding: 15px;border-radius: 5px;"> <span style="color:orange;">Directed Energy Weapons Used On Citizens</span></center></a>
 
