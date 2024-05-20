@@ -245,7 +245,7 @@ The use of these and previous/battlefield versions of these weapons on civilians
 
 ## <center> <span style="color:green;"> ГОСТ Р 43.0.2-2006</span>, <span style="color:violet;">статья А.11</span> (приложение А) </center>
 
-- <span style="color:orange;">3.47</span> <span style="color:violet;font-weight: 600;">синестезия:</span> (<span style="color:green;font-weight: 600;">В психике личности.</span>) Психоинформационное ассоциативное взаимодействие, устанавливающее в мышлении субъекта (<span style="color:green;font-weight: 600;">оператора</span>) межчувственные связи.
+- <span style="color:orange;">3.47</span> <span style="color:violet;font-weight: 600;">синестезия:</span> (<span style="color:green;font-weight: 600;">В психике личности</span>). Психоинформационное ассоциативное взаимодействие, устанавливающее в мышлении субъекта (<span style="color:green;font-weight: 600;">оператора</span>) межчувственные связи.
 
 - <span style="color:orange;">3.48</span> <span style="color:violet;font-weight: 600;">социум-значимые знания:</span> Знания, относящиеся к приобретенным социумом.
 
