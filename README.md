@@ -235,7 +235,7 @@ The use of these and previous/battlefield versions of these weapons on civilians
 
 - <span style="color:orange;">3.42</span> <span style="color:violet;font-weight: 600;">семиозис:</span> Конечный этап отражения воспринимаемой информации в мышлении оператора, обеспечивающий формирование представлений.
 
-- <span style="color:orange;">3.43</span> <span style="color:violet;font-weight: 600;">симбиозитивное управление информацией [<span style="color:green;font-weight: 600;">базами знаний</span>]:</span> Управление (<span style="color:green;font-weight: 600;">на биоуровне строения человека</span>) информацией [<span style="color:green;font-weight: 600;">базами знаний</span>] с применением направленно-изменяемого симбиозитированного человекоинформационного активно-интерактивного взаимодействия.
+- <span style="color:orange;">3.43</span> <span style="color:violet;font-weight: 600;">симбиозитивное управление информацией</span> [<span style="color:green;font-weight: 600;">базами знаний</span>]: Управление (<span style="color:green;font-weight: 600;">на биоуровне строения человека</span>) информацией [<span style="color:green;font-weight: 600;">базами знаний</span>] с применением направленно-изменяемого симбиозитированного человекоинформационного активно-интерактивного взаимодействия.
 
 - <span style="color:orange;">3.44</span> <span style="color:violet;font-weight: 600;">синергетика:</span> (<span style="color:green;font-weight: 600;">В психике личности</span>). Психоинформационное самоорганизующееся изменение отражения действительности в мышлении оператора, возникающее под воздействием органов чувств, процессов мышления.
 
