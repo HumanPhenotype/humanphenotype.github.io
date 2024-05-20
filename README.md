@@ -116,7 +116,7 @@ The use of these and previous/battlefield versions of these weapons on civilians
   </a>
 </div>
 
-# <center style="border: 2px solid orange;padding: 15px;border-radius: 5px;"><span style="color:orange;">Depending on the level of competence of the operator, people may not notice him at all all their lives</span></center>
+# <center style="border: 2px solid orange;padding: 15px;border-radius: 5px;"><span style="color:orange;font-weight: 900;">Depending on the level of competence of the operator, people may not notice him at all all their lives</span></center>
 
 <div>
     <img style="border-radius: 8px;border: 3px solid orange;" alt="targeting" width="100%" src="https://koronaebola.github.io/bio2.jpg">
@@ -124,7 +124,7 @@ The use of these and previous/battlefield versions of these weapons on civilians
 
 
 
-# <center style="border: 2px solid orange;padding: 15px;border-radius: 5px;"><span style="color:orange;">В зависимости от уровня компетентности оператора люди всю жизнь могут вообще его не замечать</span></center>
+# <center style="border: 2px solid orange;padding: 15px;border-radius: 5px;"><span style="color:orange;font-weight: 900;">В зависимости от уровня компетентности оператора люди всю жизнь могут вообще его не замечать</span></center>
 
 <div style="border: 3px solid violet;padding: 15px;border-radius: 7px;">
 <span>•</span> <span style="color:orange;">разрушение</span> <span style="color:green;">доверительных отношений</span> <span style="color:violet;">с родственниками</span> <br>
@@ -137,209 +137,209 @@ The use of these and previous/battlefield versions of these weapons on civilians
 <span>•</span> <span style="color:orange;">создание</span> <span style="color:green;">у человека чувства</span> <span style="color:orange;">зависимости</span>
 </div>
 
-## <center style="border: 2px solid green;padding: 15px;border-radius: 5px;"><span style="color:green;"> ГОСТ Р 43.0.3-2009 </span></center>
+## <center style="border: 2px solid green;padding: 15px;border-radius: 5px;"><span style="color:green;font-weight: 900;"> ГОСТ Р 43.0.3-2009 </span></center>
 
 <div>
     <img style="border-radius:8px;" alt="targeting" width="100%" src="https://koronaebola.github.io/neurofeedback.png">
 </div>
 
-## <center>Термины и определения</center>
+## <center  style="font-weight: 900;">Термины и определения</center>
 
-- <span style="color:orange;">3.1</span> <span style="color:violet;font-weight: 600;">абдукативные решения:</span> Решения, принимаемые оператором по предварительно оцененной (<span style="color:green;font-weight: 600;">с фиксацией следствий</span>) информации на основе приобретенных ранее знаний.
+- <span style="color:orange;font-weight: 900;">3.1</span> <span style="color:violet;font-weight: 600;">абдукативные решения:</span> Решения, принимаемые оператором по предварительно оцененной (<span style="color:green;font-weight: 600;">с фиксацией следствий</span>) информации на основе приобретенных ранее знаний.
 
-- <span style="color:orange;">3.2</span> <span style="color:violet;font-weight: 600;">абстрактное мышление:</span> Мышление, представляющее собой способность оператора образовывать общие понятия, отрываясь в восприятиях от реальности, рефлексировать (<span style="color:green;font-weight: 600;">быть в состоянии рефлексии</span>).
+- <span style="color:orange;font-weight: 900;">3.2</span> <span style="color:violet;font-weight: 600;">абстрактное мышление:</span> Мышление, представляющее собой способность оператора образовывать общие понятия, отрываясь в восприятиях от реальности, рефлексировать (<span style="color:green;font-weight: 600;">быть в состоянии рефлексии</span>).
 
-- <span style="color:orange;">3.3</span> <span style="color:violet;font-weight: 600;">висцериоз:</span> Внутренняя деятельность мышления оператора, направленная на практическое взаимодействие с внешней средой.
+- <span style="color:orange;font-weight: 900;">3.3</span> <span style="color:violet;font-weight: 600;">висцериоз:</span> Внутренняя деятельность мышления оператора, направленная на практическое взаимодействие с внешней средой.
 
-- <span style="color:orange;">3.4</span> <span style="color:violet;font-weight: 600;">дедуктивные решения:</span> Решения, принимаемые оператором по непосредственно воспринимаемой информации на основе приобретенных ранее знаний.
+- <span style="color:orange;font-weight: 900;">3.4</span> <span style="color:violet;font-weight: 600;">дедуктивные решения:</span> Решения, принимаемые оператором по непосредственно воспринимаемой информации на основе приобретенных ранее знаний.
 
-- <span style="color:orange;">3.5</span> <span style="color:violet;font-weight: 600;">дисайдиозис:</span> Внутренняя мыслительная деятельность оператора, направленная на принятие решения по необходимому использованию (<span style="color:green;font-weight: 600;">с возможным преобразованием</span>) информации, хранящейся в памяти или воспринимаемой из внешней среды.
+- <span style="color:orange;font-weight: 900;">3.5</span> <span style="color:violet;font-weight: 600;">дисайдиозис:</span> Внутренняя мыслительная деятельность оператора, направленная на принятие решения по необходимому использованию (<span style="color:green;font-weight: 600;">с возможным преобразованием</span>) информации, хранящейся в памяти или воспринимаемой из внешней среды.
 
-- <span style="color:orange;">3.6</span> <span style="color:violet;font-weight: 600;">дисайдизированные навыки к деятельности:</span> Навыки оператора к деятельности, характеризующиеся принятием решений.
+- <span style="color:orange;font-weight: 900;">3.6</span> <span style="color:violet;font-weight: 600;">дисайдизированные навыки к деятельности:</span> Навыки оператора к деятельности, характеризующиеся принятием решений.
 
-- <span style="color:orange;">3.7</span> <span style="color:violet;font-weight: 600;">единая ноон-технология:</span> Ноон-технология, применяемая с использованием необходимых технических устройств, обеспечивающих расширенные возможности ее применения по целевому назначению.
+- <span style="color:orange;font-weight: 900;">3.7</span> <span style="color:violet;font-weight: 600;">единая ноон-технология:</span> Ноон-технология, применяемая с использованием необходимых технических устройств, обеспечивающих расширенные возможности ее применения по целевому назначению.
 
-- <span style="color:orange;">3.8</span> <span style="color:violet;font-weight: 600;">имерсинг:</span> Психоинформационное интегрированное включение (<span style="color:green;font-weight: 600;">"адаптированное погружение"</span>) оператора в необходимую техническую информационную среду.
+- <span style="color:orange;font-weight: 900;">3.8</span> <span style="color:violet;font-weight: 600;">имерсинг:</span> Психоинформационное интегрированное включение (<span style="color:green;font-weight: 600;">"адаптированное погружение"</span>) оператора в необходимую техническую информационную среду.
 
-- <span style="color:orange;">3.9</span> <span style="color:violet;font-weight: 600;">импрессизация деятельности мозга:</span> Изменение мышления, мыслительной деятельности мозга оператора с применением информационных воздействий на функционально-психическую деятельность мозга для управления его информационно-интеллектуальной деятельностью.
+- <span style="color:orange;font-weight: 900;">3.9</span> <span style="color:violet;font-weight: 600;">импрессизация деятельности мозга:</span> Изменение мышления, мыслительной деятельности мозга оператора с применением информационных воздействий на функционально-психическую деятельность мозга для управления его информационно-интеллектуальной деятельностью.
 
-- <span style="color:orange;">3.10</span> <span style="color:violet;font-weight: 600;">индуктивные решения:</span> Решения, принимаемые оператором по предварительно оцененной (<span style="color:green;font-weight: 600;">проведенной с преобразованием и экстраполяцией исходной ситуации, с предвидением изменений в ситуации</span>) им информации на основе приобретенных ранее знаний.
+- <span style="color:orange;font-weight: 900;">3.10</span> <span style="color:violet;font-weight: 600;">индуктивные решения:</span> Решения, принимаемые оператором по предварительно оцененной (<span style="color:green;font-weight: 600;">проведенной с преобразованием и экстраполяцией исходной ситуации, с предвидением изменений в ситуации</span>) им информации на основе приобретенных ранее знаний.
 
-- <span style="color:orange;">3.11</span> <span style="color:violet;font-weight: 600;">интериориз:</span> Мыслительная деятельность оператора, направленная на обеспечение перехода информации, воспринимаемой из внешней среды, в его мышление для применения воспринятой информации во внутренней информационно-интеллектуальной деятельности.
+- <span style="color:orange;font-weight: 900;">3.11</span> <span style="color:violet;font-weight: 600;">интериориз:</span> Мыслительная деятельность оператора, направленная на обеспечение перехода информации, воспринимаемой из внешней среды, в его мышление для применения воспринятой информации во внутренней информационно-интеллектуальной деятельности.
 
-- <span style="color:orange;">3.12</span> <span style="color:violet;font-weight: 600;">интроекциоз:</span> Мыслительная деятельность оператора, направленная на включение в свое мышление семантической информации, воспринимаемой извне или созданной им самим.
+- <span style="color:orange;font-weight: 900;">3.12</span> <span style="color:violet;font-weight: 600;">интроекциоз:</span> Мыслительная деятельность оператора, направленная на включение в свое мышление семантической информации, воспринимаемой извне или созданной им самим.
 
-- <span style="color:orange;">3.13</span> <span style="color:violet;font-weight: 600;">информационная технология:</span> Технология с использованием каких-либо средств воздействия на информационные объекты, направленного на достижение поставленной цели, заключающейся в необходимом изменении информационных объектов, подвергаемых воздействию.
+- <span style="color:orange;font-weight: 900;">3.13</span> <span style="color:violet;font-weight: 600;">информационная технология:</span> Технология с использованием каких-либо средств воздействия на информационные объекты, направленного на достижение поставленной цели, заключающейся в необходимом изменении информационных объектов, подвергаемых воздействию.
 
-- <span style="color:orange;">3.14</span> <span style="color:violet;font-weight: 600;">информационно-интеллектуальная технология:</span> Технология с использованием каких-либо средств воздействия на информационные объекты, направленного на достижение поставленной цели, заключающейся в необходимом интеллектуализированном изменении информационных объектов, подвергаемых воздействию.
+- <span style="color:orange;font-weight: 900;">3.14</span> <span style="color:violet;font-weight: 600;">информационно-интеллектуальная технология:</span> Технология с использованием каких-либо средств воздействия на информационные объекты, направленного на достижение поставленной цели, заключающейся в необходимом интеллектуализированном изменении информационных объектов, подвергаемых воздействию.
 
-- <span style="color:orange;">3.15</span> <span style="color:violet;font-weight: 600;">концептуальная модель:</span> Абстрактная модель, определяющая структуру исследуемого объекта (<span style="color:green;font-weight: 600;">составные части и связи</span>), свойства составных частей, причинно-следственные связи.
+- <span style="color:orange;font-weight: 900;">3.15</span> <span style="color:violet;font-weight: 600;">концептуальная модель:</span> Абстрактная модель, определяющая структуру исследуемого объекта (<span style="color:green;font-weight: 600;">составные части и связи</span>), свойства составных частей, причинно-следственные связи.
 
-- <span style="color:orange;">3.16</span> <span style="color:violet;font-weight: 600;">клиаратиозис:</span> Внутренняя (<span style="color:green;font-weight: 600;">клиаративная</span>) мыслительная деятельность оператора, направленная на понимание используемой им информации с возможным учетом воспринимаемой и хранящейся в памяти информации.
+- <span style="color:orange;font-weight: 900;">3.16</span> <span style="color:violet;font-weight: 600;">клиаратиозис:</span> Внутренняя (<span style="color:green;font-weight: 600;">клиаративная</span>) мыслительная деятельность оператора, направленная на понимание используемой им информации с возможным учетом воспринимаемой и хранящейся в памяти информации.
 
-- <span style="color:orange;">3.17</span> <span style="color:violet;font-weight: 600;">когнитиозис:</span> Конечный этап интроекциоза в мышлении оператора, обеспечивающий проведение рассуждений, умозаключений с формированием (<span style="color:green;font-weight: 600;">в том числе направленным</span>) в мышлении оператора технических сущностей в виде когнитивных (<span style="color:green;font-weight: 600;">познавательных</span>) семантических отражений.
+- <span style="color:orange;font-weight: 900;">3.17</span> <span style="color:violet;font-weight: 600;">когнитиозис:</span> Конечный этап интроекциоза в мышлении оператора, обеспечивающий проведение рассуждений, умозаключений с формированием (<span style="color:green;font-weight: 600;">в том числе направленным</span>) в мышлении оператора технических сущностей в виде когнитивных (<span style="color:green;font-weight: 600;">познавательных</span>) семантических отражений.
 
-- <span style="color:orange;">3.18</span> <span style="color:violet;font-weight: 600;">коммуникативная информационная деятельность:</span> Информационная деятельность, обеспечивающая жизнедеятельность оператора в окружающей среде, его межличностное общение.
+- <span style="color:orange;font-weight:900;">3.18</span> <span style="color:violet;font-weight: 600;">коммуникативная информационная деятельность:</span> Информационная деятельность, обеспечивающая жизнедеятельность оператора в окружающей среде, его межличностное общение.
 
-- <span style="color:orange;">3.19</span> <span style="color:violet;font-weight: 600;">креатиозис:</span> Внутренняя (<span style="color:green;font-weight: 600;">креативная</span>) деятельность мышления оператора, направленная на творческое преобразование информации, хранящейся в его памяти, с возможным учетом воспринимаемой информации.
+- <span style="color:orange;font-weight: 900;">3.19</span> <span style="color:violet;font-weight: 600;">креатиозис:</span> Внутренняя (<span style="color:green;font-weight: 600;">креативная</span>) деятельность мышления оператора, направленная на творческое преобразование информации, хранящейся в его памяти, с возможным учетом воспринимаемой информации.
 
-- <span style="color:orange;">3.20</span> <span style="color:violet;font-weight: 600;">моделинг-ноонинг:</span> Знаковое (<span style="color:green;font-weight: 600;">знакообразуемое</span>) пикториальное, пикториально-аудиальное представление технических сведений с применением грамматики, семантики используемой знаковой системы в виде картинно воспринимаемых сообщений, соответствующих психофизиологии мышления оператора.
+- <span style="color:orange;font-weight: 900;">3.20</span> <span style="color:violet;font-weight: 600;">моделинг-ноонинг:</span> Знаковое (<span style="color:green;font-weight: 600;">знакообразуемое</span>) пикториальное, пикториально-аудиальное представление технических сведений с применением грамматики, семантики используемой знаковой системы в виде картинно воспринимаемых сообщений, соответствующих психофизиологии мышления оператора.
 
-- <span style="color:orange;">3.21</span> <span style="color:violet;font-weight: 600;">моносемантические знаки:</span> Эталонные знаки, по исполнению представленные в виде контекстно обособленного семантического фрагмента сведений.
+- <span style="color:orange;font-weight: 900;">3.21</span> <span style="color:violet;font-weight: 600;">моносемантические знаки:</span> Эталонные знаки, по исполнению представленные в виде контекстно обособленного семантического фрагмента сведений.
 
-- <span style="color:orange;">3.22</span> <span style="color:violet;font-weight: 600;">морфинг информации:</span> Изложение информации в виде, при котором одно фрагментированное изображение переходит (<span style="color:green;font-weight: 600;">"перетекает"</span>) в другое.
+- <span style="color:orange;font-weight:900;">3.22</span> <span style="color:violet;font-weight: 600;">морфинг информации:</span> Изложение информации в виде, при котором одно фрагментированное изображение переходит (<span style="color:green;font-weight: 600;">"перетекает"</span>) в другое.
 
-- <span style="color:orange;">3.23</span> <span style="color:violet;font-weight: 600;">направленное регулирование:</span> Направляемая необходимым способом деятельность по поддержанию заданного состояния чего-либо (<span style="color:green;font-weight: 600;">например, объекта, системы</span>).
+- <span style="color:orange;font-weight: 900;">3.23</span> <span style="color:violet;font-weight: 600;">направленное регулирование:</span> Направляемая необходимым способом деятельность по поддержанию заданного состояния чего-либо (<span style="color:green;font-weight: 600;">например, объекта, системы</span>).
 
-- <span style="color:orange;">3.24</span> <span style="color:violet;font-weight: 600;">направленное управление:</span> Направляемая необходимым способом деятельность по заданному изменению состояния чего-либо (<span style="color:green;font-weight: 600;">например, объекта, системы</span>).
+- <span style="color:orange;font-weight: 900;">3.24</span> <span style="color:violet;font-weight: 600;">направленное управление:</span> Направляемая необходимым способом деятельность по заданному изменению состояния чего-либо (<span style="color:green;font-weight: 600;">например, объекта, системы</span>).
 
-- <span style="color:orange;">3.25</span> <span style="color:violet;font-weight: 600;">ноон-моделирование:</span> Представление сведений, содержащихся в информации, с использованием раздельного или совместного объектно-ориентированного (<span style="color:green;font-weight: 600;">познавательного</span>), интерпретационно-имитационного предметного (<span style="color:green;font-weight: 600;">прагматического</span>) моделирования в виде картинных с необходимым аудиальным сопровождением образно воспринимаемых знаковых моделей, соответствующих психофизиологии мышления оператора, применяющего эти модели.
+- <span style="color:orange;font-weight: 900;">3.25</span> <span style="color:violet;font-weight: 600;">ноон-моделирование:</span> Представление сведений, содержащихся в информации, с использованием раздельного или совместного объектно-ориентированного (<span style="color:green;font-weight: 600;">познавательного</span>), интерпретационно-имитационного предметного (<span style="color:green;font-weight: 600;">прагматического</span>) моделирования в виде картинных с необходимым аудиальным сопровождением образно воспринимаемых знаковых моделей, соответствующих психофизиологии мышления оператора, применяющего эти модели.
 
-- <span style="color:orange;">3.26</span> <span style="color:violet;font-weight: 600;">натурные тренажеры:</span> Тренажеры, выполненные в виде, имитирующем с определенной степенью соответствия реальные образцы техники.
+- <span style="color:orange;font-weight: 900;">3.26</span> <span style="color:violet;font-weight: 600;">натурные тренажеры:</span> Тренажеры, выполненные в виде, имитирующем с определенной степенью соответствия реальные образцы техники.
 
-- <span style="color:orange;">3.27</span> <span style="color:violet;font-weight: 600;">натурно-информационные тренажеры:</span> Тренажеры, выполненные в виде, имитирующем с определенной степенью соответствия реальные образцы техники с применением информационных представлений необходимых компонентов предметной технической и внешней сред.
+- <span style="color:orange;font-weight: 900;">3.27</span> <span style="color:violet;font-weight: 600;">натурно-информационные тренажеры:</span> Тренажеры, выполненные в виде, имитирующем с определенной степенью соответствия реальные образцы техники с применением информационных представлений необходимых компонентов предметной технической и внешней сред.
 
-- <span style="color:orange;">3.28</span> <span style="color:violet;font-weight: 600;">ноон-технология:</span> Технология создания информации в виде, соответствующем психофизиологии человека (с использованием результатов исследований, полученных в ноонике), для реализации оптимизированных информационно-обменных процессов в <span style="color:orange;font-weight: 600;">СЧИ</span> при создании, хранении, передаче, применении сообщений.
+- <span style="color:orange;font-weight: 900;">3.28</span> <span style="color:violet;font-weight: 600;">ноон-технология:</span> Технология создания информации в виде, соответствующем психофизиологии человека (с использованием результатов исследований, полученных в ноонике), для реализации оптимизированных информационно-обменных процессов в <span style="color:orange;font-weight: 600;">СЧИ</span> при создании, хранении, передаче, применении сообщений.
 
-## <center> <span style="color:green;"> ГОСТ Р 43.0.2-2006</span>, <span style="color:violet;">статья А.2</span> (приложение А) </center>
+## <center> <span style="color:green;font-weight: 900;"> ГОСТ Р 43.0.2-2006</span>, <span style="color:violet;font-weight: 900;">статья А.2</span> (приложение А) </center>
 
 <div> 
     <img  style="border-radius:10px;background:unset;border: 3px solid orange;" alt="targeting" width="100%" src="https://koronaebola.github.io/E_negate.jpg"/>
 </div>
 
-- <span style="color:orange;">3.29</span> <span style="color:violet;font-weight: 600;">пикториально-аудиальное представление технических сведений:</span> Представление сведений в картинном и речезвуковом виде.
+- <span style="color:orange;font-weight: 900;">3.29</span> <span style="color:violet;font-weight: 600;">пикториально-аудиальное представление технических сведений:</span> Представление сведений в картинном и речезвуковом виде.
 
-- <span style="color:orange;">3.30</span> <span style="color:violet;font-weight: 600;">полисемантические знаки:</span> Эталонные знаки, по исполнению представленные в виде обособленных контекстно объединенных семантических фрагментов сведений.
+- <span style="color:orange;font-weight: 900;">3.30</span> <span style="color:violet;font-weight: 600;">полисемантические знаки:</span> Эталонные знаки, по исполнению представленные в виде обособленных контекстно объединенных семантических фрагментов сведений.
 
-- <span style="color:orange;">3.31</span> <span style="color:violet;font-weight: 600;">прогностические решения:</span> Решения, принимаемые оператором по предварительно оцененной (<span style="color:green;font-weight: 600;">по правилам статических решающих функций</span>) информации на основе приобретенных ранее знаний.
+- <span style="color:orange;font-weight: 900;">3.31</span> <span style="color:violet;font-weight: 600;">прогностические решения:</span> Решения, принимаемые оператором по предварительно оцененной (<span style="color:green;font-weight: 600;">по правилам статических решающих функций</span>) информации на основе приобретенных ранее знаний.
 
-- <span style="color:orange;">3.32</span> <span style="color:violet;font-weight: 600;">процедуризированная информация:</span> Информация, представленная в виде, обеспечивающем ее управление по каким-либо параметрам, характеристикам.
+- <span style="color:orange;font-weight: 900;">3.32</span> <span style="color:violet;font-weight: 600;">процедуризированная информация:</span> Информация, представленная в виде, обеспечивающем ее управление по каким-либо параметрам, характеристикам.
 
-- <span style="color:orange;">3.33</span> <span style="color:violet;font-weight: 600;">пэсифицированная информация:</span> Информация, не воспринимаемая в образном виде, представленная в пикториализированном виде.
+- <span style="color:orange;font-weight: 900;">3.33</span> <span style="color:violet;font-weight: 600;">пэсифицированная информация:</span> Информация, не воспринимаемая в образном виде, представленная в пикториализированном виде.
 
-- <span style="color:orange;">3.34</span> <span style="color:violet;font-weight: 600;">регулирование:</span> Деятельность, направленная на поддерживание заданного состояния чего-либо (<span style="color:green;font-weight: 600;">например, объекта, системы</span>).
+- <span style="color:orange;font-weight: 900;">3.34</span> <span style="color:violet;font-weight: 600;">регулирование:</span> Деятельность, направленная на поддерживание заданного состояния чего-либо (<span style="color:green;font-weight: 600;">например, объекта, системы</span>).
 
-- <span style="color:orange;">3.35</span> <span style="color:violet;font-weight: 600;">рефлексика мышления:</span> Подсознательно-самопроизвольная ответная реакция мышления оператора на действие чувственно воспринимаемого информационного раздражителя какого-либо внутреннего или внешнего происхождения.
+- <span style="color:orange;font-weight: 900;">3.35</span> <span style="color:violet;font-weight: 600;">рефлексика мышления:</span> Подсознательно-самопроизвольная ответная реакция мышления оператора на действие чувственно воспринимаемого информационного раздражителя какого-либо внутреннего или внешнего происхождения.
 
-- <span style="color:orange;">3.36</span> <span style="color:violet;font-weight: 600;">рефлексия:</span> Способность оператора наблюдать за самим собой, видеть и изучать себя со стороны.
+- <span style="color:orange;font-weight: 900;">3.36</span> <span style="color:violet;font-weight: 600;">рефлексия:</span> Способность оператора наблюдать за самим собой, видеть и изучать себя со стороны.
 
-- <span style="color:orange;">3.37</span> <span style="color:violet;font-weight: 600;">рефлексосемантика мышления:</span> Подсознательно-самопроизвольное формирование мышлением оператора текущих (<span style="color:green;font-weight: 600;">временных</span>) семантических информационных образований (отражений).
+- <span style="color:orange;font-weight: 900;">3.37</span> <span style="color:violet;font-weight: 600;">рефлексосемантика мышления:</span> Подсознательно-самопроизвольное формирование мышлением оператора текущих (<span style="color:green;font-weight: 600;">временных</span>) семантических информационных образований (отражений).
 
-- <span style="color:orange;">3.38</span> <span style="color:violet;font-weight: 600;">рефлектизированная информация:</span> Информация, представленная с повышенным уровнем отражательных характеристик.
+- <span style="color:orange;font-weight: 900;">3.38</span> <span style="color:violet;font-weight: 600;">рефлектизированная информация:</span> Информация, представленная с повышенным уровнем отражательных характеристик.
 
-- <span style="color:orange;">3.39</span> <span style="color:violet;font-weight: 600;">семантизированные информационно-психические явления:</span> (<span style="color:green;font-weight: 600;">В деятельности оператора</span>). Информационно-психические явления (<span style="color:green;font-weight: 600;">базовые, периферийные</span>), возникающие в мышлении оператора под воздействием семантических информационно-обменных процессов, образующихся при восприятии им внешней информационно-предметной среды.
+- <span style="color:orange;font-weight: 900;">3.39</span> <span style="color:violet;font-weight: 600;">семантизированные информационно-психические явления:</span> (<span style="color:green;font-weight: 600;">В деятельности оператора</span>). Информационно-психические явления (<span style="color:green;font-weight: 600;">базовые, периферийные</span>), возникающие в мышлении оператора под воздействием семантических информационно-обменных процессов, образующихся при восприятии им внешней информационно-предметной среды.
 
-- <span style="color:orange;">3.40</span> <span style="color:violet;font-weight: 600;">семантика мышления:</span> Сформированные в мышлении оператора константные (<span style="color:green;font-weight: 600;">постоянные</span>) семантические информационные образования.
+- <span style="color:orange;font-weight: 900;">3.40</span> <span style="color:violet;font-weight: 600;">семантика мышления:</span> Сформированные в мышлении оператора константные (<span style="color:green;font-weight: 600;">постоянные</span>) семантические информационные образования.
 
-- <span style="color:orange;">3.41</span> <span style="color:violet;font-weight: 600;">семантиозис:</span> Начальный этап висцериоза, обеспечивающий формирование понятий в мышлении оператора.
+- <span style="color:orange;font-weight: 900;">3.41</span> <span style="color:violet;font-weight: 600;">семантиозис:</span> Начальный этап висцериоза, обеспечивающий формирование понятий в мышлении оператора.
 
-- <span style="color:orange;">3.42</span> <span style="color:violet;font-weight: 600;">семиозис:</span> Конечный этап отражения воспринимаемой информации в мышлении оператора, обеспечивающий формирование представлений.
+- <span style="color:orange;font-weight: 900;">3.42</span> <span style="color:violet;font-weight: 600;">семиозис:</span> Конечный этап отражения воспринимаемой информации в мышлении оператора, обеспечивающий формирование представлений.
 
-- <span style="color:orange;">3.43</span> <span style="color:violet;font-weight: 600;">симбиозитивное управление информацией</span> [<span style="color:green;font-weight: 600;">базами знаний</span>]: Управление (<span style="color:green;font-weight: 600;">на биоуровне строения человека</span>) информацией [<span style="color:green;font-weight: 600;">базами знаний</span>] с применением направленно-изменяемого симбиозитированного человекоинформационного активно-интерактивного взаимодействия.
+- <span style="color:orange;font-weight: 900;">3.43</span> <span style="color:violet;font-weight: 600;">симбиозитивное управление информацией</span> [<span style="color:green;font-weight: 600;">базами знаний</span>]: Управление (<span style="color:green;font-weight: 600;">на биоуровне строения человека</span>) информацией [<span style="color:green;font-weight: 600;">базами знаний</span>] с применением направленно-изменяемого симбиозитированного человекоинформационного активно-интерактивного взаимодействия.
 
-- <span style="color:orange;">3.44</span> <span style="color:violet;font-weight: 600;">синергетика:</span> (<span style="color:green;font-weight: 600;">В психике личности</span>). Психоинформационное самоорганизующееся изменение отражения действительности в мышлении оператора, возникающее под воздействием органов чувств, процессов мышления.
+- <span style="color:orange;font-weight: 900;">3.44</span> <span style="color:violet;font-weight: 600;">синергетика:</span> (<span style="color:green;font-weight: 600;">В психике личности</span>). Психоинформационное самоорганизующееся изменение отражения действительности в мышлении оператора, возникающее под воздействием органов чувств, процессов мышления.
 
-- <span style="color:orange;">3.45</span> <span style="color:violet;font-weight: 600;">синергия:</span> (<span style="color:green;font-weight: 600;">В психике личности</span>). Психоинформационное взаимодействие (<span style="color:green;font-weight: 600;">совместное координированное действие</span>) органов чувств, процессов мышления, обеспечивающее в мышлении оператора разностороннее отражение действительности.
+- <span style="color:orange;font-weight: 900;">3.45</span> <span style="color:violet;font-weight: 600;">синергия:</span> (<span style="color:green;font-weight: 600;">В психике личности</span>). Психоинформационное взаимодействие (<span style="color:green;font-weight: 600;">совместное координированное действие</span>) органов чувств, процессов мышления, обеспечивающее в мышлении оператора разностороннее отражение действительности.
 
-- <span style="color:orange;">3.46</span> <span style="color:violet;font-weight: 600;">симулятор:</span> Техническое устройство, работа которого основана на управлении информацией с целью передачи оператору, пользующемуся этим устройством, знаний, а также выработки у него интеллектуальных, моторных, интеллектуально-моторных навыков и умений.
+- <span style="color:orange;font-weight: 900;">3.46</span> <span style="color:violet;font-weight: 600;">симулятор:</span> Техническое устройство, работа которого основана на управлении информацией с целью передачи оператору, пользующемуся этим устройством, знаний, а также выработки у него интеллектуальных, моторных, интеллектуально-моторных навыков и умений.
 
-## <center> <span style="color:green;"> ГОСТ Р 43.0.2-2006</span>, <span style="color:violet;">статья А.11</span> (приложение А) </center>
+## <center> <span style="color:green;font-weight: 900;"> ГОСТ Р 43.0.2-2006</span>, <span style="color:violet;font-weight: 600;">статья А.11</span> (приложение А) </center>
 
-- <span style="color:orange;">3.47</span> <span style="color:violet;font-weight: 600;">синестезия:</span> (<span style="color:green;font-weight: 600;">В психике личности</span>). Психоинформационное ассоциативное взаимодействие, устанавливающее в мышлении субъекта (<span style="color:green;font-weight: 600;">оператора</span>) межчувственные связи.
+- <span style="color:orange;font-weight: 900;">3.47</span> <span style="color:violet;font-weight: 600;">синестезия:</span> (<span style="color:green;font-weight: 600;">В психике личности</span>). Психоинформационное ассоциативное взаимодействие, устанавливающее в мышлении субъекта (<span style="color:green;font-weight: 600;">оператора</span>) межчувственные связи.
 
-- <span style="color:orange;">3.48</span> <span style="color:violet;font-weight: 600;">социум-значимые знания:</span> Знания, относящиеся к приобретенным социумом.
+- <span style="color:orange;font-weight: 900;">3.48</span> <span style="color:violet;font-weight: 600;">социум-значимые знания:</span> Знания, относящиеся к приобретенным социумом.
 
-- <span style="color:orange;">3.49</span> <span style="color:violet;font-weight: 600;">стимулятор дидактический:</span> Техническое устройство, работа которого основана на информационном взаимодействии с оператором - пользователем этого устройства в целях формирования в его мышлении реконструктивных концептуальных моделей технической среды, в том числе относящихся к поведенческим, для развития способности к отвлеченному мышлению у оператора с возможностью использования этой способности в текущей реальной деятельности, в приобретении навыков абстрагирования, предвидения, в том числе в состоянии рефлексии.
+- <span style="color:orange;font-weight: 900;">3.49</span> <span style="color:violet;font-weight: 600;">стимулятор дидактический:</span> Техническое устройство, работа которого основана на информационном взаимодействии с оператором - пользователем этого устройства в целях формирования в его мышлении реконструктивных концептуальных моделей технической среды, в том числе относящихся к поведенческим, для развития способности к отвлеченному мышлению у оператора с возможностью использования этой способности в текущей реальной деятельности, в приобретении навыков абстрагирования, предвидения, в том числе в состоянии рефлексии.
 
-- <span style="color:orange;">3.50</span> <span style="color:violet;font-weight: 600;">субъектно-значимые знания:</span> Знания, относящиеся к приобретенным соответствующим субъектом (<span style="color:green;font-weight: 600;">оператором</span>).
+- <span style="color:orange;font-weight: 900;">3.50</span> <span style="color:violet;font-weight: 600;">субъектно-значимые знания:</span> Знания, относящиеся к приобретенным соответствующим субъектом (<span style="color:green;font-weight: 600;">оператором</span>).
 
-- <span style="color:orange;">3.51</span> <span style="color:violet;font-weight: 600;">творческая деятельность:</span> Мыслительная деятельность оператора, направленная на образование новой информации, обеспечивающей достижение какой-либо цели.
+- <span style="color:orange;font-weight: 900;">3.51</span> <span style="color:violet;font-weight: 600;">творческая деятельность:</span> Мыслительная деятельность оператора, направленная на образование новой информации, обеспечивающей достижение какой-либо цели.
 
-- <span style="color:orange;">3.52</span> <span style="color:violet;font-weight: 600;">техника:</span> Совокупность технических устройств, предназначенных для использования в деятельности человека, общества.
+- <span style="color:orange;font-weight: 900;">3.52</span> <span style="color:violet;font-weight: 600;">техника:</span> Совокупность технических устройств, предназначенных для использования в деятельности человека, общества.
 
-## <center> <span style="color:green;"> ГОСТ Р 43.0.2-2006</span>, <span style="color:violet;">статья А.4</span> (приложение А) </center>
+## <center> <span style="color:green;font-weight:900;"> ГОСТ Р 43.0.2-2006</span>, <span style="color:violet;font-weight: 900;">статья А.4</span> (приложение А) </center>
 
-- <span style="color:orange;">3.53</span> <span style="color:violet;font-weight: 600;">техносфера:</span> Область распространения техники, определяемая потребностями социума.
+- <span style="color:orange;font-weight: 900;">3.53</span> <span style="color:violet;font-weight: 600;">техносфера:</span> Область распространения техники, определяемая потребностями социума.
 
-- <span style="color:orange;">3.54</span> <span style="color:violet;font-weight: 600;">технология:</span> Совокупность процессов с использованием каких-либо средств воздействия на объекты, направленных на достижение поставленной цели, заключающейся в необходимом изменении объектов, подвергаемых воздействию.
+- <span style="color:orange;font-weight:900;">3.54</span> <span style="color:violet;font-weight: 600;">технология:</span> Совокупность процессов с использованием каких-либо средств воздействия на объекты, направленных на достижение поставленной цели, заключающейся в необходимом изменении объектов, подвергаемых воздействию.
 
-- <span style="color:orange;">3.55</span> <span style="color:violet;font-weight: 600;">управление:</span> Деятельность, направленная на заданное изменение состояния чего-либо (<span style="color:green;font-weight: 600;">например, объекта, системы</span>).
+- <span style="color:orange;font-weight: 900;">3.55</span> <span style="color:violet;font-weight: 600;">управление:</span> Деятельность, направленная на заданное изменение состояния чего-либо (<span style="color:green;font-weight: 600;">например, объекта, системы</span>).
 
-- <span style="color:orange;">3.56</span> <span style="color:violet;font-weight: 600;">функциональное информационное обеспечение:</span> Информационное обеспечение, непосредственно участвующее в функционировании соответствующего образца техники, выполнении им своего назначения.
+- <span style="color:orange;font-weight: 900;">3.56</span> <span style="color:violet;font-weight: 600;">функциональное информационное обеспечение:</span> Информационное обеспечение, непосредственно участвующее в функционировании соответствующего образца техники, выполнении им своего назначения.
 
-- <span style="color:orange;">3.57</span> <span style="color:violet;font-weight: 600;">цефализация деятельности мозга:</span> Изменение мышления, мыслительной деятельности мозга оператора применением информационных воздействий на физиологическую структурно-организменную деятельность мозга для управления его информационно-интеллектуальной деятельностью.
+- <span style="color:orange;font-weight: 900;">3.57</span> <span style="color:violet;font-weight: 600;">цефализация деятельности мозга:</span> Изменение мышления, мыслительной деятельности мозга оператора применением информационных воздействий на физиологическую структурно-организменную деятельность мозга для управления его информационно-интеллектуальной деятельностью.
 
-- <span style="color:orange;">3.58</span> <span style="color:violet;font-weight: 600;">человек-оператор СЧМ; оператор СЧМ:</span> Человек, осуществляющий трудовую деятельность, основу которой составляет взаимодействие с объектом воздействия, машиной и средой на рабочем месте при использовании информационной модели и органов управления.
+- <span style="color:orange;font-weight: 900;">3.58</span> <span style="color:violet;font-weight: 600;">человек-оператор СЧМ; оператор СЧМ:</span> Человек, осуществляющий трудовую деятельность, основу которой составляет взаимодействие с объектом воздействия, машиной и средой на рабочем месте при использовании информационной модели и органов управления.
 
-## <center> <span style="color:green;"> ГОСТ 26387-84</span>, <span style="color:violet;">статья 3</span> </center>
+## <center> <span style="color:green;font-weight: 900;"> ГОСТ 26387-84</span>, <span style="color:violet;font-weight: 900;">статья 3</span> </center>
 
-- <span style="color:orange;">3.59</span> <span style="color:violet;font-weight: 600;">эвристическая информационная деятельность:</span> Информационная деятельность, обеспечивающая творческое мышление оператора, его творческое взаимодействие с окружающей средой.
+- <span style="color:orange;font-weight: 900;">3.59</span> <span style="color:violet;font-weight: 600;">эвристическая информационная деятельность:</span> Информационная деятельность, обеспечивающая творческое мышление оператора, его творческое взаимодействие с окружающей средой.
 
-- <span style="color:orange;">3.60</span> <span style="color:violet;font-weight: 600;">экстериориз:</span> Мыслительная деятельность оператора, направленная на обеспечение перехода информационного состояния его мышления во внешние практические действия.
+- <span style="color:orange;font-weight: 900;">3.60</span> <span style="color:violet;font-weight: 600;">экстериориз:</span> Мыслительная деятельность оператора, направленная на обеспечение перехода информационного состояния его мышления во внешние практические действия.
 
-- <span style="color:orange;">3.61</span> <span style="color:violet;font-weight: 600;">эргатическая информационная деятельность:</span> Информационная деятельность, обеспечивающая практическое взаимодействие оператора с окружающей средой.
+- <span style="color:orange;font-weight: 900;">3.61</span> <span style="color:violet;font-weight: 600;">эргатическая информационная деятельность:</span> Информационная деятельность, обеспечивающая практическое взаимодействие оператора с окружающей средой.
 
 <div> 
     <img style="border-radius:10px;background:unset;border: 3px solid orange;" alt="targeting" width="100%" src="https://koronaebola.github.io/EE_negate.jpg"/>
 </div>
 
-## <center> <span style="color:white;"> В настоящем стандарте применены следующие сокращения:</span> </center>
+## <center> <span style="color:white;font-weight: 900;"> В настоящем стандарте применены следующие сокращения:</span> </center>
 
-- <span style="color:orange;">ГИ</span> - гибридный интеллект;
+- <span style="color:orange;font-weight: 900;">ГИ</span> - гибридный интеллект;
 
-- <span style="color:orange;">ГИЧИВ</span> - гибридно-интеллектуализированное человекоинформационное взаимодействие;
+- <span style="color:orange;font-weight: 900;">ГИЧИВ</span> - гибридно-интеллектуализированное человекоинформационное взаимодействие;
 
-- <span style="color:orange;">ЕИ</span> - естественный интеллект;
+- <span style="color:orange;font-weight: 900;">ЕИ</span> - естественный интеллект;
 
-- <span style="color:orange;">ЕИЧИВ</span> - естественно-интеллектуализированное человекоинформационное взаимодействие;
+- <span style="color:orange;font-weight: 900;">ЕИЧИВ</span> - естественно-интеллектуализированное человекоинформационное взаимодействие;
 
-- <span style="color:orange;">ЕСЧИ</span> - естественная система "человеко-информация";
+- <span style="color:orange;font-weight: 900;">ЕСЧИ</span> - естественная система "человеко-информация";
 
-- <span style="color:orange;">ИЕСЧИ</span> - интегрированная естественная система "человеко-информация";
+- <span style="color:orange;font-weight: 900;">ИЕСЧИ</span> - интегрированная естественная система "человеко-информация";
 
-- <span style="color:orange;">ИИ</span> - искусственный интеллект;
+- <span style="color:orange;font-weight: 900;">ИИ</span> - искусственный интеллект;
 
-- <span style="color:orange;">ИИД</span> - информационно-интеллектуальная деятельность;
+- <span style="color:orange;font-weight: 900;">ИИД</span> - информационно-интеллектуальная деятельность;
 
-- <span style="color:orange;">ИИЧИВ</span> - искусственно-интеллектуализированное человекоинформационное взаимодействие;
+- <span style="color:orange;font-weight: 900;">ИИЧИВ</span> - искусственно-интеллектуализированное человекоинформационное взаимодействие;
 
-- <span style="color:orange;">ИОП</span> - информационно-обменные процессы;
+- <span style="color:orange;font-weight: 900;">ИОП</span> - информационно-обменные процессы;
 
-- <span style="color:orange;">ИОТОД</span> - информационное обеспечение техники и операторской деятельности;
+- <span style="color:orange;font-weight: 900;">ИОТОД</span> - информационное обеспечение техники и операторской деятельности;
 
-- <span style="color:orange;">ИПВР</span> - информационное пространство виртуальной реальности;
+- <span style="color:orange;font-weight: 900;">ИПВР</span> - информационное пространство виртуальной реальности;
 
-- <span style="color:orange;">ИСВР</span> - информационная среда виртуальной реальности;
+- <span style="color:orange;font-weight: 900;">ИСВР</span> - информационная среда виртуальной реальности;
 
-- <span style="color:orange;">ИСМИ</span> - интегрированная система "машина - информация";
+- <span style="color:orange;font-weight: 900;">ИСМИ</span> - интегрированная система "машина - информация";
 
-- <span style="color:orange;">ИСЧИМ</span> - интегрированная система "человек - информация - машина";
+- <span style="color:orange;font-weight: 900;">ИСЧИМ</span> - интегрированная система "человек - информация - машина";
 
-- <span style="color:orange;">ИСЧИМИ</span> - интегрированная система "человек - информация - машина" исследовательская;
+- <span style="color:orange;font-weight: 900;">ИСЧИМИ</span> - интегрированная система "человек - информация - машина" исследовательская;
 
-- <span style="color:orange;">ИСЧИМИР</span> - интегрированная система "человек - информация - машина" игровая, развлечений;
+- <span style="color:orange;font-weight: 900;">ИСЧИМИР</span> - интегрированная система "человек - информация - машина" игровая, развлечений;
 
-- <span style="color:orange;">ИСЧИМО</span> - интегрированная система "человек - информация - машина" обучающая;
+- <span style="color:orange;font-weight: 900;">ИСЧИМО</span> - интегрированная система "человек - информация - машина" обучающая;
 
-- <span style="color:orange;">ИСЧИМУ</span> - интегрированная система "человек - информация - машина" управляющая;
+- <span style="color:orange;font-weight: 900;">ИСЧИМУ</span> - интегрированная система "человек - информация - машина" управляющая;
 
-- <span style="color:orange;">ИЧИВ</span> - интеллектуализированное человекоинформационное взаимодействие;
+- <span style="color:orange;font-weight: 900;">ИЧИВ</span> - интеллектуализированное человекоинформационное взаимодействие;
 
-- <span style="color:orange;">КИИ</span> - компонентный искусственный интеллект;
+- <span style="color:orange;font-weight: 900;">КИИ</span> - компонентный искусственный интеллект;
 
-- <span style="color:orange;">МД</span> - мыслительная деятельность;
+- <span style="color:orange;font-weight: 900;">МД</span> - мыслительная деятельность;
 
-- <span style="color:orange;">ПАИ</span> - пассивно, активно, интерактивно управляемые (сведения, сообщения, информация);
+- <span style="color:orange;font-weight: 900;">ПАИ</span> - пассивно, активно, интерактивно управляемые (сведения, сообщения, информация);
 
-- <span style="color:orange;">РПП</span> - рефлектизированная, пэсифицированная, процедуризированная информация;
+- <span style="color:orange;font-weight: 900;">РПП</span> - рефлектизированная, пэсифицированная, процедуризированная информация;
 
-- <span style="color:orange;">СЧИ</span> - система "человек - информация";
+- <span style="color:orange;font-weight: 900;">СЧИ</span> - система "человек - информация";
 
-- <span style="color:orange;">СЧИМ</span> - система "человек - информация - машина";
+- <span style="color:orange;font-weight: 900;">СЧИМ</span> - система "человек - информация - машина";
 
-- <span style="color:orange;">ЯзОД</span> - язык операторской деятельности.
+- <span style="color:orange;font-weight: 900;">ЯзОД</span> - язык операторской деятельности.
 
-# <center style="border: 2px solid orange;padding: 15px;border-radius: 5px;"> <span style="color:orange;">Способность осознавать подверженность когнитивным искажениям может быть полезным «мягким» навыком.</span></center>
+# <center style="border: 2px solid orange;padding: 15px;border-radius: 5px;"> <span style="color:orange;font-weight: 900;">Способность осознавать подверженность когнитивным искажениям может быть полезным «мягким» навыком.</span></center>
 <a target="blank" href="https://habr.com/ru/companies/otus/articles/793130/">
 <img style="border-radius:7.5px;" src="1.jpg"/>
  </a>
