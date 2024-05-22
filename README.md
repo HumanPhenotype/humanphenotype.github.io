@@ -12,7 +12,9 @@
 
 <center><img style="border-radius:10px;background:unset;" src="https://koronaebola.github.io/mir.jpg"/></center>
 <center style="border-radius: 10px;position: relative;top: -30px;">
+<a href="https://brainchop.org/">
   <img style="border-radius:10px;background:unset;" src="https://koronaebola.github.io/brainTempl.png"/>
+</a>
     <a href="https://www.youtube.com/@OlgaDemchuk/videos">
       <img style="border-radius:10px;background:unset;" src="https://humanphenotype.github.io/br000.png"/>
 </a></center>
