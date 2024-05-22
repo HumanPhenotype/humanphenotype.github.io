@@ -271,7 +271,7 @@ The use of these and previous/battlefield versions of these weapons on civilians
 
 - <span style="color:orange;font-weight: 900;">3.57</span> <span style="color:violet;font-weight: 600;">цефализация деятельности мозга:</span> Изменение мышления, мыслительной деятельности мозга оператора применением информационных воздействий на физиологическую структурно-организменную деятельность мозга для управления его информационно-интеллектуальной деятельностью.
 
-- <span style="color:orange;font-weight: 900;">3.58</span> <span style="color:violet;font-weight: 600;">человек-оператор СЧМ; оператор СЧМ:</span> Человек, осуществляющий трудовую деятельность, основу которой составляет взаимодействие с объектом воздействия, машиной и средой на рабочем месте при использовании информационной модели и органов управления.
+- <span style="color:orange;font-weight: 900;">3.58</span> <span style="color:violet;font-weight: 600;">человек-оператор <span style="color:violet;font-weight: 600;">СЧМ</span>; оператор <span style="color:violet;font-weight: 600;">СЧМ</span>: Человек, осуществляющий трудовую деятельность, основу которой составляет взаимодействие с объектом воздействия, машиной и средой на рабочем месте при использовании информационной модели и органов управления.
 
 ## <center> <span style="color:green;font-weight: 900;"> ГОСТ 26387-84</span>, <span style="color:violet;font-weight: 900;">статья 3</span> </center>
 
