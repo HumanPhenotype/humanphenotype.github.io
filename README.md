@@ -10,7 +10,7 @@
 <iframe style="width:100%;height:35vh;border:0;border-radius:10px;" src="https://www.youtube.com/embed/zDu9-qhbejA"></iframe>
 <center><img style="border-radius:10px;background:unset;" src="https://koronaebola.github.io/aw1.png"/></center>
 
-<iframe id="fr" src="https://tools.latticeautomation.com/seqviz/" style="width: 100%;height: 35vh;border: 0;"></iframe>
+
 
 <center><img style="border-radius:10px;background:unset;" src="https://koronaebola.github.io/mir.jpg"/></center>
 <center style="border-radius: 10px;position: relative;top: -30px;">
@@ -18,6 +18,7 @@
   <img style="border-radius:10px;background:unset;" src="https://koronaebola.github.io/brainTempl.png"/>
 </a>
 <iframe style="width:100%;height:35vh;border:0;border-radius:10px;" src="https://brainchop.org/"></iframe>
+<iframe id="fr" src="https://tools.latticeautomation.com/seqviz/" style="width: 100%;height: 35vh;border: 0;"></iframe>
     <a href="https://www.youtube.com/@OlgaDemchuk/videos">
       <img style="border-radius:10px;background:unset;" src="https://humanphenotype.github.io/br000.png"/>
 </a></center>
