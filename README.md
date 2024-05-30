@@ -18,7 +18,7 @@
 </a>
 <iframe style="width:100%;height:35vh;border:0;border-radius:10px;" src="https://brainchop.org/"></iframe>
 <iframe id="fr" src="https://tools.latticeautomation.com/seqviz/" style="width: 100%;height: 35vh;border: 0;"></iframe>
-<center><h2> >_ <span style="color:#fff244;font-weight: 900;"> [ Подсознание ]</span> - <span style="color:white;">это в первую очередь :<br> </span> <span style="color:violet;font-weight: 900;"> { </span> <span style="color:#fff244;font-weight: 900;">Рептильный мозг</span> и <span style="color:#fff244;font-weight: 900;">Лимбическая Система</span>: ЭМОЦИИ, ОБРАЗЫ, ВКУС, ЗВУК, ЗАПАХИ и ОЩУЩЕНИЯ <span style="color:violet;font-weight: 900;"> } </span> </h2></center>
+<center><h2> >_ <span style="color:#fff244;font-weight: 900;"> [ Подсознание ]</span> - <span style="color:white;">это в первую очередь :<br> </span> <span style="color:violet;font-weight: 900;"> { </span> <span style="color:#fff244;font-weight: 900;">Рептильный мозг</span> и <span style="color:#fff244;font-weight: 900;">Лимбическая Система</span> <span style="color:violet;font-weight: 900;"> } </span> : ЭМОЦИИ, ОБРАЗЫ, ВКУС, ЗВУК, ЗАПАХИ и ОЩУЩЕНИЯ </h2></center>
     <a href="https://www.youtube.com/@OlgaDemchuk/videos">
       <img style="border-radius:10px;background:unset;" src="https://humanphenotype.github.io/br000.png"/>
 </a></center>
