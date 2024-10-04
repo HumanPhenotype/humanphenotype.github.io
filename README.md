@@ -3,6 +3,7 @@
     ::-webkit-scrollbar{width:0px;}
    .markdown-body h2, h1 {border-bottom: 0px solid transparent;}.markdown-body h1 {border-bottom: 0px solid transparent;}
 </style>
+<img src="metod1.jpg"/> <img src="metod2.jpg"/>
 
 ## <a href="https://www.youtube.com/watch?v=cwH81E5_Rtg&list=PLEDX369m70iiVYjVtszu_0hRkZhkMX9GO"> <center style="border: 3.5px solid #012b44;padding: 15px;border-radius: 7px;background: #012b44;"> <span style="color:white;font-weight: 900;"> >_ КАРТЫ СМЫСЛА </span></center> </a>
 
