@@ -532,6 +532,6 @@ The use of these and previous/battlefield versions of these weapons on civilians
 <img style="border-radius:10px;background:unset;border: 3px solid orange;" alt="targeting" width="100%" src="https://koronaebola.github.io/g4.jpg"/>
 <img style="border-radius:10px;background:unset;border: 3px solid orange;" alt="targeting" width="100%" src="https://koronaebola.github.io/g5.jpg"/>
 
-<iframe style="width:100%;height:35vh;border:0;border-radius: 10px;" src="https://www.youtube.com/embed/Ag5CUsRNY9Q"></iframe>
-<iframe style="width:100%;height:35vh;border:0;border-radius: 10px;" src="https://www.youtube.com/embed/Bg-3wWTWdGs"></iframe>
-<iframe style="width:100%;height:35vh;border:0;border-radius: 10px;" src="https://www.youtube.com/embed/cIFPLRqvaQA"></iframe>
+<iframe style="width:100%;height:35vh;border:0;border-radius: 10px;" src="https://drive.google.com/file/d/10yGJJEC3obazkUHNnfuB1mlQuqHFH5XE/preview" allow="autoplay" loop"></iframe>
+<iframe style="width:100%;height:35vh;border:0;border-radius: 10px;" src="https://drive.google.com/file/d/1ixRD2XfHc9DjmxuhXEHilNvzmGJyQdWO/preview" allow="autoplay" loop"></iframe>
+<iframe style="width:100%;height:35vh;border:0;border-radius: 10px;" src="https://drive.google.com/file/d/1RhbwlDGPuVMMSrOFAU6bpqSmDOm8qIXt/preview" allow="autoplay" loop"></iframe>
