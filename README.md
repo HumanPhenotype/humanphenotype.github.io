@@ -534,7 +534,7 @@ The use of these and previous/battlefield versions of these weapons on civilians
 <!--
 <iframe style="width:100%;height:35vh;border:0;border-radius: 10px;" src="https://drive.google.com/file/d/10yGJJEC3obazkUHNnfuB1mlQuqHFH5XE/preview" allow="autoplay" loop"></iframe>
 -->
-<iframe style="width:100%;height:35vh;border:0;border-radius: 10px;" src="https://drive.google.com/file/d/10yGJJEC3obazkUHNnfuB1mlQuqHFH5XE/preview"></iframe>
+<iframe style="width:100%;height:35vh;border:0;border-radius: 10px;" src="https://drive.google.com/file/d/10yGJJEC3obazkUHNnfuB1mlQuqHFH5XE/preview" autoplay loop muted></iframe>
 
-<iframe style="width:100%;height:35vh;border:0;border-radius: 10px;" src="https://drive.google.com/file/d/1ixRD2XfHc9DjmxuhXEHilNvzmGJyQdWO/preview"></iframe>
-<iframe style="width:100%;height:35vh;border:0;border-radius: 10px;" src="https://drive.google.com/file/d/1RhbwlDGPuVMMSrOFAU6bpqSmDOm8qIXt/preview"></iframe>
+<iframe style="width:100%;height:35vh;border:0;border-radius: 10px;" src="https://drive.google.com/file/d/1ixRD2XfHc9DjmxuhXEHilNvzmGJyQdWO/preview" autoplay loop muted></iframe>
+<iframe style="width:100%;height:35vh;border:0;border-radius: 10px;" src="https://drive.google.com/file/d/1RhbwlDGPuVMMSrOFAU6bpqSmDOm8qIXt/preview" autoplay loop muted></iframe>
