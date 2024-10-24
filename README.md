@@ -57,9 +57,9 @@
 
 <center>
 
-## <a href="https://vk.com/s/v1/doc/ib9NLNF0zlYqpsy6hiKoFhRq35wtZONprwvylM2mrQ1MmBDfYek"> <center style="border: 3.5px solid #012b44;padding: 15px;border-radius: 7px;background: #012b44;"> <span style="color:white;font-weight: 900;"> >_ Украинская Трагедия: технологии сведения с ума</span></center> </a>
+<a href="https://vk.com/s/v1/doc/ib9NLNF0zlYqpsy6hiKoFhRq35wtZONprwvylM2mrQ1MmBDfYek"> <center style="font-size: 1.5em;border: 3.5px solid #012b44;padding: 15px;border-radius: 7px;background: #012b44;"> <span style="color:white;font-weight: 900;"> >_ Украинская Трагедия: технологии сведения с ума</span></center> </a>
 
-## <a href="https://vk.com/s/v1/doc/aMwr8uKVTrnALgfOhLVBfQWYQJyvOfkT3PmCnE0XfDq-95Ehb7M"> <center style="border: 3.5px solid #012b44;padding: 15px;border-radius: 7px;background: #012b44;"> <span style="color:white;font-weight: 900;"> >_ Когнитивная война:
+<a href="https://vk.com/s/v1/doc/aMwr8uKVTrnALgfOhLVBfQWYQJyvOfkT3PmCnE0XfDq-95Ehb7M"> <center style="font-size: 1.5em;border: 3.5px solid #012b44;padding: 15px;border-radius: 7px;background: #012b44;"> <span style="color:white;font-weight: 900;"> >_ Когнитивная война:
 Будущее когнитивного доминирования </span></center> </a>
 
 <img src="metod1.jpg" style="width: 49%;"> <img src="metod2.jpg" style="width: 49%;">
