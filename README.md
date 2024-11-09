@@ -135,6 +135,11 @@
 <img src="pdrc.jpg" alt="">
 ## <a target="blank" href="https://www.youtube.com/watch?v=BXNvKTtx1o4"> <center style="border: 2px solid rgb(3, 102, 214);padding: 15px;border-radius: 5px;font-weight: 900;"> <span> Современные методы слежки и контроля населения </span> </center> </a>
 
+
+
+
+## <center><span style="color:violet;font-weight: 900;"> - Синтетическая телепатия это Радио-Мозг-Компьютер-Интерфейс-Распознавание-Намерения-Кость-Проводимость (РМКИ-РНКП) </span></center>
+
 <div style="border: 3px solid violet;padding: 15px;border-radius: 7px;font-family: monospace;">
 - <span style="font-weight: 900;color: orange;"> Психотронное оружие</span> бездейственно, без <span style="font-weight: 900;color: orange;">Пси - оператор</span>а.<br>
 - <span style="font-weight: 900;color: orange;">Пси – оператор</span>, это агрессивно настроенный, сводящий с ума чужой поток сознания, навязываемый образ или «голос в голове» жертвы. Он может подавлять волю, терроризировать, давать определенные приказы. Может быть, как человеком, сидящим за специальной аппаратурой, так и группой людей, или специально созданной компьютерной программой.<br>
@@ -164,8 +169,6 @@
 - Вопросы <span style="font-weight: 900;color: orange;">воздействия на сознание и подсознание человека</span> издавна волновали людей во многих странах мира. Новые информационные технологии, средства массовой коммуникации многократно усилили возможности такого воздействия на психику человека, на большие группы людей и в целом население страны. Данные методы, которые рассматриваются в работе, опасны. Каждое государство старается снизить уровень психологического воздействия на население. В связи с этим разрабатывалось и применялось определенное нормативно - правовое регулирование.<br>
 </div>
 
-
-## <center><span style="color:violet;font-weight: 900;"> - Синтетическая телепатия это Радио-Мозг-Компьютер-Интерфейс-Распознавание-Намерения-Кость-Проводимость (РМКИ-РНКП) </span></center>
 <iframe style="width:100%;height:35vh;border:0;border-radius: 10px;" src="https://www.youtube.com/embed/RRbppibf_XE?si=RSWlBuFbG7afH0UD"></iframe>
 
 ## <center><span style="color:orange;font-weight: 900;"> - Synthetic Telepathy this is Radio-Brain-Computer-Interface-Recognition-Intents-Bone-Conduction (RBCI-RIBC) </span></center>
