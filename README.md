@@ -78,7 +78,7 @@
 <img src="metod1.jpg" style="width: 49%;"> <img src="metod2.jpg" style="width: 49%;">
 </center>
 
-## <a href="https://www.youtube.com/watch?v=cwH81E5_Rtg&list=PLEDX369m70iiVYjVtszu_0hRkZhkMX9GO"> <center style="border: 3.5px solid #012b44;padding: 15px;border-radius: 7px;background: #012b44;"> <span style="color:white;font-weight: 900;"> >_ КАРТЫ СМЫСЛА </span></center> </a>
+## <a href="https://www.youtube.com/watch?v=cwH81E5_Rtg&list=PLEDX369m70iiVYjVtszu_0hRkZhkMX9GO"> <center style="font-family: monospace;border: 3.5px solid #012b44;padding: 15px;border-radius: 7px;background: #012b44;"> <span style="color:white;font-weight: 900;"> >_ КАРТЫ СМЫСЛА </span></center> </a>
 
 <!-- ## <a href="https://drive.google.com/drive/folders/19jMAi35cRh827reofNy4cn32yjklQl90"> <center style="border: 3.5px solid #012b44;padding: 15px;border-radius: 7px;background: #012b44;"> <span style="color:white;font-weight: 900;"> >_ как привести себя в ресурсное состояние </span></center> </a> -->
 <iframe style="width:100%;height:35vh;border:0;border-radius:10px;" src="https://www.youtube.com/embed/zDu9-qhbejA"></iframe>
@@ -110,7 +110,7 @@
 </a>
 
 <a href="https://youtu.be/LGBhAXNG_ig"><img src="https://humanphenotype.github.io/sem.jpg"/></a>
-## <center style="border: 3px solid violet;padding: 15px;border-radius: 7px;">&nbsp;&nbsp;&nbsp;- <span style="color:green;font-weight: 600;">Cистема предрасположенностей</span>, которая сначала формируется у <span style="color:violet;font-weight: 600;">индивида</span> под влияем социальной <span style="color:green;font-weight: 600;">среды, в которой он живет</span>, а затем регулирует поведение индивида <span style="color:green;font-weight: 600;">без его сознательного участия</span>. </center>
+## <center style="border: 3px solid violet;padding: 15px;border-radius: 7px;font-family: monospace;">&nbsp;&nbsp;&nbsp;- <span style="color:green;font-weight: 600;">Cистема предрасположенностей</span>, которая сначала формируется у <span style="color:violet;font-weight: 600;">индивида</span> под влияем социальной <span style="color:green;font-weight: 600;">среды, в которой он живет</span>, а затем регулирует поведение индивида <span style="color:green;font-weight: 600;">без его сознательного участия</span>. </center>
 <img  style="border-radius:10px;background:unset;" src="https://humanphenotype.github.io/ga1.png" style="background-color:black;">  
 ## <span style="color:orange;font-weight: 600;"><a href="https://www.youtube.com/@teloschannel">СОЦИОЛОГИЯ</a> и ЭТОЛОГИЯ Человека</span> изучает поведение человека как результат взаимодействия биологических и социокультурных факторов. Она базируется на теоретических представлениях и методах, разработанных в этологии животных, и одновременно находится в тесной связи с гуманитарными дисциплинами.
 ## <span style="color:orange;font-weight: 600;">СОЦИОБИОЛО́ГИЯ</span> (<span style="color:green;font-weight: 600;">от лат. societas – об­ще­ст­во, био... и ...ло­гия</span>), на­прав­ле­ние в био­ло­гии, свя­зан­ное с изу­че­ни­ем всех форм со­ци­аль­но­го по­ве­де­ния жи­вых су­ществ, вклю­чая че­ло­ве­ка. С. опи­ра­ет­ся на дан­ные по­пу­ля­ци­он­ной ге­не­ти­ки, это­ло­гии, эко­ло­гии и эво­люц. тео­рии. С. че­ло­ве­ка ис­поль­зу­ет так­же дан­ные со­цио­ло­гии, со­ци­аль­ной пси­хо­ло­гии, ан­тро­по­ло­гии и эт­но­гра­фии. Цен­траль­ным для С. яв­ля­ет­ся по­ло­же­ние о ге­не­тич. де­тер­ми­ни­ро­ван­но­сти разл. ас­пек­тов по­ве­де­ния жи­вот­ных, вклю­чая фе­но­ме­ны со­ци­аль­но­го по­ве­де­ния.
@@ -119,11 +119,11 @@
 
 <iframe style="width:100%;height:35vh;border:0;border-radius: 10px;" src="https://www.youtube.com/embed/DBWSRTcTC5w?si=4UXVLUsSwWelobcl"></iframe>
 
-<div style="border:3px solid violet;padding:15px;border-radius:5px;margin-top:17px;margin-bottom:22px;">
+<div style="border:3px solid violet;padding:15px;border-radius:5px;margin-top:17px;margin-bottom:22px;    font-family: monospace;">
 <span style="color:orange;font-weight: 600;"><span style="color:green;font-weight: 600;">&nbsp;&nbsp;&nbsp;- Этология человека</span> изучает поведение человека как <span style="color:violet;font-weight: 600;">результат взаимодействия</span> <span style="color:green;font-weight: 600;">биологических и социокультурных</span> факторов</span> на основе представлений и методов общей этологии, <span style="color:green;font-weight: 600;">изучающей поведение животных. Поведение человека и животных имеет немало общего</span>, но этология человека не переносит на человеческое поведение особенности животных, а рассматривает его как уникальное существо. Этология человека – состоявшаяся научная дисциплина, которая исследует в своем ключе все поведение человека: <span style="color:orange;font-weight: 600;">поведение детей и родителей, агрессивное поведение и дружественное, этологию города и этологию искусства, общение без слов и со словами </span> и многое другое. </div>
 <iframe style="width:100%;height:35vh;border:0;border-radius: 10px;" src="https://www.youtube.com/embed/HZFNAuSyU6o?si=qlnA3T1_-nqXl2cG"></iframe>
 
-# <center style="border: 0px solid #0264d6;padding: 15px;border-radius: 7px;background: white;color: black;"> >_ <span style="font-weight:900;color:black;"><a style="color:black;" href="dark.html"> Синтетическая Телепатия </a></span> и <span style="color:green;font-weight:900;color:black;"><a style="color:black;" href="dark.html"> { Чёрная Психология }</a></span> </center>
+# <center style="    font-family: monospace;border: 0px solid #0264d6;padding: 15px;border-radius: 7px;background: white;color: black;"> >_ <span style="font-weight:900;color:black;"><a style="color:black;" href="dark.html"> Синтетическая Телепатия </a></span> и <span style="color:green;font-weight:900;color:black;"><a style="color:black;" href="dark.html"> { Чёрная Психология }</a></span> </center>
 
 <center><a style="color:black;border-radius:5px;" href="dark.html"><img style="color:black;border-radius:5px;" src="https://koronaebola.github.io/triada.jpg"/></a></center>
 <div><a style="color:black;" href="dark.html"><img src="https://humanphenotype.github.io/tp.jpg"/></a></div>
@@ -133,12 +133,12 @@
 </a>
 
 <img src="pdrc.jpg" alt="">
-## <a target="blank" href="https://www.youtube.com/watch?v=BXNvKTtx1o4"> <center style="border: 2px solid rgb(3, 102, 214);padding: 15px;border-radius: 5px;font-weight: 900;"> <span> Современные методы слежки и контроля населения </span> </center> </a>
+## <a target="blank" href="https://www.youtube.com/watch?v=BXNvKTtx1o4"> <center style="border: 2px solid rgb(3, 102, 214);padding: 15px;border-radius: 5px;font-weight: 900;    font-family: monospace;"> <span> Современные методы слежки и контроля населения </span> </center> </a>
 
 
 
 
-## <center><span style="color:violet;font-weight: 900;"> - Синтетическая телепатия это Радио-Мозг-Компьютер-Интерфейс-Распознавание-Намерения-Кость-Проводимость (РМКИ-РНКП) </span></center>
+## <center><span style="color:violet;font-weight: 900;    font-family: monospace;"> - Синтетическая телепатия это Радио-Мозг-Компьютер-Интерфейс-Распознавание-Намерения-Кость-Проводимость (РМКИ-РНКП) </span></center>
 
 <div style="border: 3px solid violet;padding: 15px;border-radius: 7px;font-family: monospace;">
 - <span style="font-weight: 900;color: orange;"> Психотронное оружие</span> бездейственно, без <span style="font-weight: 900;color: orange;">Пси - оператор</span>а.<br>
@@ -231,7 +231,7 @@ The use of these and previous/battlefield versions of these weapons on civilians
   </a>
 </div>
 
-# <center style="border: 2px solid orange;padding: 15px;border-radius: 5px;"><span style="color:orange;font-weight: 900;">Depending on the level of competence of the operator, people may not notice him at all all their lives</span></center>
+# <center style="border: 2px solid orange;padding: 15px;border-radius: 5px;"><span style="color:orange;font-weight: 900;    font-family: monospace;">Depending on the level of competence of the operator, people may not notice him at all all their lives</span></center>
 
 <div>
     <img style="border-radius: 8px;border: 3px solid orange;" alt="targeting" width="100%" src="https://koronaebola.github.io/bio2.jpg">
@@ -239,9 +239,9 @@ The use of these and previous/battlefield versions of these weapons on civilians
 
 
 
-# <center style="border: 2px solid orange;padding: 15px;border-radius: 5px;"><span style="color:orange;font-weight: 900;">В зависимости от уровня компетентности оператора люди всю жизнь могут вообще его не замечать</span></center>
+# <center style="border: 2px solid orange;padding: 15px;border-radius: 5px;"><span style="color:orange;font-weight: 900;    font-family: monospace;">В зависимости от уровня компетентности оператора люди всю жизнь могут вообще его не замечать</span></center>
 
-<div style="border: 3px solid violet;padding: 15px;border-radius: 7px;">
+<div style="border: 3px solid violet;padding: 15px;border-radius: 7px;    font-family: monospace;">
 <span>•</span> <span style="color:orange;">разрушение</span> <span style="color:green;">доверительных отношений</span> <span style="color:violet;">с родственниками</span> <br>
 <span>•</span> <span style="color:orange;">расстройство</span> памяти <br>
 <span>•</span> <span style="color:orange;">внедрение</span> <span style="color:violet;">ложных</span> <span style="color:green;">воспоминаний</span> <br>
@@ -258,7 +258,7 @@ The use of these and previous/battlefield versions of these weapons on civilians
     <img style="border-radius:8px;" alt="targeting" width="100%" src="https://koronaebola.github.io/neurofeedback.png">
 </div>
 
-## <center  style="font-weight: 900;">Термины и определения</center>
+## <center  style="font-weight: 900;    font-family: monospace;">Термины и определения</center>
 
 - <span style="color:orange;font-weight: 900;">3.1</span> <span style="color:violet;font-weight: 600;">абдукативные решения:</span> Решения, принимаемые оператором по предварительно оцененной (<span style="color:green;font-weight: 600;">с фиксацией следствий</span>) информации на основе приобретенных ранее знаний.
 
