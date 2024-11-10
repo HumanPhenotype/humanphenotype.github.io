@@ -110,16 +110,17 @@
 </a>
 
 <a href="https://youtu.be/LGBhAXNG_ig"><img src="https://humanphenotype.github.io/sem.jpg"/></a>
-## <center style="border: 3px solid violet;padding: 15px;border-radius: 7px;font-family: monospace;">&nbsp;&nbsp;&nbsp;- <span style="color:green;font-weight: 600;">Cистема предрасположенностей</span>, которая сначала формируется у <span style="color:violet;font-weight: 600;">индивида</span> под влияем социальной <span style="color:green;font-weight: 600;">среды, в которой он живет</span>, а затем регулирует поведение индивида <span style="color:green;font-weight: 600;">без его сознательного участия</span>. </center>
+## <center style="border: 3px solid violet;padding: 15px;border-radius: 7px;font-family: monospace;font-size: 1.5em;">&nbsp;&nbsp;&nbsp;- <span style="color:green;font-weight: 600;">Cистема предрасположенностей</span>, которая сначала формируется у <span style="color:violet;font-weight: 600;">индивида</span> под влияем социальной <span style="color:green;font-weight: 600;">среды, в которой он живет</span>, а затем регулирует поведение индивида <span style="color:green;font-weight: 600;">без его сознательного участия</span>. </center>
 <img  style="border-radius:10px;background:unset;" src="https://humanphenotype.github.io/ga1.png" style="background-color:black;">  
+<span style="font-size: 1.5em;">
 ## <span style="color:orange;font-weight: 600;"><a href="https://www.youtube.com/@teloschannel">СОЦИОЛОГИЯ</a> и ЭТОЛОГИЯ Человека</span> изучает поведение человека как результат взаимодействия биологических и социокультурных факторов. Она базируется на теоретических представлениях и методах, разработанных в этологии животных, и одновременно находится в тесной связи с гуманитарными дисциплинами.
 ## <span style="color:orange;font-weight: 600;">СОЦИОБИОЛО́ГИЯ</span> (<span style="color:green;font-weight: 600;">от лат. societas – об­ще­ст­во, био... и ...ло­гия</span>), на­прав­ле­ние в био­ло­гии, свя­зан­ное с изу­че­ни­ем всех форм со­ци­аль­но­го по­ве­де­ния жи­вых су­ществ, вклю­чая че­ло­ве­ка. С. опи­ра­ет­ся на дан­ные по­пу­ля­ци­он­ной ге­не­ти­ки, это­ло­гии, эко­ло­гии и эво­люц. тео­рии. С. че­ло­ве­ка ис­поль­зу­ет так­же дан­ные со­цио­ло­гии, со­ци­аль­ной пси­хо­ло­гии, ан­тро­по­ло­гии и эт­но­гра­фии. Цен­траль­ным для С. яв­ля­ет­ся по­ло­же­ние о ге­не­тич. де­тер­ми­ни­ро­ван­но­сти разл. ас­пек­тов по­ве­де­ния жи­вот­ных, вклю­чая фе­но­ме­ны со­ци­аль­но­го по­ве­де­ния.
-
+</span>
 
 
 <iframe style="width:100%;height:35vh;border:0;border-radius: 10px;" src="https://www.youtube.com/embed/DBWSRTcTC5w?si=4UXVLUsSwWelobcl"></iframe>
 
-<div style="border:3px solid violet;padding:15px;border-radius:5px;margin-top:17px;margin-bottom:22px;    font-family: monospace;">
+<div style="border:3px solid violet;padding:15px;border-radius:5px;margin-top:17px;margin-bottom:22px; font-size: 1.5em;font-family: monospace;">
 <span style="color:orange;font-weight: 600;"><span style="color:green;font-weight: 600;">&nbsp;&nbsp;&nbsp;- Этология человека</span> изучает поведение человека как <span style="color:violet;font-weight: 600;">результат взаимодействия</span> <span style="color:green;font-weight: 600;">биологических и социокультурных</span> факторов</span> на основе представлений и методов общей этологии, <span style="color:green;font-weight: 600;">изучающей поведение животных. Поведение человека и животных имеет немало общего</span>, но этология человека не переносит на человеческое поведение особенности животных, а рассматривает его как уникальное существо. Этология человека – состоявшаяся научная дисциплина, которая исследует в своем ключе все поведение человека: <span style="color:orange;font-weight: 600;">поведение детей и родителей, агрессивное поведение и дружественное, этологию города и этологию искусства, общение без слов и со словами </span> и многое другое. </div>
 <iframe style="width:100%;height:35vh;border:0;border-radius: 10px;" src="https://www.youtube.com/embed/HZFNAuSyU6o?si=qlnA3T1_-nqXl2cG"></iframe>
 
