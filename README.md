@@ -140,7 +140,7 @@
 
 ## <center><span style="color:violet;font-weight: 900;    font-family: monospace;"> - Синтетическая телепатия это Радио-Мозг-Компьютер-Интерфейс-Распознавание-Намерения-Кость-Проводимость (РМКИ-РНКП) </span></center>
 
-<div style="border: 3px solid violet;padding: 15px;border-radius: 7px;font-family: monospace;">
+<div style="border: 3px solid violet;padding: 15px;border-radius: 7px;font-family: monospace;font-size: 1.5em;">
 - <span style="font-weight: 900;color: orange;"> Психотронное оружие</span> бездейственно, без <span style="font-weight: 900;color: orange;">Пси - оператор</span>а.<br>
 - <span style="font-weight: 900;color: orange;">Пси – оператор</span>, это агрессивно настроенный, сводящий с ума чужой поток сознания, навязываемый образ или «голос в голове» жертвы. Он может подавлять волю, терроризировать, давать определенные приказы. Может быть, как человеком, сидящим за специальной аппаратурой, так и группой людей, или специально созданной компьютерной программой.<br>
 
