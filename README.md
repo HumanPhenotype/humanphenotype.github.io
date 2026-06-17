@@ -468,7 +468,7 @@ The use of these and previous/battlefield versions of these weapons on civilians
 
 ### <center><span style="color:green;">Механизмы и методы контроля</span> </center>
 
-1.<span style="color:green;"> Психологические приемы</span>
+<span style="color:green;">1. Психологические приемы</span>
 
 Психологические методы контроля сознания основаны на знании особенностей человеческой психики и включают в себя различные техники убеждения, манипуляции и внушения.
 
@@ -480,7 +480,7 @@ The use of these and previous/battlefield versions of these weapons on civilians
 
 - <span style="color:orange;">НЛП (нейролингвистическое программирование), методика, направленная на изменение мышления и поведения через работу с языковыми моделями и установками.</span>
 
-2. <span style="color:green;">Фармакологические воздействия</span>
+<span style="color:green;">2. Фармакологические воздействия</span>
 
 Контроль над сознанием может осуществляться и с помощью различных веществ, влияющих на нейрохимические процессы в мозге:
 
@@ -490,7 +490,7 @@ The use of these and previous/battlefield versions of these weapons on civilians
 
 - <span style="color:orange;">Ноотропы и умные наркотики, улучшающие когнитивные функции, такие как память, концентрация и скорость обработки информации.</span>
 
-3. <span style="color:green;">Технологические методы </span>
+<span style="color:green;">3. Технологические методы </span>
 
 Развитие технологий, в частности нейротехнологий, открывает новые возможности для влияния на сознание:
 
