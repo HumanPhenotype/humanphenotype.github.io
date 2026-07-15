@@ -511,7 +511,7 @@ The use of these and previous/battlefield versions of these weapons on civilians
 <span style="color:orange;font-weight: 600;">- Религиозные, </span> <br>
 <span style="color:orange;font-weight: 600;">- Культурные, </span> <br>
 <span style="color:orange;font-weight: 600;">- Этнические и гендерные предпочтения и убеждения, служащие основой общей самоидентификации группы. </span>
- 
+
 Необходимым условием <span style="color:violet;font-weight:600;">манипуляции</span> служит <span style="color:violet;font-weight:600;">присутствие образа врага, организующего толпу как целое</span>.
 Легендарный крик толпы: <span style="color:violet;font-weight:600;">«Распни Его!»</span> — служит древнейшим свидетельством формирования <span style="color:violet;font-weight:600;">управляемой толпы</span> на основе религиозных установок и яркого <span style="color:violet;font-weight:600;">образа врага</span>.
 Формирование <span style="color:violet;font-weight:600;">управляемой толпы</span> посредством серии <span style="color:violet;font-weight:600;">манипуляций</span> становится <span style="color:violet;font-weight:600;">ключевым инструментом процесса</span> легитимизации и делегитимизации <span style="color:violet;font-weight:600;">властных институтов</span> в современном мире.
@@ -526,7 +526,8 @@ The use of these and previous/battlefield versions of these weapons on civilians
 - <span style="color:orange;font-weight: 600;">Непредсказуемая обстановка</span>, когда невозможно что-либо планировать, заставляет действовать строго по инструкции, исключая любую инициативу. Люди начинают верить, что от них ничего не зависит. Полное отсутствие контроля над собственной жизнью разрушает личность;<br>
 - <span style="color:orange;font-weight: 600;">Поощрение безразличия</span>, когда хвалят за то, что человек отворачивается или молча проходит мимо несправедливости, делая вид, что ничего не видит и не слышит;<br>
 - <span style="color:orange;font-weight: 600;">Слом последних морально-нравственных принципов</span>, так называемой последней черты.
-     <center><img src="с.jpg" style="background-color:black;"></center>
+  <center><img src="с.jpg" style="background-color:black;"></center>
+
 ## <a href="https://opentextnn.ru/old/man/index.html@id=4019"> <center style="border: 2px solid rgb(3, 102, 214);padding: 15px;border-radius: 5px;"> Беттельгейм Бруно. Просвещенное сердце (Ссылка) </center> </a>
 <a href="https://www.youtube.com/watch?v=NH6bII-NQWI"> <img style="border-radius:10px;background:unset;" src="44.jpg"/>  </a>
 
@@ -540,11 +541,11 @@ The use of these and previous/battlefield versions of these weapons on civilians
 
 <span style="color:orange;font-weight: 600;">- Патент США </span> <span style="color:violet;font-weight: 600;">6587729 </span>
 <span style="color: #4CAF50;font-weight: 600;">«Устройство для звуковой передачи речи с использованием радиочастотного слухового эффекта»,</span> <br>
-<span style="color:orange;font-weight: 600;">- Патент США </span> <span style="color:violet;font-weight: 600;">5159703 </span> 
+<span style="color:orange;font-weight: 600;">- Патент США </span> <span style="color:violet;font-weight: 600;">5159703 </span>
 <span style="color: #4CAF50;font-weight: 600;">«Система бесшумной подсознательной презентации»,</span> <br>
-<span style="color:orange;font-weight: 600;">- Патент США </span> <span style="color:violet;font-weight: 600;">6011991 </span> 
+<span style="color:orange;font-weight: 600;">- Патент США </span> <span style="color:violet;font-weight: 600;">6011991 </span>
 <span style="color: #4CAF50;font-weight: 600;">«Коммуникационная система и способ, включающий анализ мозговых волн и/или использование мозговой активности»,</span> <br>
-<span style="color:orange;font-weight: 600;">- Патент США </span> <span style="color:violet;font-weight: 600;">3951134 </span> 
+<span style="color:orange;font-weight: 600;">- Патент США </span> <span style="color:violet;font-weight: 600;">3951134 </span>
 <span style="color: #4CAF50;font-weight: 600;">«Устройство и способ дистанционного мониторинга и изменения мозговых волн».</span> <br>
 
 <span style="color:orange;">&nbsp;&nbsp;&nbsp;Бесшумный речевой интерфейс</span> — это устройство, которое позволяет осуществлять речевое общение без использования звука, издаваемого людьми при озвучивании звуков своей речи. Таким образом, это своего рода электронное чтение по губам . Он работает за счет того, что компьютер идентифицирует фонемы , которые человек произносит, из неслуховых <span style="color:orange;">источников информации</span> об их речевых движениях. Затем они используются для воссоздания речи с помощью синтеза речи.
