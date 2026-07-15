@@ -1,7 +1,8 @@
 <style> <br> 
 body{background-color: black;color: white;} <br>
-            ::-webkit-scrollbar{width:0px;} <br>.markdown-body h2, h1 {border-bottom: 0px solid transparent;} <br>
-   .markdown-body h1 {border-bottom: 0px solid transparent;} <br>
+            ::-webkit-scrollbar{width:0px;} <br>
+.markdown-body h2, h1 {border-bottom: 0px solid transparent;} <br>
+    .markdown-body h1 {border-bottom: 0px solid transparent;}
 </style>
 
 ## <center  style="font-weight: 900;font-family: monospace;">Когнитивные войны — это концепция, связанная с использованием психологических и когнитивных методов воздействия на общественное мнение, поведение и восприятие людей с целью достижения политических, военных или экономических целей. Эти войны сосредоточены на воздействии на человеческий разум, используя информацию и психологические механизмы. Вот некоторые из ключевых техник когнитивных войн:<br></center>
