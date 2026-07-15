@@ -1,7 +1,6 @@
-<style>  
+<style> <br> 
 body{background-color: black;color: white;} <br>
-            ::-webkit-scrollbar{width:0px;} <br>
-   .markdown-body h2, h1 {border-bottom: 0px solid transparent;} <br>
+            ::-webkit-scrollbar{width:0px;} <br>.markdown-body h2, h1 {border-bottom: 0px solid transparent;} <br>
    .markdown-body h1 {border-bottom: 0px solid transparent;} <br>
 </style>
 
