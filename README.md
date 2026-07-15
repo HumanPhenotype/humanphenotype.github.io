@@ -2,11 +2,11 @@
 body{background-color: black;color: white;} <br>
             ::-webkit-scrollbar{width:0px;} <br>
 .markdown-body h2, h1 {border-bottom: 0px solid transparent;} <br>
-    .markdown-body h1 {border-bottom: 0px solid transparent;}
+    .markdown-body h1 {border-bottom: 0px solid transparent;} <br>
 </style>
 
-## <center  style="font-weight: 900;font-family: monospace;">Когнитивные войны — это концепция, связанная с использованием психологических и когнитивных методов воздействия на общественное мнение, поведение и восприятие людей с целью достижения политических, военных или экономических целей. Эти войны сосредоточены на воздействии на человеческий разум, используя информацию и психологические механизмы. Вот некоторые из ключевых техник когнитивных войн:<br></center>
-&nbsp;&nbsp;&nbsp;&nbsp;Основные аспекты чёрной психологии ->
+## <center  style="font-weight: 900;font-family: monospace;"> Когнитивные войны — это концепция, связанная с использованием психологических и когнитивных методов воздействия на общественное мнение, поведение и восприятие людей с целью достижения политических, военных или экономических целей. Эти войны сосредоточены на воздействии на человеческий разум, используя информацию и психологические механизмы. Вот некоторые из ключевых техник когнитивных войн:<br></center>
+&nbsp;&nbsp;&nbsp;&nbsp; Основные аспекты чёрной психологии ->
 { Техники манипуляции }
 
 - Использование страха, вины и других эмоций для контроля над поведением.
@@ -136,9 +136,6 @@ body{background-color: black;color: white;} <br>
 <img src="pdrc.jpg" alt="">
 ## <a target="blank" href="https://www.youtube.com/watch?v=BXNvKTtx1o4"> <center style="border: 2px solid rgb(3, 102, 214);padding: 15px;border-radius: 5px;font-weight: 900;    font-family: monospace;"> <span> Современные методы слежки и контроля населения </span> </center> </a>
 
-
-
-
 ## <center><span style="color:violet;font-weight: 900;    font-family: monospace;"> - Синтетическая телепатия это Радио-Мозг-Компьютер-Интерфейс-Распознавание-Намерения-Кость-Проводимость (РМКИ-РНКП) </span></center>
 
 <div style="border: 3px solid violet;padding: 15px;border-radius: 7px;font-family: monospace;font-size: 1.5em;">
@@ -237,8 +234,6 @@ The use of these and previous/battlefield versions of these weapons on civilians
 <div>
     <img style="border-radius: 8px;border: 3px solid orange;" alt="targeting" width="100%" src="https://koronaebola.github.io/bio2.jpg">
 </div>
-
-
 
 # <center style="border: 2px solid orange;padding: 15px;border-radius: 5px;"><span style="color:orange;font-weight: 900;    font-family: monospace;">В зависимости от уровня компетентности оператора люди всю жизнь могут вообще его не замечать</span></center>
 
@@ -504,8 +499,6 @@ The use of these and previous/battlefield versions of these weapons on civilians
 
 Использование методов контроля над сознанием неизбежно сталкивается с этическими вопросами. С одной стороны, такие методы могут быть использованы для лечения психических расстройств, реабилитации после травм или улучшения качества жизни. С другой стороны, существует риск злоупотребления, когда контроль над сознанием может применяться для манипуляции, принуждения или даже для создания условий, при которых человек теряет способность к самостоятельному принятию решений.
 
-
-
 ## <center> <span style="color:green;">Манипулятор для управления толпой использует</span> </center>
 <span style="color:orange;font-weight: 600;">- Социальные, </span> <br>
 <span style="color:orange;font-weight: 600;">- Религиозные, </span> <br>
@@ -582,11 +575,11 @@ The use of these and previous/battlefield versions of these weapons on civilians
 ### - По характеру учебно-познавательной деятельности: <br> <span style="color:orange;font-weight: 600;"> объяснительно-иллюстративный, репродуктивный, метод проблемного изложения, частично-поисковый, исследовательский. </span>
 ---
 
-### <span style="color: #4CAF50;font-weight: 600;"> &nbsp;&nbsp;&nbsp; Образец поведения:</span> Cамостоятельно демонстрировать требуемые характеристики, будучи примером для окружающих. Люди имеют тенденцию следовать за образцами, поэтому увидев желаемые качества у героев, они могут постепенно начать принимать их.<br>
-<span style="color: #4CAF50;font-weight: 600;"> &nbsp;&nbsp;&nbsp; Поддержка и поощрение:</span> Поддерживать и поощрять других, когда они проявляют желаемые характеристики. Позитивное подкрепление может стимулировать людей к развитию и усовершенствованию своих навыков и качеств.<br>
-<span style="color: #4CAF50;font-weight: 600;"> &nbsp;&nbsp;&nbsp; Обучение и тренировка:</span> Проводить обучающие сессии, тренинги или мастер-классы, чтобы помочь другим освоить необходимые навыки и навыки. Практика и повторение играют важную роль в формировании новых характеристик.<br>
-<span style="color: #4CAF50;font-weight: 600;"> &nbsp;&nbsp;&nbsp; Эмоциональная поддержка:</span> Устанавливать эмоциональную связь с другими людьми, поддерживая их в трудные моменты, инспирируя и мотивируя. Чувство поддержки и понимания может помочь людям развить желаемые качества.<br>
-<span style="color: #4CAF50;font-weight: 600;"> &nbsp;&nbsp;&nbsp; Установление целей:</span> Помогать другим установить четкие и достижимые цели для развития необходимых характеристик.<br>
+### <span style="color: #4CAF50;font-weight: 600;"> &nbsp;&nbsp;&nbsp; Образец поведения:</span> Cамостоятельно демонстрировать требуемые характеристики, будучи примером для окружающих. Люди имеют тенденцию следовать за образцами, поэтому увидев желаемые качества у героев, они могут постепенно начать принимать их. <br>
+<span style="color: #4CAF50;font-weight: 600;"> &nbsp;&nbsp;&nbsp; Поддержка и поощрение:</span> Поддерживать и поощрять других, когда они проявляют желаемые характеристики. Позитивное подкрепление может стимулировать людей к развитию и усовершенствованию своих навыков и качеств. <br>
+<span style="color: #4CAF50;font-weight: 600;"> &nbsp;&nbsp;&nbsp; Обучение и тренировка:</span> Проводить обучающие сессии, тренинги или мастер-классы, чтобы помочь другим освоить необходимые навыки и навыки. Практика и повторение играют важную роль в формировании новых характеристик. <br>
+<span style="color: #4CAF50;font-weight: 600;"> &nbsp;&nbsp;&nbsp; Эмоциональная поддержка:</span> Устанавливать эмоциональную связь с другими людьми, поддерживая их в трудные моменты, инспирируя и мотивируя. Чувство поддержки и понимания может помочь людям развить желаемые качества. <br>
+<span style="color: #4CAF50;font-weight: 600;"> &nbsp;&nbsp;&nbsp; Установление целей:</span> Помогать другим установить четкие и достижимые цели для развития необходимых характеристик. <br>
 Четкое направление и план действий могут помочь людям ориентироваться и двигаться вперед.
 
 # <span style="color:orange;font-weight: 600;"> &nbsp;&nbsp;&nbsp; Анализ данных:</span> данные из социальных сетей, умных устройств и биометрической информации для составления психологического портрета клиента.
@@ -636,9 +629,9 @@ The use of these and previous/battlefield versions of these weapons on civilians
 <img style="border-radius:10px;background:unset;border: 3px solid orange;" alt="targeting" width="100%" src="https://koronaebola.github.io/g3.jpg"/>
 <img style="border-radius:10px;background:unset;border: 3px solid orange;" alt="targeting" width="100%" src="https://koronaebola.github.io/g4.jpg"/>
 <img style="border-radius:10px;background:unset;border: 3px solid orange;" alt="targeting" width="100%" src="https://koronaebola.github.io/g5.jpg"/>
-<!--
-<iframe style="width:100%;height:35vh;border:0;border-radius: 10px;" src="https://drive.google.com/file/d/10yGJJEC3obazkUHNnfuB1mlQuqHFH5XE/preview" allow="autoplay" loop"></iframe>
--->
+
 <iframe style="width:100%;height:35vh;border:0;border-radius: 10px;" src="https://drive.google.com/file/d/10yGJJEC3obazkUHNnfuB1mlQuqHFH5XE/preview" autoplay loop muted></iframe>
 <iframe style="width:100%;height:35vh;border:0;border-radius: 10px;" src="https://drive.google.com/file/d/1ixRD2XfHc9DjmxuhXEHilNvzmGJyQdWO/preview" autoplay loop muted></iframe>
 <iframe style="width:100%;height:35vh;border:0;border-radius: 10px;" src="https://drive.google.com/file/d/1RhbwlDGPuVMMSrOFAU6bpqSmDOm8qIXt/preview" autoplay loop muted></iframe>
+
+<!-- <iframe style="width:100%;height:35vh;border:0;border-radius: 10px;" src="https://drive.google.com/file/d/10yGJJEC3obazkUHNnfuB1mlQuqHFH5XE/preview" allow="autoplay" loop"></iframe> -->
